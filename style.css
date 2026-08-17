@@ -83,3 +83,12 @@ h1 {
 .noticia a:hover {
   text-decoration: underline;
 }
+
+footer {
+  margin-top: 24px;
+  padding-top: 24px;
+  border-top: 1px solid #2a333d;
+  color: #8993a1;
+  font-size: 12px;
+}
+
