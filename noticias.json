@@ -1,23 +1,215 @@
 {
-  "atualizadoEm": "2026-08-17T11:15:00",
+  "atualizadoEm": "2026-08-21T08:16:30.981758",
   "itens": [
     {
-      "categoria": "Tecnologia",
-      "titulo": "Título da primeira notícia vai aqui",
-      "resumo": "Um resumo curto explicando do que se trata essa notícia.",
-      "link": "#"
+      "categoria": "Geral",
+      "titulo": "Mulher é presa por suspeita de furtar lojas em Resende",
+      "resumo": "Mulher é presa por suspeita de furtar lojas em Resende\nDivulgação/Polícia Civil\nUma mulher, de 46 anos, suspeita de praticar furtos em estabelecimentos comerciais foi presa na quinta-feira (20) em Res",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/21/mulher-e-presa-por-suspeita-de-furtar-lojas-em-resende.ghtml",
+      "fonte": "G1"
     },
     {
-      "categoria": "Economia",
-      "titulo": "Título da segunda notícia vai aqui",
-      "resumo": "Outro resumo curto de exemplo.",
-      "link": "#"
+      "categoria": "Geral",
+      "titulo": "Mega-Sena 3047: 11 apostas do interior de PE acertam números, confira resultados",
+      "resumo": "G1 | Loterias - Mega-Sena 3047\n11 apostas do interior de Pernambuco acertaram números no concurso 3047 da Mega-Sena. O sorteio foi realizado na noite da quinta-feira (20), em São Paulo. Nenhuma aposta",
+      "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/08/21/mega-sena-3047-11-apostas-do-interior-de-pe-acertam-numeros-confira-resultados.ghtml",
+      "fonte": "G1"
     },
     {
-      "categoria": "Esportes",
-      "titulo": "Título da terceira notícia vai aqui",
-      "resumo": "Mais um resumo de teste.",
-      "link": "#"
+      "categoria": "Geral",
+      "titulo": "Incêndio atinge empresa de alumínio e ferro em Taboão da Serra, na Grande SP",
+      "resumo": "Incêndio atinge empresa de alumínio e ferro em Taboão da Serra, na Grande SP\nUm incêndio atingiu uma empresa de alumínio e ferro na madrugada desta sexta-feira (21), no Jardim das Oliveiras, em Taboão",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/21/incendio-atinge-empresa-de-aluminio-e-ferro-em-taboao-da-serra-na-grande-sp.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Motorista cai no choro ao descobrir carro destruído por incêndio durante a madrugada, na Zona Sul de SP, e é consolado pela mãe",
+      "resumo": "Motorista cai no choro ao descobrir carro destruído por incêndio na Zona Sul de SP\nUma cena comovente chamou a atenção na manhã desta sexta-feira (21), na Zona Sul de São Paulo, onde um incêndio ating",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/21/motorista-cai-no-choro-ao-descobrir-carro-destruido-por-incendio-durante-a-madrugada-na-zona-sul-de-sp-e-e-consolado-pela-mae.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Balcão de Direitos oferece atendimento gratuito e emissão de documentos em Mojuí dos Campos",
+      "resumo": "Balcão de Direitos oferece atendimento gratuito e emissão de documentos em Mojuí dos Campos\nAgência Santarém\nMoradores de Mojuí dos Campos, no oeste do Pará, terão acesso a uma série de serviços gratu",
+      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/08/21/balcao-de-direitos-oferece-atendimento-gratuito-e-emissao-de-documentos-em-mojui-dos-campos.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Agenda cultural: shows, feira, humor e carros antigos movimentam o fim de semana no Amazonas",
+      "resumo": "Humorista Willian de Oliveira apresenta espetáculo na Arena Amadeu Teixeira, em Manaus, no sábado (22).\nDivulgação\nManaus terá uma programação diversificada neste fim de semana. Entre sexta-feira (21)",
+      "link": "https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/08/21/agenda-cultural-shows-feira-humor-e-carros-antigos-movimentam-o-fim-de-semana-no-amazonas.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Criança indígena de 4 anos morre após acidente no interior do MA; condutor não tinha CNH",
+      "resumo": "Criança indígena de 4 anos morre após acidente no interior do MA; condutor não tinha CNH\nDivulgação/Polícia Civil do Maranhão\nUma criança indígena de 4 anos morreu após um acidente de trânsito na quin",
+      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/08/21/crianca-indigena-morre-apos-acidente-no-interior-do-ma-condutor-nao-tinha-cnh.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Justiça de Alagoas concede habeas corpus a influenciador PTK e impõe medidas cautelares",
+      "resumo": "Justiça concedeu habeas corpus ao influenciador PTK\nReprodução/Redes sociais\nA Justiça de Alagoas concedeu, na quarta-feira (19), o habeas corpus ao influenciador digital Patrick de Almeida Silva, o P",
+      "link": "https://g1.globo.com/al/alagoas/noticia/2026/08/21/justica-de-alagoas-concede-habeas-corpus-a-influenciador-ptk-e-impoe-medidas-cautelares.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Casal é preso por tráfico de drogas durante operação contra organização criminosa em Feira de Santana",
+      "resumo": "Casal foi preso por tráfico de drogas durante operação em Feira de Santana\nAscom | PC-BA\nUm casal foi preso em flagrante durante a Operação Redenção, deflagrada pela Polícia Civil na manhã desta sexta",
+      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/21/operacao-rendencao-bahia.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "PMs são suspeitos de extorsão e tortura contra mulheres",
+      "resumo": "Dois policiais militares são suspeitos de extorsão e tortura contra duas mulheres. Os mandatos de prisão estão sendo cumpridos durante uma operação realizada nesta sexta-feira (21), em Goiânia, confor",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/08/21/pms-sao-suspeitos-de-extorsao-e-tortura-contra-mulheres.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Investigações contra Lulinha devem continuar no STF?",
+      "resumo": "PGR solicitou que inquéritos relatados por André Mendonça sejam enviados para a primeira instância; na visão de advogado criminalista e professor de Direito, pedido 'chama atenção' e é 'atípico'.",
+      "link": "https://www.bbc.com/portuguese/articles/cqjx5zp427go?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "El Niño deverá ser o mais forte 'de que se tem lembrança', diz serviço meteorológico britânico",
+      "resumo": "Cientistas afirmam que fenômeno climático deverá ser ocorrência 'sem precedentes'; 2027 provavelmente será o ano mais quente já registrado no mundo.",
+      "link": "https://www.bbc.com/portuguese/articles/crl7gdjp6rzo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Como julgamento de uma mãe acusada de matar os 3 filhos impulsiona o debate sobre psicose pós-parto",
+      "resumo": "A psicose pós-parto é uma emergência psiquiátrica que pode provocar episódios de mania ou depressão, além de alucinações e delírios",
+      "link": "https://www.bbc.com/portuguese/articles/c8rn7x81px5o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "O vendedor de carros da Bélgica que se tornou príncipe após ter parentesco com a família real confirmado",
+      "resumo": "Clément Vandenkerckhove foi discretamente acolhido na família do príncipe Laurent, irmão do rei Philippe da Bélgica, durante uma cerimônia em uma prefeitura",
+      "link": "https://www.bbc.com/portuguese/articles/c1l104vg8vgo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "'Minha prioridade era tirar as crianças dali': a história de uma das imagens mais comoventes do terremoto na Colômbia",
+      "resumo": "Em meio ao caos, a equipe do Hospital Universitário del Valle reagiu com rapidez e dedicação, salvando vidas e se reorganizando contra o relógio",
+      "link": "https://www.bbc.com/portuguese/articles/crrvg57ver4o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Por que impacto da IA em eleições pode estar sendo exagerado, segundo pesquisador de Oxford",
+      "resumo": "Segundo estudo desenvolvido por Felix Simon, IA tem poder muito menor de influenciar eleições do que se imaginava: 'a internet já está lotada de desinformação e embora seja possível criar mais, isso n",
+      "link": "https://www.bbc.com/portuguese/articles/c0l52n6ddkdo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Brigou no avião? Você poderá ficar até um ano proibido de voar; entenda, em cinco pontos, a nova regra da Anac",
+      "resumo": "Medida entra em vigor em setembro e também prevê multas de R$ 17,5 mil para casos de conflitos menos graves durante o voo ou o embarque.",
+      "link": "https://www.bbc.com/portuguese/articles/czrjdp484mlo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "O alerta de médicos sobre o risco de cigarros eletrônicos para crianças e jovens",
+      "resumo": "Uso de cigarros eletrônicos pode ser porta de entrada para tabagismo, segundo Royal College of Paediatrics and Child Health, do Reino Unido.",
+      "link": "https://www.bbc.com/portuguese/articles/clyj37x7nk0o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Qual a situação de todos os candidatos neste início de campanha? Veja no agregador de pesquisas da BBC News Brasil",
+      "resumo": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Clique aqui",
+      "resumo": "Confira as estimativas de votos para Eleição 2026 no Agregador da BBC News Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Negado o pedido de prisão domiciliar para Fabrício Queiroz",
+      "resumo": "O pedido de prisão domiciliar do ex-assessor do senador  Flávio Bolsonaro foi negado pela desembargadora Suimei Cavaleiri, da 3ª Câmara Criminal do Tribunal de Justiça do Rio de Janeiro. Fabrício Quei",
+      "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2020-06/negado-o-pedido-de-prisao-domiciliar-para-fabricio-queiroz",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Ministério Público do Rio de Janeiro divulga levantamento sobre denúncias em relação à Covid-19",
+      "resumo": "O total de denúncias recebidas chegou a mais de 6 mil entre 16 de março e 09 de abril de 2020. Os assuntos das denúncias são relacionados a aglomerações, funcionamento irregular de estabelecimentos co",
+      "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2020-04/ministerio-publico-do-rio-de-janeiro-divulga-levantamento",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Fiscalização da Vigilância Sanitária  apreende medicamentos no Rio de Janeiro",
+      "resumo": "A Vigilância Sanitária realiza fiscalização no Rio de Janeiro. Em Copacabana, zona sul da cidade, uma farmácia foi autuada devido ao armazenamento irregular de medicamentos controlados, remédios venci",
+      "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2020-04/fiscalizacao-da-vigilancia-sanitaria-apreende-medicamentos",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Acre defende atuação de médicos formados no exterior durante pandemia de Covid 19",
+      "resumo": "Diante da pandemia do novo coronavírus, o governador do Acre, Gladson Cameli, solicitou liberação provisória para que médicos formados em faculdades de Medicina de outros países, e que detenham diplom",
+      "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2020-04/acre-defende-atuacao-de-medicos-formados-no-exterior",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Brasília comemora hoje 60 anos de fundação",
+      "resumo": "A capital brasileira está localizada na região Centro-Oeste do país, ao longo da região geográfica conhecida como Planalto Central. A capital brasileira é a maior cidade do mundo construída no século ",
+      "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2020-04/brasilia-comemora-hoje-60-anos-de-fundacao",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Militares das Forças Armadas fazem desinfecção no BRT da Barra no Rio de Janeiro",
+      "resumo": "Terminal Alvorada do BRT, na Barra da Tijuca, Zona Oeste do Rio de Janeiro, recebe serviço de desinfecção. O trabalho foi realizado por militares das Forças Armadas. 1:35",
+      "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2020-03/militares-das-forcas-armadas-fazem-desinfeccao-no-brt-da",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Rio de Janeiro registra Mais 3 mortes por coronavírus",
+      "resumo": "Rio de Janeiro registra Mais 3 mortes por coronavírus. . No total o estado já registrou 13 óbitos, 8 homens e 5 mulheres Trinta e três óbitos ainda estão sob investigação. Ao todo o Rio de Janeiro tem",
+      "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2020-03/rio-de-janeiro-registra-mais-3-mortes-por-coronavirus",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Blocos de rua de Belo Horizonte desfilam hoje no carnaval mineiro",
+      "resumo": "Blocos de rua de Belo Horizonte, Minas Gerais, desfilam hoje na cidade. O bloco Baianas Ousadas vai homenagear o compositor Gilberto Gil. Já o bloco Havaianas Usadas também estará desfilando na região",
+      "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2020-02/blocos-de-rua-de-belo-horizonte-desfilam-hoje-no-carnaval",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Brasil se mantém vigilante no Carnaval mesmo sem confirmação de coronavírus no país",
+      "resumo": "O Brasil tem se mantido vigilante, mesmo sem confirmação de casos de infecção no país pelo novo coronavírus .   Se por um lado, a informação de que não existe circulação do novo coronavírus no Brasil ",
+      "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2020-02/brasil-se-mantem-vigilante-no-carnaval-mesmo-sem",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Ministério da saúde orienta a população a não consumir bebida alcoólica se for dirigir no Carnaval",
+      "resumo": "O Carnaval já está acontecendo em todo o país, e o ministério da Saúde adverte que nesta época do ano  para quem escolhe cair na folia, ou simplesmente aproveitar o feriado para descansar deve ficar a",
+      "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2020-02/ministerio-da-saude-orienta-populacao-nao-consumir-bebida",
+      "fonte": "Agência Brasil"
     }
   ]
 }
