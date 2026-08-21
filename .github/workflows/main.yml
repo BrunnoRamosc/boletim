@@ -1,0 +1,36 @@
+name: Atualizar noticias
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar o codigo do repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install -r automacao/requirements.txt
+
+      - name: Rodar o script de busca
+        run: python automacao/buscar_noticias.py
+
+      - name: Salvar as mudancas no repositorio
+        run: |
+          git config user.name "robo-do-boletim"
+          git config user.email "robo@boletim.local"
+          git add noticias.json
+          git diff --staged --quiet || git commit -m "noticias atualizadas automaticamente"
+          git push
