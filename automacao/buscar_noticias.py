@@ -1,5 +1,6 @@
 import feedparser
 import json
+import os
 from datetime import datetime
 from bs4 import BeautifulSoup
 
@@ -43,7 +44,8 @@ saida = {
     "itens": todas_noticias,
 }
 
-caminho_arquivo = "../noticias.json"
+pasta_do_script = os.path.dirname(os.path.abspath(__file__))
+caminho_arquivo = os.path.join(pasta_do_script, "..", "noticias.json")
 
 with open(caminho_arquivo, "w", encoding="utf-8") as arquivo:
     json.dump(saida, arquivo, ensure_ascii=False, indent=2)
