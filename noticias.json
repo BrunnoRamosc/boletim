@@ -1,11 +1,88 @@
 {
-  "atualizadoEm": "2026-08-29T12:34:56.159077",
+  "atualizadoEm": "2026-08-29T13:04:49.257327",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "TSE aprova envio de forças federais para reforçar segurança das eleições no Acre",
+      "resumo": "Atuação se concentrará em Rio Branco e áreas de difícil acesso.\nArquivo/ Agência Brasil\nAs forças federais poderão prestar apoio logístico à Justiça Eleitoral durante as eleições de 2026 no Acre e em ",
+      "link": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/29/tse-aprova-envio-de-forcas-federais-para-reforcar-seguranca-das-eleicoes-no-acre.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Quem era o policial militar morto durante assalto na Marginal Tietê, em SP",
+      "resumo": "O policial Paulo Roberto Lima Pereira foi morto durante um assalto\nReprodução/Redes Sociais\nO policial militar de folga morto durante um assalto na Marginal Tietê, na Zona Norte de São Paulo, era o ca",
+      "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/08/29/quem-era-o-policial-militar-morto-durante-assalto-na-marginal-tiete-em-sp.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Veja como se inscrever no Casamento na Comunidade em cinco municípios do Amapá",
+      "resumo": "Inscriç para o Casamento na Comunidade estão abertas\nTjap/Divulgação\nOs casais interessados em oficializar a união pelo programa Casamento na Comunidade 2026, promovido pelo Tribunal de Justiça do Ama",
+      "link": "https://g1.globo.com/ap/amapa/noticia/2026/08/29/veja-como-se-inscrever-no-casamento-na-comunidade-em-cinco-municipios-do-amapa.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Três são condenados por uso de 'laranjas' e fraude em licitações de táxi em Juiz de Fora",
+      "resumo": "Três pessoas foram condenadas pela Justiça por participação em um esquema de fraude em licitações do serviço de táxi em Juiz de Fora. \nAs condenações ocorreram a pedido do Ministério Público de Minas ",
+      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/08/29/tres-sao-condenados-por-uso-de-laranjas-e-fraude-em-licitacoes-de-taxi-em-juiz-de-fora.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Foragido da Justiça por suspeita de tráfico interestadual de drogas é preso em Aracaju",
+      "resumo": "Imagem de homem com algê\nReprodução\nUm homem foragido da Justiça e suspeito de envolvimento com o tráfico interestadual de drogas foi preso nesta sexta-feira (28), em Aracaju.\nSegundo a Polícia Federa",
+      "link": "https://g1.globo.com/se/sergipe/noticia/2026/08/29/foragido-da-justica-por-suspeita-de-trafico-interestadual-de-drogas-e-preso-em-aracaju.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Motociclista morre após bater na traseira de veículo em rodovia de Bauru",
+      "resumo": "Motociclista morre após perder controle e bater na traseira de veículo em rodovia de Bauru (SP)\nArtesp/Divulgação\nUm motociclista morreu após se envolver em um acidente na Rodovia Marechal Rondon (SP-",
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/08/29/motociclista-morre-apos-bater-na-traseira-de-veiculo-em-rodovia-de-bauru.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Casa de shows pega fogo em Cuiabá",
+      "resumo": "Casa de shows onde ocorreu incêndio em Cuiabá\nRenato Silva/TVCA\nUma casa de shows pegou fogo na noite dessa sexta-feira (28), na Avenida do CPA, na região do bairro Morada da Serra, em Cuiabá. A ocorr",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/08/29/casa-de-shows-pega-fogo-em-cuiaba.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Beija-flores trocam bicadas e protagonizam disputa no chão e no ar em Eldorado (SP); VÍDEO",
+      "resumo": "Beija-flores trocam bicadas e protagonizam disputa no chão e no ar em Eldorado (SP)\nUma disputa entre dois beija-flores topetinhos-verdes (Lophornis chalybeus) chamou a atenção da fotógrafa de aves Ka",
+      "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/08/29/beija-flores-trocam-bicadas-e-protagonizam-disputa-no-chao-e-no-ar-em-eldorado-sp-video.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Motociclista morre após invadir faixa contrária durante ultrapassagem e bater de frente com carro no interior de SP",
+      "resumo": "Motociclista morre após batida frontal durante ultrapassagem em rodovia de Tarabai (SP)\nPolicia Militar Rodoviária/Divulgação\nUm motociclista, de 40 anos, morreu após bater de frente com um carro na R",
+      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/08/29/motociclista-morre-apos-invadir-faixa-contraria-durante-ultrapassagem-e-bater-de-frente-com-carro-em-sp.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "FOTOS Camaru 2026: veja o público que marca presença na exposição agropecuária de Uberlândia",
+      "resumo": "A edição de 2026 do Camaru promete ser uma das maiores edições da história da exposição agropecuária de Uberlândia. \nDe 28 de agosto a 6 de setembro, o parque de exposições recebe uma programação que ",
+      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/29/fotos-camaru-2026-veja-o-publico-que-marca-presenca-na-exposicao-agropecuaria-de-uberlandia.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Por que o Brasil ainda não sabe quantos entregadores se acidentam no trabalho?",
       "resumo": "Principal obstáculo para medir o tamanho dos riscos é a falta de dados oficiais que permitam identificar se uma pessoa acidentada estava trabalhando no momento da ocorrência",
       "link": "https://www.bbc.com/portuguese/articles/c5y4klql8k9o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Como memórias da guerra e do passado nazista estão no centro de disputa eleitoral na Alemanha",
+      "resumo": "O partido de extrema-direita AfD acredita que o país deve adotar uma visão mais positiva de seu passado. Pela primeira vez, a legenda pode ganhar poder significativo na Alemanha no período pós-guerra.",
+      "link": "https://www.bbc.com/portuguese/articles/c70lz2ky0rvo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
@@ -55,13 +132,6 @@
       "titulo": "Eleição 2026: quais são as propostas dos candidatos a presidente?",
       "resumo": "A BBC News Brasil preparou um especial interativo com as propostas e posicionamentos de todos os nomes que concorrem à Presidência em oito áreas: economia e emprego; saúde; educação; política e corrup",
       "link": "https://www.bbc.com/portuguese/articles/cm2gryker9mo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Propaganda eleitoral começa hoje; veja como estão todos os candidatos no agregador de pesquisas da BBC News Brasil",
-      "resumo": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
