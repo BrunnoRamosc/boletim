@@ -1,10 +1,31 @@
 {
-  "atualizadoEm": "2026-08-30T19:34:48.148479",
+  "atualizadoEm": "2026-08-30T20:04:41.224858",
   "itens": [
     {
       "categoria": "Geral",
+      "titulo": "Candidata ao governo do PI, Lourdes Melo é transferida de hospital, segue na UTI e sem previsão de alta",
+      "resumo": "Candidata ao Governo do Piauí, Lourdes Melo (PCO)\nMayara Valença/g1 Piauí\nCandidata ao governo do Piauí, a professora Lourdes Melo (PCO), de 73 anos, foi transferida do Hospital Itacor para o Hospital",
+      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/08/30/lourdes-melo-transferida.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Batida de frente entre dois carros deixa um morto e um ferido grave na BR-040",
+      "resumo": "Um homem morreu e outro ficou ferido em acidente Ewbank da Câmara na manhã de domingo (30)\nPolícia Rodoviária Federal/Divulgação\nUm acidente entre dois carros deixou um homem morto e outro gravemente ",
+      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/08/30/batida-de-frente-entre-dois-carros-deixa-um-morto-e-um-ferido-grave-na-br-040.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Professor de jiu jitsu é denunciado por agredir namorada com soco em Boa Vista",
+      "resumo": "Polícia Militar de Roraima.\nAscom/PMRR\nUm professor de jiu jitsu foi denunciado por agredir com socos o rosto da namorada, de 22 anos. O caso ocorreu na manhã deste domingo (30), no bairro Dr. Silvio ",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/08/30/professor-de-jiu-jitsu-e-denunciado-por-agredir-namorada-com-soco-em-boa-vista.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
       "titulo": "Pacientes reclamam de falta de vagas e preço de estacionamentos do Hospital das Clínicas de Ribeirão Preto, SP",
-      "resumo": "Pacientes reclamam de preço do estacionamento do HC Campus, em Ribeirão Preto, SP\nPacientes que utilizam o Hospital das Clínicas de Ribeirão Preto (SP) reclamam da falta de vagas públicas disponíveis ",
+      "resumo": "Pacientes reclamam de falta de vagas e preço de estacionamentos do HC de Ribeirão Preto\nPacientes que utilizam o Hospital das Clínicas de Ribeirão Preto (SP) reclamam da falta de vagas públicas dispon",
       "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/08/30/pacientes-reclamam-de-falta-de-vagas-e-preco-de-estacionamentos-do-hospital-das-clinicas-de-ribeirao-preto-sp.ghtml",
       "fonte": "G1"
     },
@@ -48,27 +69,6 @@
       "titulo": "Quadrilha é investigada por golpes em supermercados; operação apreende 12,8 mil maços de cigarros e bebidas",
       "resumo": "Operação em Mongaguá investiga esquema de estelionato, receptação e crimes fiscais\nA Polícia Civil de Mongaguá, no litoral de São Paulo, apreendeu mais de 12,8 mil maços de cigarro e diversas bebidas ",
       "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/30/quadrilha-e-investigada-por-golpes-em-supermercados-operacao-apreende-128-mil-macos-de-cigarros-e-bebidas.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Henrique, da dupla com Juliano, participa de vaquejada em Sergipe",
-      "resumo": "Cantor Henrique, da dupla com Juliano, participa de vaquejada em Sergipe\nO cantor Henrique, da dupla com Juliano, participou da competição de vaquejada em Lagarto (SE) neste domingo (30), logo após re",
-      "link": "https://g1.globo.com/se/sergipe/noticia/2026/08/30/henrique-da-dupla-com-juliano-participa-de-vaquejada-em-sergipe.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Motorista de caminhonete em alta velocidade atinge carro estacionado em Batatais, SP; VÍDEO",
-      "resumo": "Motorista de caminhonete em alta velocidade atinge carro estacionado em Batatais, SP\nUma caminhonete em alta velocidade atingiu um carro estacionado na manhã deste domingo (29), em Batatais (SP). O SA",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/08/30/motorista-de-caminhonete-em-alta-velocidade-atinge-carro-estacionado-em-batatais-sp-video.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Naufrágio de balsa no norte do Chipre deixa 8 mortos e 17 desaparecidos",
-      "resumo": "Barco vira no norte do Chipre e deixa mortos\nPelo menos oito pessoas morreram e 17 estão desaparecidas depois que uma balsa com cerca de 270 passageiros e tripulantes a bordo virou no norte do Chipre,",
-      "link": "https://g1.globo.com/mundo/noticia/2026/08/30/naufragio-de-balsa-no-norte-do-chipre-deixa-8-mortos-e-17-desaparecidos.ghtml",
       "fonte": "G1"
     },
     {
