@@ -1,6 +1,62 @@
 {
-  "atualizadoEm": "2026-08-30T11:34:52.173914",
+  "atualizadoEm": "2026-08-30T12:05:09.773984",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Assista as telejornais da TV Bahia",
+      "resumo": "Assista as telejornais da TV Bahia",
+      "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Corpo de jovem que desapareceu em barragem após se afogar é encontrado",
+      "resumo": "Corpo de jovem que desapareceu em barragem após se afogar é encontrado\nReprodução\nO corpo de Fabiana Sousa Nunes, de 25 anos, foi encontrado na manhã deste domingo (30). A jovem havia desaparecido apó",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/08/30/corpo-jovem-desapareceu-barragem-encontrado.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Quem é MC Pipokinha, condenada após apresentação com conteúdo sexual diante de adolescentes",
+      "resumo": "MC Pipokinha\nDivulgação / Facebook da artista\nA Justiça condenou a cantora Doroth Helena de Sousa Alves, conhecida como MC Pipokinha, e outras quatro pessoas envolvidas na realização do evento “Esquen",
+      "link": "https://g1.globo.com/pop-arte/musica/noticia/2026/08/30/quem-e-mc-pipokinha-condenada-apos-apresentacao.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Santos tem 100% das praias impróprias para banho; veja situação na Baixada Santista",
+      "resumo": "Praia em Santos (SP)\nMatheus Müller/g1\nSantos, no litoral de São Paulo, não tem praias próprias para banho nesta semana, segundo o boletim mais recente da Companhia Ambiental do Estado de São Paulo (C",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/30/santos-tem-100percent-das-praias-improprias-para-banho-veja-situacao-na-baixada-santista.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Devido às altas temperaturas, desfile de 7 de Setembro será realizado à noite em Cuiabá",
+      "resumo": "A mudança para o período noturno foi definida para proporcionar mais conforto aos estudantes, familiares e ao público, reduzindo a exposição ao calor durante a programação.\nFablicio Rodrigues\nDevido à",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/08/30/devido-as-altas-temperaturas-desfile-de-7-de-setembro-sera-realizado-a-noite-em-cuiaba.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Eleições 2026: veja a agenda dos candidatos ao Governo do Maranhão neste domingo (30)",
+      "resumo": "Veja quem são os candidatos a governador no Maranhão\nMontagem g1\nOs candidatos ao Governo do Maranhão iniciaram as agendas de campanha eleitoral. Ao todo, são oito candidatos ao governo registrados pa",
+      "link": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/08/30/eleicoes-2026-veja-a-agenda-dos-candidatos-ao-governo-do-maranhao-neste-domingo-30.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Aprenda a fazer beiju de macaxeira com coco",
+      "resumo": "Receita de beiju de macaxeira\nInter TV Costa Branca\nA macaxeira e o coco são os ingredientes principais da receita exibida no quadro \"Bom Que Só\", do Inter TV Rural, deste domingo (30). Juntos, eles f",
+      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/30/aprenda-a-fazer-beiju-de-macaxeira-com-coco.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Telescópio Roman: Nasa lança novo observatório espacial que terá uma visão do céu pelo menos 100 vezes maior",
+      "resumo": "NASA prepara lançamento de poderoso telescópio que vai expandir o trabalho do James Webb\nA Nasa lançou neste domingo (30) o Nancy Grace Roman, um telescópio espacial criado para observar enormes regiõ",
+      "link": "https://g1.globo.com/ciencia/noticia/2026/08/30/telescopio-roman-nasa-lancamento-1.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Homem é encontrado morto com perfurações no peito em antigo centro de saúde de Campo Grande",
@@ -13,62 +69,6 @@
       "titulo": "PF contra fraude no INSS, alertas de temporal e lixão: veja as mais lidas da semana",
       "resumo": "Uma operação da Polícia Federal contra fraudes de R$ 86 milhões em benefícios do INSS, alertas de tempestades no Leste de Minas e a situação de uma área de transbordo de resíduos em Governador Valadar",
       "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/08/30/pf-contra-fraude-no-inss-alertas-de-temporal-e-lixao-veja-as-mais-lidas-da-semana.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Clarões no céu, explosão e fogo: incêndio em subestação de energia assusta moradores em Goiás; vídeo",
-      "resumo": "Incêndio em subestação de energia de Ipameri assusta moradores\nMoradores de Ipameri e Campo Alegre de Goiás, no sudeste do estado, ficaram sem energia depois que um incêndio atingiu a subestação de en",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/08/30/claroes-no-ceu-explosao-e-fogo-incendio-em-subestacao-de-energia-assusta-moradores-em-goias-video.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Acidente com 4 carretas na BR-251 e apreensão de máquinas agrícolas: veja as notícias mais lidas da semana",
-      "resumo": "O g1 Grande Minas reúne as cinco notícias mais lidas nos últimos sete dias para você encerrar a semana bem informado. \nEntre os assuntos mais acessos pelos internautas estão: A liberação do trânsito a",
-      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/08/30/acidente-com-4-carretas-na-br-251-e-apreensao-de-maquinas-agricolas-veja-as-noticias-mais-lidas-da-semana.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Suspeita e dúvidas diante do acordo petrolífero \"histórico\" entre Venezuela e EUA",
-      "resumo": "O \"histórico\" acordo petrolífero firmado entre Washington e Caracas, que permitirá aos Estados Unidos operar campos de petróleo, gera dúvidas e desconfiança entre a população diante do sigilo estatal,",
-      "link": "https://g1.globo.com/mundo/noticia/2026/08/30/suspeita-e-duvidas-diante-do-acordo-petrolifero-historico-entre-venezuela-e-eua.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Polícia conclui que ossos achados em terreno de Presidente Prudente eram de origem animal",
-      "resumo": "Polícia investiga origem de fragmentos de ossos encontrados em terreno baldio em Presidente Prudente\nPolícia Civil/Reprodução\nA Polícia Civil concluiu o inquérito que investigava o encontro de fragmen",
-      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/08/30/policia-conclui-que-ossos-achados-em-terreno-de-presidente-prudente-eram-de-origem-animal.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Autora de Sorocaba funda editora para publicar mulheres e outros escritores e vai à Bienal de SP",
-      "resumo": "Autora de Sorocaba lança editora e vai à Bienal de SP\nSer autora já é, por si só, um desafio. Mas e quando além de escrever os próprios livros a escritora decide criar uma editora para publicar suas o",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/08/30/autora-de-sorocaba-funda-editora-para-publicar-mulheres-e-outros-escritores-e-vai-a-bienal-de-sp.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Cavaleiros vencem prova do laço em menos de 5 segundos na Festa do Peão de Barretos e garantem vaga em campeonato nos EUA",
-      "resumo": "Dupla do interior de SP ganha vaga em rodeio nos EUA após vencer em Barretos\nApenas 4,75 segundos: esse foi o tempo em que dois cavaleiros precisaram para concluir a prova do laço e se tornarem campeõ",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/08/30/cavaleiros-vencem-prova-do-laco-em-menos-de-5-segundos-na-festa-do-peao-de-barretos-e-garantem-vaga-em-campeonato-nos-eua.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "'Menino da Tábua': conheça relatos de fé que transformaram túmulo de morador de Maracaí em destino de romeiros",
-      "resumo": "\"Menino da Tábua\": quem é o milagreiro que passou a vida deitado em uma tábua\nTodos os anos em agosto, a pequena cidade de Maracaí (SP), com 12,8 mil habitantes, torna-se o destino de milhares de rome",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/08/30/menino-da-tabua-conheca-relatos-de-fe-que-transformaram-tumulo-de-morador-de-maracai-em-destino-de-romeiros.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Frio, calor e mudanças bruscas de temperatura podem danificar instrumentos musicais, alertam especialistas",
-      "resumo": "Frio, calor e mudanças bruscas de temperatura podem danificar instrumentos musicais\nCalor excessivo, frio intenso, veranicos e mudanças bruscas de temperatura são inimigos da saúde, mas não apenas del",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/08/30/frio-calor-e-mudancas-bruscas-de-temperatura-podem-danificar-instrumentos-musicais-alertam-especialistas.ghtml",
       "fonte": "G1"
     },
     {
