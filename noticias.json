@@ -1,6 +1,27 @@
 {
-  "atualizadoEm": "2026-08-30T09:04:42.258341",
+  "atualizadoEm": "2026-08-30T09:34:44.377613",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "'Colhi os frutos', diz ex-ambulante ao abrir loja após lesão por carregar 15 kg de doces nas ruas",
+      "resumo": "Lesão na coluna faz vendedora de brownies abrir a própria loja em São Vicente, SP\nUma lesão na coluna fez com que Amanda Soares de Souza, de 29 anos, deixasse de vender brownies pelas ruas de São Vice",
+      "link": "https://g1.globo.com/sp/santos-regiao/culinaria-013/noticia/2026/08/30/colhi-os-frutos-diz-ex-ambulante-ao-abrir-loja-apos-lesao-por-carregar-15-kg-de-doces-nas-ruas.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Guarda-roupa do príncipe: Neymar desfila com camisas históricas e raras do Santos; VEJA",
+      "resumo": "Neymar resgata camisas históricas do Santos e leva nostalgia dos anos 90 para o guarda-rou\nAntes de se tornar um dos maiores ídolos da história recente do Santos FC, Neymar cresceu vendo outros jogado",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/30/guarda-roupa-do-principe-neymar-desfila-com-camisas-historicas-e-raras-do-santos-veja.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Diabão comenta estátua de 11 metros em homenagem ao Diabo no Ceará: 'Para mim, não tem valor'",
+      "resumo": "Diabbão Praddo e estátua de 11 metros em homenagem ao Diabo na Taíba, litoral cearense\nRedes Sociais e Carlos Marlon/TVM\nO tatuador brasileiro Diabão Praddo, conhecido pelas dezenas de modificações co",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/30/diabao-comenta-estatua-de-11-metros-em-homenagem-ao-diabo-no-ceara-para-mim-nao-tem-valor.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Aposentada restaura bonecas que iriam para o lixo e presenteia crianças e idosas no Litoral de SP: ‘De 0 a 102 anos’",
@@ -52,24 +73,10 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Aluna e orientadora morrem antes de banca e Unicamp tem 1ª defesa póstuma de doutorado: 'Honrar as pessoas'",
-      "resumo": "A Universidade Estadual de Campinas (Unicamp) realizou na última segunda-feira (24) a primeira defesa póstuma de um trabalho de doutorado no qual aluna e orientadora morreram antes da banca. A tese, i",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/30/aluna-orientadora-morrem-antes-banca-unicamp-defesa-postuma-doutorado.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Com rebanho de 11,6 milhões, Tocantins tem quase oito cabeças de gado por pessoa",
-      "resumo": "São quase oito cabeças de gado bovino para cada tocantinense\nDivulgação/Licia Rubinstein/Agência IBGE Notícias\nUm levantamento mostra que para cada tocantinense existem quase oito cabeças de gado no T",
-      "link": "https://g1.globo.com/to/tocantins/noticia/2026/08/30/com-rebanho-de-116-milhoes-tocantins-tem-quase-oito-cabecas-de-gado-por-pessoa.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "FOTOS: Gusttavo Lima na Festa do Peão de Barretos 2026",
-      "resumo": "Embaixador da 71ª Festa do Peão de Barretos, Gusttavo Lima canta seus sucessos no Palco Estádio\nÉrico Andrade/g1\nGusttavo Lima anima fãs durante show na madrugada deste domingo (30) na Festa do Peão d",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/festa-do-peao-de-barretos/noticia/2026/08/30/fotos-gusttavo-lima-na-festa-do-peao-de-barretos-2026.ghtml",
-      "fonte": "G1"
+      "titulo": "O plano bilionário da China para fazer uma nova revolução industrial com milhões de robôs",
+      "resumo": "O governo chinês está investindo US$ 20 bilhões para colocar o país na vanguarda da inovação na robótica para fábricas e concorrer com os EUA.",
+      "link": "https://www.bbc.com/portuguese/articles/c9w4j2555qro?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
     },
     {
       "categoria": "Geral",
@@ -111,13 +118,6 @@
       "titulo": "Como a guerra do Irã reacendeu a disputa pelo Canal do Panamá",
       "resumo": "A hidrovia artificial que liga os oceanos Atlântico e Pacífico tornou-se o mais recente foco de disputa entre Estados Unidos e China.",
       "link": "https://www.bbc.com/portuguese/articles/c74e88e9kpeo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Por que o Brasil ainda não sabe quantos entregadores se acidentam no trabalho?",
-      "resumo": "Principal obstáculo para medir o tamanho dos riscos é a falta de dados oficiais que permitam identificar se uma pessoa acidentada estava trabalhando no momento da ocorrência",
-      "link": "https://www.bbc.com/portuguese/articles/c5y4klql8k9o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
