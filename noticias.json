@@ -1,6 +1,69 @@
 {
-  "atualizadoEm": "2026-08-31T16:05:12.324545",
+  "atualizadoEm": "2026-08-31T16:34:57.839263",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Candidatos ao governo do Paraná cumprem agendas com entrevistas e presenças em eventos",
+      "resumo": "Palácio Iguaçu - Governo do Paraná  \nNatalia Filippin/G1\nOs candidatos ao governo do Paraná cumpriram, nesta segunda-feira (31), agendas de campanha em diferentes regiões do estado e também fora dele.",
+      "link": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/08/31/agenda-cadidatos-gover-parana-31-agosto.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Ônibus de banda do RS é destruído por incêndio em estrada com vocalista no volante: 'Só deu tempo de ver o fogo'",
+      "resumo": "Ônibus de banda do RS é destruído por incêndio em estrada com vocalista no volante\nUm ônibus da banda gaúcha Chamamento pegou fogo e ficou completamente destruído na madrugada deste domingo (30), quan",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/31/onibus-de-banda-do-rs-e-destruido-por-incendio-em-estrada-com-vocalista-no-volante-so-deu-tempo-de-ver-o-fogo.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "EPTV 1 Piracicaba ao vivo",
+      "resumo": "EPTV 1 Piracicaba ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
+      "link": "https://g1.globo.com/sp/piracicaba-regiao/ao-vivo/eptv-1-piracicaba-ao-vivo.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Mulher denuncia estupro coletivo após ir buscar pensão em Vitória; filhas de 5 e 10 anos viram tudo",
+      "resumo": "Polícia vai investigar denúncia de estupro coletivo em Vitória\nUma mulher de 31 anos afirmou ter sido vítima de agressões e de um estupro coletivo cometido pelo ex-marido e por outros homens em Vitóri",
+      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/08/31/mulher-denuncia-estupro-coletivo-apos-ir-buscar-pensao-em-vitoria-filhas-de-5-e-10-anos-viram-tudo.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Condutor de um dos carros envolvidos em colisão na BR-230, em Campina Grande, poderia estar sem cinto de segurança",
+      "resumo": "Erick morreu no local do acidente, em Campina Grande\nReprodução / TV Cabo Branco\nO condutor de um dos carros envolvidos na colisão na BR-230, em São José da Mata, distrito de Campina Grande, na noite ",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/08/31/condutor-de-um-dos-carros-envolvidos-em-colisao-na-br-230-em-campina-grande-poderia-estar-sem-cinto-de-seguranca.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "EPTV 1 Campinas ao vivo",
+      "resumo": "EPTV 1 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
+      "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/eptv-1-campinas-ao-vivo.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Assista ao EPTV1",
+      "resumo": "Assista ao EPTV1 Siga as notícias desta segunda-feira, 31 de agosto.",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv1.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Patrus defende revisão de tarifas de pedágio e diz que manterá privatização da Copasa, mas reavaliará termos de acordo",
+      "resumo": "O candidato do PT ao governo de Minas Gerais, Patrus Ananias, afirmou em entrevista ao EPTV1 que pretende discutir os valores dos pedágios cobrados em rodovias privatizadas do Sul de Minas e revisar c",
+      "link": "https://g1.globo.com/mg/sul-de-minas/eleicoes/2026/noticia/2026/08/31/entrevista-patrus-ananias-pt-candidato-ao-governo-de-minas-gerais-ao-eptv-1.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Assista ao Link Vanguarda ao vivo no g1",
+      "resumo": "Assista ao Link Vanguarda ao vivo no g1 Assista diariamente aos telejornais da emissora no g1. De segunda a sexta-feira, assista ao Bom Dia Vanguarda, Link Vanguarda e Jornal Vanguarda. Aos sábados, a",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/ao-vivo/assista-ao-link-vanguarda-ao-vivo-no-g1.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Assista aos telejornais da TV Liberal",
@@ -10,77 +73,14 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Malévola é presa por desacato e lesão corporal após briga em balada em SP; influencer foi solta após pagar fiança",
-      "resumo": "Malévola Alves é presa e diz que pagou fiança de R$ 1,6 mil\nReprodução/Instagram\nMalévola Alves foi presa em flagrante por desacato e lesão corporal após uma briga em um camarote de uma festa, na madr",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/31/malevola-e-presa-por-desacato-e-lesao-corporal-apos-briga-em-balada-em-sp-influencer-foi-solta-apos-pagar-fianca.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Eleições 2026 no PR: Sandro Alex atende imprensa e confirma presença em evento de universidade",
-      "resumo": "Sandro Alex (PSD)\nKayo Magalhaes/Câmara dos Deputados\nO candidato ao governo do Paraná, Sandro Alex (PSD), cumpre agenda de campanha nesta segunda-feira (31) em Curitiba e em Ponta Grossa, nos Campos ",
-      "link": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-no-pr-agenda-sandro-alex-31-agosto.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Jornal da EPTV realiza série de entrevistas com candidatos ao Governo de São Paulo",
-      "resumo": "Tarcísio de Freitas (Republicanos) e Fernando Haddad (PT) em agendas de campanhas ao governo de SP\nCaiuá Maia e Diogo Zacarias\nA EPTV realiza, nesta semana, uma série de entrevistas com candidatos ao ",
-      "link": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/noticia/2026/08/31/eptv-realiza-entrevistas-com-candidatos-ao-governo-de-sao-paulo.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Queda de energia deve afetar abastecimento de água em São José dos Campos nesta segunda-feira (31); veja os locais",
-      "resumo": "Torneira pingando\nSamantha Rufino/g1 RR\nQuedas de energia registradas na manhã desta segunda-feira (31) podem afetar o abastecimento de água em bairros das regiões central e norte de São José dos Camp",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/31/queda-de-energia-deve-afetar-abastecimento-de-agua-em-sao-jose-dos-campos-nesta-segunda-feira-31-veja-os-locais.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "VÍDEOS: NE1 de segunda-feira, 31 de agosto de 2026",
-      "resumo": "Assista aos vídeos do telejornal com as notícias de Pernambuco.",
-      "link": "https://g1.globo.com/pe/pernambuco/videos-ne1/playlist/videos-ne1-de-segunda-feira-31-de-agosto-de-2026.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Homem é morto a facadas em pesqueiro no interior de SP",
-      "resumo": "Homem de 42 anos foi morto a facadas em rancho dentro de pesqueiro de Porto Ferreira, SP\nGoogle Street View/Reprodução\nUm homem de 42 anos foi morto a facadas em um pesqueiro, na noite de domingo (30)",
-      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/08/31/homem-e-morto-a-facadas-em-pesqueiro-no-interior-de-sp.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Geladeira e colchão amarrados no teto de carro caem no meio da rua; vídeo",
-      "resumo": "Geladeira e colchão amarrados no teto de carro caem no meio da rua\nUm carro foi filmado trafegando com uma geladeira e um colchão no teto em Trindade, na Região Metropolitana de Goiânia. Em seguida, o",
-      "link": "https://g1.globo.com/go/goias/transito/noticia/2026/08/31/geladeira-e-colchao-amarrados-no-teto-de-carro-caem-no-meio-da-rua-video.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Autoridades e jornalistas lamentam morte de Carlos Monforte",
-      "resumo": "Morre jornalista Carlos Monforte\nAutoridades e jornalistas lamentaram, nesta segunda-feira (31), a morte do jornalista Carlos Monforte, aos 77 anos. \nO Supremo Tribunal Federal (STF) publicou uma nota",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/31/autoridades-e-jornalistas-lamentam-morte-de-carlos-monforte.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Eleições 2026: veja todos os candidatos ao governo do Paraná",
-      "resumo": "Cargos Governador - PR\nO Paraná (PR) tem 8 candidatos registrados para disputar o governo do Paraná nas eleições de 2026, segundo dados do Tribunal Superior Eleitoral (TSE).\nO 1º turno da votação será",
-      "link": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-ao-governo-do-parana.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Augusto Cury atrai eleitor cansado de polarização e faz o papel que tiveram Marina, Ciro e Tebet, diz analista",
+      "titulo": "Augusto Cury sobe nas pesquisas: candidato tira mais votos de Lula ou Flávio Bolsonaro? Sociólogo analisa",
       "resumo": "Pablo Ortellado comenta as chances de Cury no 1º turno, explica como ele pode influenciar um eventual 2º turno e analisa o que pode ter levado ao crescimento repentino do candidato.",
       "link": "https://www.bbc.com/portuguese/articles/c0req7qj02jo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
       "categoria": "Geral",
-      "titulo": "Por que Lionel Messi anunciou sua aposentadoria do futebol",
+      "titulo": "Por que Lionel Messi anunciou sua aposentadoria da Seleção Argentina",
       "resumo": "O craque argentino Lionel Messi anuncia sua aposentadoria da Seleção Argentina, dizendo que foi uma decisão \"dolorosa\", mas que entende que \"chegou a hora\".",
       "link": "https://www.bbc.com/portuguese/articles/cq5xgjl591xo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
