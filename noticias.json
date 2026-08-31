@@ -1,6 +1,41 @@
 {
-  "atualizadoEm": "2026-08-31T08:34:51.176280",
+  "atualizadoEm": "2026-08-31T09:05:02.701551",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Assista ao Jornal da Manhã",
+      "resumo": "Assista ao Jornal da Manhã",
+      "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Suspeito de matar casal de comerciantes que trabalhava em trailer de lanche é preso em Fortaleza",
+      "resumo": "Casal é morto a tiros em trailer de lanches\nUm homem suspeito de matar um casal de comerciantes enquanto as vítimas trabalhavam em um trailer de lanche foi preso neste domingo (30), no Bairro Aracapé,",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/08/31/suspeito-de-matar-casal-de-comerciantes-que-trabalhava-em-trailer-de-lanche-e-preso-em-fortaleza.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Homem é preso por estupro após levar garoto para debaixo de deck em praia; testemunha filma suspeito",
+      "resumo": "Homem leva garoto para debaixo de deck e testemunha impede estupro\nUm homem de 53 anos, cuja identidade não foi divulgada, foi preso por estupro de vulnerável contra um garoto. O caso aconteceu sob um",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/31/homem-e-preso-por-estupro-apos-levar-garoto-para-debaixo-de-deck-em-praia-testemunha-filma-suspeito.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Homem vive 15 anos nas ruas, reconstrói a vida e transforma história em livro: 'O Inferno Existe, Eu Estive Lá'",
+      "resumo": "Morador de São Vicente (SP), Fábio Siqueira dos Santos lança livro após sair das ruas\nDivulgação/Prefeitura de São Vicente\nFábio Siqueira dos Santos enfrentou problemas relacionados ao uso de drogas e",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/31/homem-vive-15-anos-nas-ruas-reconstroi-a-vida-e-transforma-historia-em-livro-o-inferno-existe-eu-estive-la.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Caso Peretto: Assassinato de empresário completa dois anos; veja a situação dos acusados",
+      "resumo": "Casais estavam dentro do apartamento onde Igor Peretto foi encontrado morto em Praia Grande (SP)\nYasmin Braga/g1 e Reprodução/Redes Sociais\nO assassinato do empresário Igor Peretto completa dois anos ",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/31/caso-peretto-assassinato-de-empresario-completa-dois-anos-veja-a-situacao-dos-acusados.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Empresário corintiano deve ser julgado nesta segunda por matar esposa palmeirense com 8 facadas após briga por futebol",
@@ -38,41 +73,6 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Feira literária gratuita em Macapá mistura livros, teatro e música para o público infantil",
-      "resumo": "Festival literário\nArquivo/CLIAP\nA 4ª Feira Literária Infantil Tucuju (Flit) será realizada nesta quinta (3) e sexta-feira (4) em Macapá, das 16h às 21h, na Quadra da Igreja Jesus de Nazaré. Com o tem",
-      "link": "https://g1.globo.com/ap/amapa/noticia/2026/08/31/feira-literaria-gratuita-em-macapa-mistura-livros-teatro-e-musica-para-o-publico-infantil.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Lito Sousa: como superlaboratório brasileiro estuda proteína ligada a doenças raras como a do influenciador",
-      "resumo": "Entenda como funciona a Creutzfeldt-Jakob, doença do influenciador Lito Sousa\nO diagnóstico recente de doença de Creutzfeldt-Jakob (DCJ) do piloto e influenciador Lito Sousa chamou a atenção do país p",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/31/lito-sousa-como-superlaboratorio-brasileiro-estuda-proteina-ligada-a-doencas-raras-como-a-do-influenciador.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Operações no AM causam prejuízo de R$ 263 milhões ao crime, mas facções mantêm domínio sobre rios e expandem poder na floresta",
-      "resumo": "Exército Brasileiro durante Operação Ágata em 2026 em São Gabriel da Cachoeira\nLucas Macedo/g1\nUma sequência de operações integradas entre as Forças de Segurança Estadual e Federal resultou na prisão ",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/08/31/operacoes-no-am-causam-prejuizo-de-r-263-milhoes-ao-crime-mas-faccoes-mantem-dominio-sobre-rios-e-expandem-poder-na-floresta.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Resgates no Nepal: equipes buscam centenas de pessoas presas em túneis de usinas hidrelétricas; 933 estão desaparecidas",
-      "resumo": "Momento em que avalanche destrói barragem hidrelétrica no Nepal, em 26 de agosto de 2026\nReprodução/ g1\nAs equipes de resgate do Nepal, com a ajuda de especialistas chineses e indianos, intensificaram",
-      "link": "https://g1.globo.com/mundo/noticia/2026/08/31/resgates-no-nepal-equipes-buscam-centenas-de-pessoas-presas-em-tuneis-de-usinas-hidreletricas-933-estao-desaparecidas.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Veja momentos da Festa do Peão de Barretos 2026 em fotos",
-      "resumo": "Confira o resumão do g1 na Festa do Peão de Barretos 2026\nForam dias de música, encontros e milhares de vozes reunidas na arena de rodeios mais famosa do país. A 71ª Festa do Peão de Barretos levou ao",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/festa-do-peao-de-barretos/noticia/2026/08/31/veja-momentos-da-festa-do-peao-de-barretos-2026-em-fotos.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
       "titulo": "'Foram 4 assaltos em 10 dias': o pavor e trauma nas farmácias com roubos de canetas emagrecedoras",
       "resumo": "Farmácias viraram alvo de assaltantes em busca de canetas emagrecedoras, levando a adoecimento e afastamentos de atendentes e farmacêuticos por problemas de saúde mental.",
       "link": "https://www.bbc.com/portuguese/articles/cvgvyvgppkko?at_medium=RSS&at_campaign=rss",
@@ -80,16 +80,23 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Os milhões de argentinos com dívidas em atraso e o que isso indica sobre a economia do país: 'Não tentamos mais refinanciar porque é impagável'",
-      "resumo": "Um a cada três habitantes da Argentina enfrenta problemas para liquidar dívidas contraídas junto a bancos, carteiras digitais e agiotas.",
-      "link": "https://www.bbc.com/portuguese/articles/cdr7jn02g13o?at_medium=RSS&at_campaign=rss",
+      "titulo": "EUA atacam Irã pela primeira vez desde julho; Teerã responde lançando mísseis contra bases na Jordânia",
+      "resumo": "Porta-voz da Guarda Revolucionária Islâmica do Irã classificou o ataque como um \"erro estratégico e fatal do regime Trump\" e afirmou que o \"inimigo pagará as consequências desse erro de cálculo tanto ",
+      "link": "https://www.bbc.com/portuguese/articles/cx2zy9gnk6ro?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
       "categoria": "Geral",
-      "titulo": "EUA atingem lançadores iranianos na Ilha de Larak no primeiro ataque em semanas ao país",
-      "resumo": "Porta-voz da Guarda Revolucionária Islâmica do Irã classificou o ataque como um \"erro estratégico e fatal do regime Trump\" e afirmou que o \"inimigo pagará as consequências desse erro de cálculo tanto ",
-      "link": "https://www.bbc.com/portuguese/articles/cx2zy9gnk6ro?at_medium=RSS&at_campaign=rss",
+      "titulo": "O que é o 'maior acordo petrolífero da história' anunciado por EUA e Venezuela — e por que ele é tão controverso",
+      "resumo": "O acordo anunciado por Donald Trump e Delcy Rodríguez dá aos Estados Unidos acesso a campos com reservas de 65 bilhões de barris de petróleo venezuelano.",
+      "link": "https://www.bbc.com/portuguese/articles/cz0zl3ng740o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Os milhões de argentinos com dívidas em atraso e o que isso indica sobre a economia do país: 'Não tentamos mais refinanciar porque é impagável'",
+      "resumo": "Um a cada três habitantes da Argentina enfrenta problemas para liquidar dívidas contraídas junto a bancos, carteiras digitais e agiotas.",
+      "link": "https://www.bbc.com/portuguese/articles/cdr7jn02g13o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
@@ -118,13 +125,6 @@
       "titulo": "Por que as paradas do orgulho gay estão sob ataque — dentro e fora da comunidade LGBT",
       "resumo": "Algumas das grandes empresas que costumavam apoiar as paradas do orgulho gay no Reino Unido agora demonstram receio em associarem o nome ao evento. O que mudou?",
       "link": "https://www.bbc.com/portuguese/articles/c780d3e01y9o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "O plano bilionário da China para fazer uma nova revolução industrial com milhões de robôs",
-      "resumo": "O governo chinês está investindo US$ 20 bilhões para colocar o país na vanguarda da inovação na robótica para fábricas e concorrer com os EUA.",
-      "link": "https://www.bbc.com/portuguese/articles/c9w4j2555qro?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
