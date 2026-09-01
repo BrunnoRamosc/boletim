@@ -1,6 +1,48 @@
 {
-  "atualizadoEm": "2026-09-01T04:08:19.183963",
+  "atualizadoEm": "2026-09-01T04:39:21.207931",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Previsão do tempo hoje para Brasília (DF): dia de sol com algumas nuvens e névoa ao amanhecer; noite com poucas nuvens",
+      "resumo": "Previsão do tempo hoje em Brasília\ng1\nA previsão do tempo para esta terça-feira (1) para Brasília (DF) é de dia de sol com algumas nuvens e névoa ao amanhecer. Noite com poucas nuvens. As máximas são ",
+      "link": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/01/previsao-do-tempo-hoje-para-brasilia-df-dia-de-sol-com-algumas-nuvens-e-nevoa-ao-amanhecer-noite-com-poucas-nuvens.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Previsão do tempo hoje para São Paulo (SP): sol com muitas nuvens a nublado com chuva no fim da manhã; tarde e noite chuvosas",
+      "resumo": "Previsão do tempo hoje em São Paulo\ng1\nA previsão do tempo para esta terça-feira (1) para São Paulo (SP) é de sol com muitas nuvens a nublado com chuva no fim da manhã. Tarde e noite chuvosas. As máxi",
+      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/01/previsao-do-tempo-hoje-para-sao-paulo-sp-sol-com-muitas-nuvens-a-nublado-com-chuva-no-fim-da-manha-tarde-e-noite-chuvosas.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol com muitas nuvens a nublado com chuva de manhã; tarde com temporal e noite chuvosa",
+      "resumo": "Previsão do tempo hoje em São Bernardo do Campo\ng1\nA previsão do tempo para esta terça-feira (1) para São Bernardo do Campo (SP) é de sol com muitas nuvens a nublado com chuva de manhã. Tarde com temp",
+      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/01/previsao-do-tempo-hoje-para-sao-bernardo-do-campo-sp-sol-com-muitas-nuvens-a-nublado-com-chuva-de-manha-tarde-com-temporal-e-noite-chuvosa.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Previsão do tempo hoje para Santo André (SP): sol com muitas nuvens a nublado com chuva de manhã; tarde com temporal e noite chuvosa",
+      "resumo": "Previsão do tempo hoje em Santo André\ng1\nA previsão do tempo para esta terça-feira (1) para Santo André (SP) é de sol com muitas nuvens a nublado com chuva de manhã. Tarde com temporal e noite chuvosa",
+      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/01/previsao-do-tempo-hoje-para-santo-andre-sp-sol-com-muitas-nuvens-a-nublado-com-chuva-de-manha-tarde-com-temporal-e-noite-chuvosa.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Previsão do tempo hoje para Osasco (SP): sol com muitas nuvens a nublado com chuva de manhã; tarde com temporal e noite chuvosa",
+      "resumo": "Previsão do tempo hoje em Osasco\ng1\nA previsão do tempo para esta terça-feira (1) para Osasco (SP) é de sol com muitas nuvens a nublado com chuva de manhã. Tarde com temporal e noite chuvosa. As máxim",
+      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/01/previsao-do-tempo-hoje-para-osasco-sp-sol-com-muitas-nuvens-a-nublado-com-chuva-de-manha-tarde-com-temporal-e-noite-chuvosa.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Previsão do tempo hoje para Guarulhos (SP): sol com muitas nuvens a nublado com chuva de manhã; tarde com temporal e noite chuvosa",
+      "resumo": "Previsão do tempo hoje em Guarulhos\ng1\nA previsão do tempo para esta terça-feira (1) para Guarulhos (SP) é de sol com muitas nuvens a nublado com chuva de manhã. Tarde com temporal e noite chuvosa. As",
+      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/01/previsao-do-tempo-hoje-para-guarulhos-sp-sol-com-muitas-nuvens-a-nublado-com-chuva-de-manha-tarde-com-temporal-e-noite-chuvosa.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Previsão do tempo hoje para São Gonçalo (RJ): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
@@ -27,48 +69,6 @@
       "titulo": "Previsão do tempo hoje para Niterói (RJ): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
       "resumo": "Previsão do tempo hoje em Niterói\ng1\nA previsão do tempo para esta terça-feira (1) para Niterói (RJ) é de sol com muitas nuvens e períodos de céu nublado. Noite com pancadas de chuva. As máximas são d",
       "link": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/01/previsao-do-tempo-hoje-para-niteroi-rj-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Duque de Caxias (RJ): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
-      "resumo": "Previsão do tempo hoje em Duque de Caxias\ng1\nA previsão do tempo para esta terça-feira (1) para Duque de Caxias (RJ) é de sol com muitas nuvens e períodos de céu nublado. Noite com pancadas de chuva. ",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/01/previsao-do-tempo-hoje-para-duque-de-caxias-rj-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Sete Lagoas (MG): sol o dia todo sem nuvens no céu, com aumento de nebulosidade à noite; não chove",
-      "resumo": "Previsão do tempo hoje em Sete Lagoas\ng1\nA previsão do tempo para esta terça-feira (1) para Sete Lagoas (MG) é de sol o dia todo sem nuvens no céu, com aumento de nebulosidade à noite. Não chove. As m",
-      "link": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/09/01/previsao-do-tempo-hoje-para-sete-lagoas-mg-sol-o-dia-todo-sem-nuvens-no-ceu-com-aumento-de-nebulosidade-a-noite-nao-chove.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Ribeirão das Neves (MG): dia de sol com algumas nuvens e névoa ao amanhecer; noite com poucas nuvens",
-      "resumo": "Previsão do tempo hoje em Ribeirão das Neves\ng1\nA previsão do tempo para esta terça-feira (1) para Ribeirão das Neves (MG) é de dia de sol com algumas nuvens e névoa ao amanhecer. Noite com poucas nuv",
-      "link": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/09/01/previsao-do-tempo-hoje-para-ribeirao-das-neves-mg-dia-de-sol-com-algumas-nuvens-e-nevoa-ao-amanhecer-noite-com-poucas-nuvens.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Contagem (MG): dia de sol com algumas nuvens e névoa ao amanhecer; noite com poucas nuvens",
-      "resumo": "Previsão do tempo hoje em Contagem\ng1\nA previsão do tempo para esta terça-feira (1) para Contagem (MG) é de dia de sol com algumas nuvens e névoa ao amanhecer. Noite com poucas nuvens. As máximas são ",
-      "link": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/09/01/previsao-do-tempo-hoje-para-contagem-mg-dia-de-sol-com-algumas-nuvens-e-nevoa-ao-amanhecer-noite-com-poucas-nuvens.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Betim (MG): sol com algumas nuvens durante o dia; à noite o céu fica com muitas nuvens, mas não chove",
-      "resumo": "Previsão do tempo hoje em Betim\ng1\nA previsão do tempo para esta terça-feira (1) para Betim (MG) é de sol com algumas nuvens durante o dia. À noite o céu fica com muitas nuvens, mas não chove. As máxi",
-      "link": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/09/01/previsao-do-tempo-hoje-para-betim-mg-sol-com-algumas-nuvens-durante-o-dia-a-noite-o-ceu-fica-com-muitas-nuvens-mas-nao-chove.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Belo Horizonte (MG): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
-      "resumo": "Previsão do tempo hoje em Belo Horizonte\ng1\nA previsão do tempo para esta terça-feira (1) para Belo Horizonte (MG) é de sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite. As máxima",
-      "link": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/09/01/previsao-do-tempo-hoje-para-belo-horizonte-mg-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
       "fonte": "G1"
     },
     {
