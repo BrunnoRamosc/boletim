@@ -1,6 +1,20 @@
 {
-  "atualizadoEm": "2026-09-01T04:39:21.207931",
+  "atualizadoEm": "2026-09-01T05:08:21.702662",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Uma cerveja que não chegava virou negócio: app para quiosques fatura R$ 60 mil por mês",
+      "resumo": "Como demora no atendimento em quiosque de praia fez cliente frustrado faturar mais de R$ 60 mil por mês\nVocê já enfrentou dificuldades para fazer pedidos naqueles típicos quiosques à beira-mar? O sol ",
+      "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/09/01/uma-cerveja-que-nao-chegava-virou-negocio-app-para-quiosques-fatura-r-60-mil-por-mes.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Marcelo Gasparini: a trajetória do sertanejo do Clube da Viola que morreu após luta contra o câncer",
+      "resumo": "Antes da morte, Marcelo cantou pela última vez com o irmão durante tratamento de câncer\nA morte do cantor e empresário Marcelo Gasparini, aos 54 anos, na segunda-feira (31) deixou o meio musical serta",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/09/01/marcelo-gasparini-a-trajetoria-do-sertanejo-do-clube-da-viola-que-morreu-apos-luta-contra-o-cancer.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Previsão do tempo hoje para Brasília (DF): dia de sol com algumas nuvens e névoa ao amanhecer; noite com poucas nuvens",
@@ -55,20 +69,6 @@
       "titulo": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
       "resumo": "Previsão do tempo hoje em Rio de Janeiro\ng1\nA previsão do tempo para esta terça-feira (1) para o Rio de Janeiro (RJ) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de ",
       "link": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/01/previsao-do-tempo-hoje-para-o-rio-de-janeiro-rj-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
-      "resumo": "Previsão do tempo hoje em Nova Iguaçu\ng1\nA previsão do tempo para esta terça-feira (1) para Nova Iguaçu (RJ) é de sol com muitas nuvens e períodos de céu nublado. Noite com pancadas de chuva. As máxim",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/01/previsao-do-tempo-hoje-para-nova-iguacu-rj-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Niterói (RJ): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
-      "resumo": "Previsão do tempo hoje em Niterói\ng1\nA previsão do tempo para esta terça-feira (1) para Niterói (RJ) é de sol com muitas nuvens e períodos de céu nublado. Noite com pancadas de chuva. As máximas são d",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/01/previsao-do-tempo-hoje-para-niteroi-rj-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
       "fonte": "G1"
     },
     {
