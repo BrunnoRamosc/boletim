@@ -1,6 +1,62 @@
 {
-  "atualizadoEm": "2026-09-02T05:08:03.788060",
+  "atualizadoEm": "2026-09-02T05:39:57.320540",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Camaru 2026: Confira a programação desta quarta-feira, 2 de setembro",
+      "resumo": "Cantora Naessa se apresenta na quarta-feira (2) no palco do Camaru, em Uberlândia\nRedes Socias/Facebook Naeesa/Reprodução\nA noite desta quarta-feira (2) será de sertanejo feminino no palco da 62ª ediç",
+      "link": "https://g1.globo.com/mg/triangulo-mineiro/agronegocios/noticia/2026/09/02/camaru-2026-confira-a-programacao-desta-quarta-feira-2-de-setembro.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Quem era a mulher encontrada morta e sem braço em canavial de Capivari",
+      "resumo": "'Fiquei abismada', diz mãe de mulher achada morta em canavial após prisão de empresário\nSamantha Afra Ribeiro Dias, de 36 anos, foi encontrada morta com marcas de violência em uma estrada de terra, pr",
+      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/02/quem-era-a-mulher-encontrada-morta-e-sem-braco-em-canavial-de-capivari.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Latrocínio na Vila Seixas: o que se sabe sobre suspeitos de participar de morte de empresário em Ribeirão Preto",
+      "resumo": "Suspeito de participar de morte de empresário em Ribeirão Preto já tinha passagens pela po\nA Polícia Civil aponta que o latrocínio do empresário Paulo de Tarso Vallini, de 69 anos, foi praticado por d",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/09/02/latrocinio-na-vila-seixas-o-que-se-sabe-sobre-suspeitos-de-participar-de-morte-de-empresario-em-ribeirao-preto.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Passageira que atacou motorista de aplicativo com tesoura em Salvador é investigada por lesão corporal",
+      "resumo": "Motorista de aplicativo é atacado por passageira com tesouradas após discussão\nA passageira gravada ao atacar um motorista por aplicativo com uma tesoura durante uma corrida em Salvador responde por l",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/09/02/passageira-que-atacou-motorista-de-aplicativo-com-tesoura-em-salvador-e-investigada-por-lesao-corporal.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Com calor e seca no DF, veja como cuidar das crianças e evitar que elas fiquem desidratadas",
+      "resumo": "Criança se refresca com vapor d'água em imagem de arquivo.\nMarcelo Brandt/G1\nDurante o período de seca no Distrito Federal, o cuidado com as crianças deve ser redobrado. Com o tempo seco e a baixa umi",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/09/02/com-calor-e-seca-no-df-veja-como-cuidar-das-criancas-e-evitar-que-elas-fiquem-desidratadas.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Para onde a gordura vai quando você emagrece? A resposta está na sua respiração e no seu suor",
+      "resumo": "Magnific\nA maioria de nós sabe que é preciso comer menos e praticar mais atividades físicas para perder peso. Ao colocar nosso corpo em déficit calórico, “queimamos” mais calorias do que ingerimos — e",
+      "link": "https://g1.globo.com/saude/noticia/2026/09/02/para-onde-a-gordura-vai-quando-voce-emagrece-a-resposta-esta-na-sua-respiracao-e-no-seu-suor.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "O que 20 minutos de exercício fazem no cérebro após uma noite sem dormir",
+      "resumo": "Freepik\nDepois de uma noite inteira sem dormir, é intuitivo imaginar que fechar os olhos por algum tempo ajude o cérebro a funcionar melhor. O que surpreendeu pesquisadores foi perceber que, para uma ",
+      "link": "https://g1.globo.com/saude/noticia/2026/09/02/o-que-20-minutos-de-exercicio-fazem-no-cerebro-apos-uma-noite-sem-dormir.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Brasil vai testar 1ª vacina de mRNA em humanos e mira usar a tecnologia contra câncer e outras doenças",
+      "resumo": "Brasil vai testar em humanos primeira vacina com mRNA com tecnologia 100% nacional\nBernardo Portella\nO Brasil vai testar em humanos, pela primeira vez, uma vacina desenvolvida com tecnologia de RNA me",
+      "link": "https://g1.globo.com/saude/noticia/2026/09/02/brasil-vai-testar-1a-vacina-de-mrna-em-humanos-e-mira-usar-a-tecnologia-contra-cancer-e-outras-doencas.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Eleições 2026: veja todos os candidatos ao governo de Mato Grosso",
@@ -13,62 +69,6 @@
       "titulo": "Eleições 2026: veja todos os candidatos ao governo da Bahia",
       "resumo": "Cargos Governador - BA\nA Bahia (BA) tem 7 candidatos registrados para disputar o governo da Bahia nas eleições de 2026, segundo dados do Tribunal Superior Eleitoral (TSE).\nO 1º turno da votação será r",
       "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-veja-todos-os-candidatos-ao-governo-da-bahia.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "As mensagens de Vorcaro a Moraes e o futuro do Caso Master no Supremo - O Assunto #1796",
-      "resumo": "Relator do Caso Master no Supremo Tribunal Federal, o ministro André Mendonça retirou nesta terça-feira (1º) o sigilo de um relatório da Polícia Federal que tem menções ao também ministro do STF Alexa",
-      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/02/as-mensagens-de-vorcaro-a-moraes-e-o-futuro-do-caso-master-no-supremo-o-assunto-1796.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Brasília (DF): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
-      "resumo": "Previsão do tempo hoje em Brasília\ng1\nA previsão do tempo para esta quarta-feira (2) para Brasília (DF) é de sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite. As máximas são de 32",
-      "link": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/02/previsao-do-tempo-hoje-para-brasilia-df-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para São Paulo (SP): céu nublado com possibilidade de garoa o dia todo; à noite as nuvens diminuem devagar",
-      "resumo": "Previsão do tempo hoje em São Paulo\ng1\nA previsão do tempo para esta quarta-feira (2) para São Paulo (SP) é de céu nublado com possibilidade de garoa o dia todo. À noite as nuvens diminuem devagar. As",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/02/previsao-do-tempo-hoje-para-sao-paulo-sp-ceu-nublado-com-possibilidade-de-garoa-o-dia-todo-a-noite-as-nuvens-diminuem-devagar.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "resumo": "Previsão do tempo hoje em São Bernardo do Campo\ng1\nA previsão do tempo para esta quarta-feira (2) para São Bernardo do Campo (SP) é de sol com muitas nuvens durante o dia e períodos de céu nublado. No",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/02/previsao-do-tempo-hoje-para-sao-bernardo-do-campo-sp-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Santo André (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "resumo": "Previsão do tempo hoje em Santo André\ng1\nA previsão do tempo para esta quarta-feira (2) para Santo André (SP) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuven",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/02/previsao-do-tempo-hoje-para-santo-andre-sp-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Osasco (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "resumo": "Previsão do tempo hoje em Osasco\ng1\nA previsão do tempo para esta quarta-feira (2) para Osasco (SP) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máxi",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/02/previsao-do-tempo-hoje-para-osasco-sp-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Guarulhos (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "resumo": "Previsão do tempo hoje em Guarulhos\ng1\nA previsão do tempo para esta quarta-feira (2) para Guarulhos (SP) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. A",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/02/previsao-do-tempo-hoje-para-guarulhos-sp-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para São Gonçalo (RJ): sol com algumas nuvens e chuva passageira durante o dia; à noite o tempo fica firme",
-      "resumo": "Previsão do tempo hoje em São Gonçalo\ng1\nA previsão do tempo para esta quarta-feira (2) para São Gonçalo (RJ) é de sol com algumas nuvens e chuva passageira durante o dia. À noite o tempo fica firme. ",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/02/previsao-do-tempo-hoje-para-sao-goncalo-rj-sol-com-algumas-nuvens-e-chuva-passageira-durante-o-dia-a-noite-o-tempo-fica-firme.ghtml",
       "fonte": "G1"
     },
     {
