@@ -1,6 +1,20 @@
 {
-  "atualizadoEm": "2026-09-02T07:38:40.925856",
+  "atualizadoEm": "2026-09-02T08:09:59.051807",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Pesquisa inédita revela que cada tamanduá-bandeira tem 'impressão digital' única na pelagem",
+      "resumo": "Mapeamento revela impressão digital única de tamanduás\nUma pesquisa inédita realizada no Pantanal e no Cerrado descobriu que, apesar de parecerem iguais, as marcas do tamanduá-bandeira escondem uma co",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/02/pesquisa-inedita-revela-que-cada-tamandua-bandeira-tem-impressao-digital-unica-na-pelagem.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Carro atropela manifestação pró-governo no Irã e mata quatro pessoas",
+      "resumo": "Um carro atingiu uma concentração de apoiadores do governo e das forças armadas do Irã na cidade de Mashhad, no nordeste do país, durante a madrugada desta quarta-feira (2), matando quatro pessoas e f",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/02/carro-atropela-manifestacao-pro-governo-no-ira.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Martinho da Vila e Mart’nália, Angra, MCida, Festival de Palhaços e teatro com Dan Stulbach: veja agenda da semana",
@@ -59,23 +73,16 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Entenda como a polícia chegou à casa de suspeito de matar casal de comerciantes em Fortaleza",
-      "resumo": "Suspeito de matar casal que trabalhava em trailer de lanche é preso em Fortaleza\nNo domingo (30), a Polícia Civil prendeu um homem de 27 anos suspeito de matar um casal de comerciantes em um trailer d",
-      "link": "https://g1.globo.com/ce/ceara/noticia/2026/09/02/entenda-como-a-policia-chegou-a-casa-de-suspeito-de-matar-casal-de-comerciantes-em-fortaleza.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Médica presa por engano pela PF relata separação da filha de 6 meses e noites na prisão em MS",
-      "resumo": "\"Paguei pelo o crime de outra pessoa por 28 dias', diz médica presa por engano em MS\n\"Paguei pelo o crime de outra pessoa por 28 dias', diz médica presa por engano em MS\nA médica Ana Paula Nunes dos S",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/02/medica-presa-por-engano-pela-pf-relata-separacao-da-filha-de-6-meses-e-noites-na-prisao-em-ms.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
       "titulo": "Por que caso Moraes é crise 'sem precedentes' no STF  — e o que pode acontecer agora com o ministro",
       "resumo": "Para criminalistas ouvidos pela BBC News Brasil, interações de ministro do STF com Vorcaro são graves e devem ser apuradas; Procuradoria-Geral da República pediu anulação da investigação; mensagens ex",
       "link": "https://www.bbc.com/portuguese/articles/czrznl6kzmno?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Como é o projeto de trabalho flexível apoiado por Flávio Bolsonaro que vai na contramão da PEC do fim da 6x1",
+      "resumo": "Críticos dizem que proposta seria 'PEC da Escravidão', enquanto defensores exaltam liberdade para trabalhador definir sua jornada.",
+      "link": "https://www.bbc.com/portuguese/articles/c36l0k403wzo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
@@ -125,13 +132,6 @@
       "titulo": "Augusto Cury chega a 3º lugar: quem está à frente na intenção de voto para presidente no Agregador de Pesquisas da BBC",
       "resumo": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Por que as reservas estratégicas de petróleo dos EUA estão no nível mais baixo desde 1983 e como isso influi no acordo com a Venezuela",
-      "resumo": "Estados Unidos mantêm milhões de barris de petróleo armazenados para enfrentar situações de crise, mas reservas caíram com guerra na Ucrânia e, recentemente, a guerra no Irã; com o acordo com a Venezu",
-      "link": "https://www.bbc.com/portuguese/articles/cp802e0rk5po?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
