@@ -1,6 +1,27 @@
 {
-  "atualizadoEm": "2026-09-03T08:10:03.565536",
+  "atualizadoEm": "2026-09-03T08:40:53.828045",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Vídeo mostra pombos comendo produtos em hipermercado no litoral de SP: 'Enojada', diz cliente",
+      "resumo": "Cliente registra pombos se alimentando em corredor de mercado no litoral de SP\nUma mulher de 50 anos filmou pombos dentro de um hipermercado em São Vicente, no litoral de São Paulo. Nas imagens obtida",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/03/video-mostra-pombos-comendo-produtos-em-hipermercado-no-litoral-de-sp-enojada-diz-cliente.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Saiba quem era o homem morto em 'tribunal do crime' após acusação de assédio no litoral de SP",
+      "resumo": "Homem é sequestrado antes de ser morto pelo ‘tribunal do crime’ em Itanhaém, SP\nJosé Aparecido Ferreira, o homem morto em um “tribunal do crime” em Itanhaém, no litoral de São Paulo, era pedreiro e de",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/03/saiba-quem-era-o-homem-morto-em-tribunal-do-crime-apos-acusacao-de-assedio-no-litoral-de-sp.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Pedreiro desmaiou ao tentar salvar amigo que morreu em caixa-d'água de obra no litoral de SP: 'Apaguei'",
+      "resumo": "Caixa-d'água estava lacrada e precisou ser quebrada para os trabalhadores acessarem.\nReprodução\n \nUm dos pedreiros que tentaram salvar Bruno Reis dos Santos, morto no primeiro dia de trabalho após ent",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/03/pedreiro-desmaiou-ao-tentar-salvar-amigo-que-morreu-em-caixa-dagua-de-obra-no-litoral-de-sp-apaguei.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Eleições 2026: Mais de 10,8 mil eleitores solicitaram transferência temporária para votar no Vale e região; veja nº por cidades",
@@ -48,27 +69,6 @@
       "titulo": "Festival Internacional de Dança do Recife tem dez dias de espetáculos de grupos nacionais e estrangeiros; veja programação",
       "resumo": "Espetáculo 'Carvão' faz parte da programação do 29º Festival Internacional de Dança do Recife\nSergio Fernandes/Divulgação\nComeça nesta quinta-feira (3) o 29º Festival Internacional de Dança do Recife.",
       "link": "https://g1.globo.com/pe/pernambuco/o-que-fazer-no-recife/noticia/2026/09/03/festival-internacional-de-danca-do-recife.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "VÍDEO: Onça invade propriedade, ataca dois cães e mata um deles no interior do AM",
-      "resumo": "Onça invade propriedade, ataca dois cães e mata um deles no AM\nUma onça atacou dois cães e matou um deles em uma propriedade rural de Santa Isabel do Rio Negro, no interior do Amazonas. O ataque acont",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/09/03/video-onca-invade-propriedade-ataca-dois-caes-e-mata-um-deles-no-interior-do-am.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Pagode in Rio? Belo revela conversa com curador do festival sobre chance no Palco Mundo",
-      "resumo": "O cantor Belo durante show\nDivulgação\nSerá que um dia veremos pagode no Palco Mundo do Rock in Rio? Se depender do cantor Belo... não.\nDepois de estrear no Rock in Rio Lisboa, o pagodeiro fará seu seg",
-      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/03/pagode-in-rio-belo-revela-conversa-com-curador-do-festival-sobre-chance-no-palco-mundo.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Do YouTube ao Rock in Rio: Lucas Inutilismo diz que tocará 'metal pesado' para público variado",
-      "resumo": "LVCAS durante apresentação. Cantor e multi-instrumentista mistura metal, metalcore, trap, hip-hop e elementos de eletrônica em seus shows.\n@moodgate\nLucas Vinícius resolveu ser um rockstar por influên",
-      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/03/do-youtube-ao-rock-in-rio-lucas-inutilismo-diz-que-tocara-metal-pesado-para-publico-variado.ghtml",
       "fonte": "G1"
     },
     {
@@ -129,7 +129,7 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Augusto Cury chega a 3º lugar: quem está à frente na intenção de voto para presidente no Agregador de Pesquisas da BBC",
+      "titulo": "Após Quaest, Lula e Flávio aparecem empatados no 2º turno e Cury se firma em 3º lugar: como está a intenção de voto para presidente no Agregador de Pesquisas da BBC",
       "resumo": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
