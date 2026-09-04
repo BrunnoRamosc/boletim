@@ -1,11 +1,53 @@
 {
-  "atualizadoEm": "2026-09-04T19:07:16.153242",
+  "atualizadoEm": "2026-09-04T19:35:58.857446",
   "itens": [
     {
       "categoria": "Geral",
-      "titulo": "TV Gazeta celebra 50 anos com reportagens temáticas, jornal fora do estúdio e Globo Repórter especial",
-      "resumo": "Comemorações dos 50 anos da TV Gazeta começam na próxima semana\nA TV Gazeta, afiliada da TV Globo no Espírito Santo, irá celebrar seus 50 anos de história com uma programação jornalística especial. Na",
-      "link": "https://g1.globo.com/es/espirito-santo/tv-gazeta-50-anos/noticia/2026/09/04/tv-gazeta-celebra-50-anos-com-reportagens-tematicas-jornal-fora-do-estudio-e-globo-reporter-especial.ghtml",
+      "titulo": "VÍDEOS: Jornal do Acre 1ª Edição desta sexta-feira, 4 de setembro de 2026",
+      "resumo": "",
+      "link": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-sexta-feira-4-de-setembro-de-2026.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Saúde mental no trabalho exige atenção aos sinais de sobrecarga e adoecimento",
+      "resumo": "A rotina profissional pode envolver cobranças, prazos, mudanças constantes e jornadas intensas. Quando esses fatores se tornam frequentes e ultrapassam a capacidade de adaptação do trabalhador, podem ",
+      "link": "https://g1.globo.com/mt/mato-grosso/especial-publicitario/unimed-cuiaba-unimed-cuiaba-ha-50-anos-cuidando-de-geracoes/noticia/2026/09/04/saude-mental-no-trabalho-exige-atencao-aos-sinais-de-sobrecarga-e-adoecimento.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Trabalhadores morrem após estrutura metálica desabar em obra de supermercado em Campo Grande",
+      "resumo": "Estrutura que desabou causando a morte de trabalhadores.\nDiogo Nolasco.\nDois trabalhadores morreram no desabamento da estrutura metálica na tarde desta sexta-feira (4), no Bairro Aero Rancho, em Campo",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/04/trabalhadores-morrem-apos-estrutura-metalica-desabar-em-obra-de-supermercado-em-campo-grande.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Caso Dayse: exame de DNA confirma identidade e corpo é liberado para sepultamento em Santarém",
+      "resumo": "Dayse Diniz estava desaparecida desde a última quinta-feira\nDivulgação/Redes Sociais\nA Polícia Científica liberou para sepultamento o corpo de Dayse Diniz, em Santarém, no oeste do Pará. O resultado d",
+      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/09/04/caso-dayse-exame-de-dna-confirma-identidade-e-corpo-e-liberado-para-sepultamento-em-santarem.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Taubaté lidera geração de empregos no Vale com 2.730 vagas criadas em 2026",
+      "resumo": "Taubaté é a cidade do Vale do Paraíba que mais criou postos de trabalho de janeiro a julho de 2026, de acordo com dados divulgados pelo Caged (Cadastro Geral de Empregados e Desempregados).\nDe janeiro",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-taubate/nosso-caminho-e-o-progresso/noticia/2026/09/04/taubate-lidera-geracao-de-empregos-no-vale-com-2730-vagas-criadas-em-2026.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Justiça condena dois homens por latrocínio de motorista de aplicativo morto a tiros em Jacareí",
+      "resumo": "Carlos Eduardo de Faria Cesar, motorista de aplicativo de São José dos Campos\nImagem cedida pela família\nA Justiça condenou dois homens pela morte do motorista de aplicativo Carlos Eduardo de Faria Cé",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/04/justica-condena-dois-homens-por-latrocinio-de-motorista-de-aplicativo-morto-a-tiros-em-jacarei.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Cidade do AC recebe mais de R$ 1,7 milhão do governo federal para ações de proteção",
+      "resumo": "Sena Madureira deve receber repasse para execução de ações de proteção e Defesa Civil\nDefesa Civil Municipal de Sena Madureira\nA cidade de Sena Madureira, no interior do Acre, teve o repasse de R$ 1.7",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/09/04/cidade-do-ac-recebe-mais-de-r-17-milhao-do-governo-federal-para-acoes-de-protecao.ghtml",
       "fonte": "G1"
     },
     {
@@ -17,58 +59,16 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Troca de tiros entre suspeitos e PM deixa dois feridos em Resende",
-      "resumo": "Troca de tiros com a PM deixa dois suspeitos baleados e um preso em Resende.\nDivulgação/Polícia Militar\nUm jovem, de 18 anos, e um adolescente, de 17, foram baleados durante uma troca de tiros em uma ",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/04/troca-de-tiros-entre-suspeitos-e-pm-deixa-dois-feridos-em-resende.ghtml",
+      "titulo": "Cupins SP chega a Taubaté com soluções especializadas contra cupins",
+      "resumo": "A presença de cupins em móveis, portas, pisos e estruturas de madeira pode começar de maneira quase imperceptível. Pequenos sinais, como furos, resíduos semelhantes a pó e alterações na madeira, podem",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/cupins-sp-descupinizacao/noticia/2026/09/04/cupins-sp-chega-a-taubate-com-solucoes-especializadas-contra-cupins.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "7 de setembro: confira o esquema de trânsito para o desfile cívico em João Pessoa",
-      "resumo": "Desfile de 7 de setembro de 2023, em João Pessoa\nAntônio Vieira/TV Cabo Branco\ns\nO Dia da Independência do Brasil é comemorado nesta segunda-feira, 7 de setembro. Em João Pessoa, acontece o tradiciona",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/09/04/7-de-setembro-confira-o-esquema-de-transito-para-o-desfile-civico-em-joao-pessoa.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Festival Interlagos 2026 teve 36 lançamentos de carros e 15,2 mil testes feitos pelo público",
-      "resumo": "Público pode experiemntar carros na pista dusrante o Festival Interlagos.\nDivulgação\nO Festival Interlagos Edição Auto, que aconteceu entre os dias 27 e 30 de agosto, reuniu 215 mil visitantes e teve ",
-      "link": "https://g1.globo.com/carros/noticia/2026/09/04/festival-interlagos-2026.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Cuidados com o cabelo masculino podem ser simples e rápidos",
-      "resumo": "O tempo dedicado ao cabelo masculino costuma ser curto. Para muita gente, ele se resume aos minutos do banho e à arrumação antes de sair de casa. Isso não impede que a manutenção seja eficiente. Uma l",
-      "link": "https://g1.globo.com/pr/parana/especial-publicitario/h2o-evolution-h2o-evolution-tudo-comeca-na-cabeca/noticia/2026/09/04/cuidados-com-o-cabelo-masculino-podem-ser-simples-e-rapidos.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Policial penal é investigado por agredir namorada com empurrões e puxões de cabelo em Boa Vista",
-      "resumo": "Policial penal é suspeito de agredir namorada em Boa Vista\nO policial penal Philip Borges Costa, de 28 anos, é investigado por suspeita de agredir a namorada, de 24, dentro da casa dela, em Boa Vista.",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/09/04/policial-penal-e-investigado-por-agredir-namorada-com-empurroes-e-puxoes-de-cabelo-em-boa-vista.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Quaest: para 57%, ausência de candidato em debates não afeta decisão do voto",
-      "resumo": "Pesquisa Quaest divulgada nesta sexta-feira (4) mostra que, para 57% dos eleitores entrevistados, o fato de um candidato não ir aos debates durante a campanha não afeta a decisão de voto. \nOutros 37% ",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/04/quaest-para-57percent-ausencia-de-candidato-em-debates-nao-afeta-decisao-do-voto.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Técnico denunciado por assédio contra alunas na Uespi é afastado após protesto de estudantes",
-      "resumo": "Técnico denunciado por assédio contra alunas na Uespi é afastado após protesto de estudantes\nReprodução\nUm técnico administrativo da Universidade Estadual do Piauí (Uespi), que não teve a identidade r",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/09/04/tecnico-assedio-uespi-afastado.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "União Europeia deve voltar a comprar mel e carne de aves do Brasil, diz governo",
-      "resumo": "Frango cru\nJK Sloan\nO Brasil deve retornar à lista de fornecedores de mel e carne de aves da União Europeia em breve, afirmou o Ministério da Agricultura, nesta sexta-feira (4).\nO bloco concluiu audit",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/04/uniao-europeia-deve-voltar-a-comprar-mel-e-carne-de-aves-do-brasil-diz-governo.ghtml",
+      "titulo": "Homem é baleado no rosto em tentativa de homicídio em RR; polícia apura relação com facções",
+      "resumo": "Polícia Militar de Roraima atendeu a ocorrência e repassou para a Delegacia Geral de Homicídios, da Polícia Civil de Roraima.\nVanessa Fernandes/g1 RR/Arquivo\nUm homem de 28 anos foi baleado no rosto d",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/09/04/homem-e-baleado-no-rosto-em-tentativa-de-homicidio-em-rr-policia-apura-relacao-com-faccoes.ghtml",
       "fonte": "G1"
     },
     {
