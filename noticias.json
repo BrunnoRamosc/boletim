@@ -1,6 +1,20 @@
 {
-  "atualizadoEm": "2026-09-04T03:08:54.153319",
+  "atualizadoEm": "2026-09-04T03:38:49.491371",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Arruda pode seguir fazendo campanha no DF? Pode recorrer? Entenda o que acontece agora",
+      "resumo": "José Roberto Arruda em 6 de agosto de 2026, em Brasília\nMarcella Rodrigues/g1\nO Tribunal Regional Eleitoral do Distrito Federal (TRE-DF) rejeitou nesta quinta-feira (3), por unanimidade, o registro da",
+      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/04/arruda-pode-seguir-fazendo-campanha-no-df-pode-recorrer-entenda-o-que-acontece-agora.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Homem é morto e outro fica ferido após ataque a tiros na Pedreira, em Belém",
+      "resumo": "Ataque a tiros deixa um homem morto e outro ferido na Pedreira, em Belém.\nReprodução / TV Liberal\nUm ataque a tiros assustou moradores e mobilizou equipes policiais no fim da tarde de quinta-feira (2)",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/09/04/homem-e-morto-e-outro-fica-ferido-apos-ataque-a-tiros-na-pedreira-em-belem.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Mulher já havia entregue outros dois bilhetes à escola antes de ser resgatada do cárcere privado na BA",
@@ -59,21 +73,7 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Por que 'Everlong' sempre fecha os shows do Foo Fighters?",
-      "resumo": "O vocalista Dave Grohl, do Foo Fighters, no Rock in Rio 3, em 2001, e na edição de 2019\nL.C. Leite/Estadão Conteúdo/Arquivo; Marcelo Brandt/G1\nDo Rock in Rio 2001 ao The Town em 2023, o Foo Fighters v",
-      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/04/por-que-everlong-sempre-fecha-os-shows-do-foo-fighters.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Rock in Rio aposta em artistas influencers para line-up de 2026; conheça os principais",
-      "resumo": "Ananda, Diogo Defante e Lucas Inutilismo representam uma nova geração de artistas que também faz sucesso no digital.\nReprodução/Redes Sociais.\nO Rock in Rio tem ampliado o espaço para artistas que con",
-      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/04/rock-in-rio-aposta-em-artistas-influencers-para-line-up-de-2026-conheca-os-principais.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Moraes acusa Mendonça de agir por 'motivos políticos' e pede que colega de STF seja investigado; o que se sabe da crise na Corte",
+      "titulo": "Moraes acusa Mendonça de agir por 'motivos políticos' e pede providências de Fachin contra o colega de STF; o que se sabe da crise na Corte",
       "resumo": "Alexandre de E o presidente do STF Edson Fachin pediu esclarecimentos aos ministros Alexandre de Moraes e André Mendonça; enquanto isso, Moraes pediu formalmente a inclusão de Mendonça no chamado Inqu",
       "link": "https://www.bbc.com/portuguese/articles/cly457vr0nro?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
