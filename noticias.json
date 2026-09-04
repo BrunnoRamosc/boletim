@@ -1,6 +1,20 @@
 {
-  "atualizadoEm": "2026-09-04T08:40:40.062829",
+  "atualizadoEm": "2026-09-04T09:08:53.838779",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Aérea japonesa faz novo pedido e eleva para 23 encomenda de aeronaves da Embraer",
+      "resumo": "Jatos E-190-E2 da Embraer operam desde 2009 no Japão\nDivulgação/Embraer\nA companhia japonesa ANA HD confirmou na noite de quinta-feira (3) a compra adicional de oito aeronaves E190-E2 da Embraer. A ac",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/04/aerea-japonesa-faz-novo-pedido-e-eleva-para-23-encomenda-de-aeronaves-da-embraer.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Assista ao Jornal da Manhã",
+      "resumo": "Assista ao Jornal da Manhã",
+      "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Ciclista morto atropelado após treino de jiu-jitsu é homenageado com faixa roxa em velório",
@@ -59,23 +73,16 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Dia da Independência: confira programação dos desfiles cívicos na região de Piracicaba",
-      "resumo": "Estudantes de São Pedro (SP) em Desfile do Dia da Independência do Brasil\nTiago Stoco\nAs cidades que fazem parte da região de Piracicaba (SP) promovem desfiles cívicos em comemoração ao Dia da Indepen",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/04/dia-da-independencia-confira-programacao-dos-desfiles-civicos-na-regiao-de-piracicaba.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Feriado de 7 de Setembro: saiba o que abre e o que fecha em Fortaleza no Dia da Independência do Brasil",
-      "resumo": "Desfile cívico de 7 de setembro em Fortaleza\nFabiane de Paula/SVM\nO Brasil celebra, na próxima segunda-feira, o Dia da Independência do Brasil, em 7 de setembro. O feriado nacional irá alterar o funci",
-      "link": "https://g1.globo.com/ce/ceara/noticia/2026/09/04/feriado-de-7-de-setembro-saiba-o-que-abre-e-o-que-fecha-em-fortaleza-no-dia-da-independencia-do-brasil.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
       "titulo": "Moraes acusa Mendonça de agir para favorecer 'grupos políticos', pede providências de Fachin e agrava crise no STF",
       "resumo": "Alexandre de Moraes usou controverso Inquérito das Fake News para requisitar da PF relatórios de inteligência contra colega. 'Aos olhos da sociedade, o tribunal parece estar implodindo', diz cientista",
       "link": "https://www.bbc.com/portuguese/articles/cly457vr0nro?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "BBC entra em área do Líbano onde Israel avança com tropas e demolições apesar de cessar-fogo",
+      "resumo": "Equipe da BBC acompanhou missão humanitária da ONU, que diz que Israel reforça suas posições e segue demolindo estruturas.",
+      "link": "https://www.bbc.com/portuguese/articles/cvgyp5xpmmlo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
@@ -118,13 +125,6 @@
       "titulo": "Morre aos 33 anos Carla Jeffery, 'linda e vibrante' estrela da Disney",
       "resumo": "Jeffery era conhecido por interpretar a líder de torcida Bree no filme 'Zombies', do Disney Channel, de 2018, e em suas duas sequências.",
       "link": "https://www.bbc.com/portuguese/articles/cz0z1930er9o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Gloria Steinem, um ícone do feminismo americano que se infiltrou na Playboy para denunciar as condições de trabalho das mulheres",
-      "resumo": "Uma das principais líderes na defesa dos direitos das mulheres nos Estados Unidos morreu aos 92 anos.",
-      "link": "https://www.bbc.com/portuguese/articles/c5yjre413e4o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
