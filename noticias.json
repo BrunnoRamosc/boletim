@@ -1,6 +1,13 @@
 {
-  "atualizadoEm": "2026-09-04T07:39:16.019727",
+  "atualizadoEm": "2026-09-04T08:10:03.127168",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Casal é condenado a mais de 34 anos de prisão por morte de menina de 2 anos e tortura de irmã no RS",
+      "resumo": "A Justiça condenou a mãe e o padrasto de duas crianças por crimes de tortura e pela morte de uma menina de 2 anos em Santa Vitória do Palmar, no Sul do Rio Grande do Sul.\nAs penas foram definidas pelo",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/04/casal-condenado-prisao-morte-menina-2-anos-tortura-irma-rs.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Procon-MPMG multa Claro em R$ 6,7 milhões por cobrança de serviços não contratados por clientes",
@@ -66,13 +73,6 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "VÍDEO: Mãe 'perde o controle', parte para cima de funcionária e dá início à briga generalizada em parquinho de restaurante de Uberlândia",
-      "resumo": "Mãe diz que filha foi destratada e parte para cima de funcionária de parquinho em MG\nUma confusão no parquinho de um restaurante no bairro Santa Mônica, em Uberlândia, entre a mãe de uma menina de 11 ",
-      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/04/video-mae-perde-o-controle-parte-para-cima-de-funcionaria-e-da-inicio-a-briga-generalizada-em-parquinho-de-restaurante-de-uberlandia.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
       "titulo": "Moraes acusa Mendonça de agir para favorecer 'grupos políticos', pede providências de Fachin e agrava crise no STF",
       "resumo": "Alexandre de Moraes usou controverso Inquérito das Fake News para requisitar da PF relatórios de inteligência contra colega. 'Aos olhos da sociedade, o tribunal parece estar implodindo', diz cientista",
       "link": "https://www.bbc.com/portuguese/articles/cly457vr0nro?at_medium=RSS&at_campaign=rss",
@@ -80,9 +80,16 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Moraes x Mendonça: os bastidores da 'guerra civil' entre ministros do STF",
-      "resumo": "Pedido de Alexandre de Moraes de que André Mendonça seja investigado vem após ministro retirar sigilo de relatório da PF sobre mensagens de banqueiro Daniel Vorcaro supostamente enviadas a Moraes, exp",
-      "link": "https://www.bbc.com/portuguese/articles/c305mmn2318o?at_medium=RSS&at_campaign=rss",
+      "titulo": "Por que a Holanda retirou US$ 12 bilhões em ouro dos EUA e do Canadá",
+      "resumo": "Banco central dos Países Baixos transferiu 86 toneladas de suas reservas de ouro para Londres; mas por quê?",
+      "link": "https://www.bbc.com/portuguese/articles/c7v4nn87vp9o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Por que é tão raro o impeachment de juízes das Supremas Cortes no mundo",
+      "resumo": "No Brasil, nunca houve impeachment de ministro do Supremo. Nos EUA, em toda a história, só houve um processo em 1804, que acabou sem afastamento do magistrado.",
+      "link": "https://www.bbc.com/portuguese/articles/cpd0e98yvpwo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
@@ -94,9 +101,9 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Por que é tão raro o impeachment de juízes das Supremas Cortes no mundo",
-      "resumo": "No Brasil, nunca houve impeachment de ministro do Supremo. Nos EUA, em toda a história, só houve um processo em 1804, que acabou sem afastamento do magistrado.",
-      "link": "https://www.bbc.com/portuguese/articles/cpd0e98yvpwo?at_medium=RSS&at_campaign=rss",
+      "titulo": "Moraes x Mendonça: os bastidores da 'guerra civil' entre ministros do STF",
+      "resumo": "Pedido de Alexandre de Moraes de que André Mendonça seja investigado vem após ministro retirar sigilo de relatório da PF sobre mensagens de banqueiro Daniel Vorcaro supostamente enviadas a Moraes, exp",
+      "link": "https://www.bbc.com/portuguese/articles/c305mmn2318o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
@@ -118,13 +125,6 @@
       "titulo": "Gloria Steinem, um ícone do feminismo americano que se infiltrou na Playboy para denunciar as condições de trabalho das mulheres",
       "resumo": "Uma das principais líderes na defesa dos direitos das mulheres nos Estados Unidos morreu aos 92 anos.",
       "link": "https://www.bbc.com/portuguese/articles/c5yjre413e4o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "'El Niño de proporções gigantescas': o alerta da ONU para fenômeno que põe planeta em 'águas desconhecidas'",
-      "resumo": "Organização Meteorológica Mundial divulgou dados mais recentes sobre o fenômeno natural indicando que este El Niño pode ser o mais forte em mais de 70 anos e durar pelo menos até fevereiro de 2027.",
-      "link": "https://www.bbc.com/portuguese/articles/cm2q5nl0pg3o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
