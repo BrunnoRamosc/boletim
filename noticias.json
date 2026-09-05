@@ -1,6 +1,13 @@
 {
-  "atualizadoEm": "2026-09-05T03:08:40.880274",
+  "atualizadoEm": "2026-09-05T03:38:01.815357",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Rock in Rio 2026: Foo Fighters sobe ao palco no último show do primeiro dia do festival",
+      "resumo": "Rock in Rio 2026: Foo Fighters sobe ao palco no último show do primeiro dia do festival Sexta-feira (4) já teve Rise Against,  Detonautas, Capital Inicial e mais. Festival começa nesta sexta (4), com ",
+      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/ao-vivo/rock-in-rio-2026-shows-ao-vivo-programacao-ingressos-fotos-videos-e-cobertura-em-tempo-real.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Piscinas prontas para o verão começam com as escolhas feitas agora",
@@ -62,13 +69,6 @@
       "titulo": "MAPA: Quaest mostra como está a disputa presidencial nos estados",
       "resumo": "Uma série de pesquisas Quaest divulgadas entre o dia 24 de agosto e a última sexta-feira, dia 4 de setembro, mostra como está a disputa presidencial no 1º turno em 25 estados e no Distrito Federal.\nSe",
       "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/05/mapa-quaest-presidente-estados.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Datafolha: veja os grupos em que a disputa entre Lula e Flávio Bolsonaro está mais apertada",
-      "resumo": "Datafolha: Lula tem 46% e Flávio Bolsonaro, 44% no 2° turno\nLula (PT) e Flávio Bolsonaro (PL) estão tecnicamente empatados em eventual 2º turno da eleição presidencial de outubro, segundo pesquisa Dat",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/05/datafolha-veja-os-grupos-em-que-a-disputa-entre-lula-e-flavio-bolsonaro-esta-mais-apertada.ghtml",
       "fonte": "G1"
     },
     {
