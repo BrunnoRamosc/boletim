@@ -1,6 +1,62 @@
 {
-  "atualizadoEm": "2026-09-06T16:38:07.472890",
+  "atualizadoEm": "2026-09-06T17:07:47.187290",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Samba campeão da Mangueira evoca Oyá em canto de liberdade, fé e resistência",
+      "resumo": "Mangueira no Desfile das Campeãs de 2026\nRafael Nascimento/g1\nJá era manhã de domingo (6) quando a Estação Primeira de Mangueira escolheu o samba-enredo que será o hino oficial da escola no Carnaval 2",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2027/noticia/2026/09/06/samba-campeao-da-mangueira-evoca-oya-em-canto-de-liberdade-fe-e-resistencia.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Acidente entre duas carretas é registrado na BR-393, em Volta Redonda",
+      "resumo": "Acidente entre duas carretas é registrado na BR-393, em Volta Redonda\nDivulgação/Redes Sociais\nUm acidente entre duas carretas foi registrado na manhã deste domingo (6) na BR-393, em Volta Redonda (RJ",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/06/acidente-entre-duas-carretas-e-registrado-na-br-393-em-volta-redonda.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Mega-Sena: jogos de Goiânia e Aparecida faturam R$ 120 mil com cinco acertos",
+      "resumo": "Três apostas feita em Goiás acertaram cinco números da Mega-Sena e faturaram, juntas, R$ 120.581,40. Segundo a Caixa Econômica Federal, dois jogos premiados foram registrados em Goiânia e o terceiro e",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/09/06/mega-sena-jogos-de-goiania-e-aparecida-faturam-r-120-mil-com-cinco-acertos.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Servidor público morre em acidente na BR-459, em MG, durante volta de motorromaria a Aparecida",
+      "resumo": "Motociclista fica gravemente ferido após bater em canteiro na BR-459, em Santa Rita\nUm motociclista de 41 anos morreu após perder o controle da moto, atingir o canteiro central e ser arremessado para ",
+      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/09/06/morte-motociclista-br-459.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Polícia Civil prende dois homens suspeitos de tentativa de homicídio em distrito de Bom Jesus do Itabapoana",
+      "resumo": "Dois homens são presos suspeitos de tentativa de homicidio em Carabuçu\nA Polícia Civil prendeu nesta sexta-feira (4) dois homens suspeitos de uma tentativa de homicídio ocorrida no distrito de Carabuç",
+      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/09/06/policia-civil-prende-dois-homens-suspeitos-de-tentativa-de-homicidio-em-distrito-de-bom-jesus-do-itabapoana.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Mega-Sena 3054: apostas de Sergipe acertam quadra; veja valores",
+      "resumo": "Concurso 3054 da Mega-Sena - veja sorteio\n21 apostas registradas em Sergipe acertaram quatro dezenas (quadra) no concurso 3054 da Mega-Sena, realizado na manhã deste domingo (6). Os valores pagos aos ",
+      "link": "https://g1.globo.com/se/sergipe/noticia/2026/09/06/mega-sena-3054-apostas-de-sergipe-acertam-quadra.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Homem morre após ser atropelado na SP-294, em Tupã; motorista fugiu",
+      "resumo": "Motorista atropelou a vítima e fugiu\nDivulgação/Artesp\nUm homem morreu atropelado por um carro após entrar em uma das faixas da Rodovia Comandante João Ribeiro de Barros (SP-294), em Tupã (SP), na noi",
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/09/06/homem-morre-apos-ser-atropelado-na-sp-294-em-tupa-motorista-fugiu.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Homem é preso suspeito de invadir casa da ex-companheira, ameaçá-la de morte e atear fogo no imóvel em Aperibé",
+      "resumo": "Homem é preso em Aperibé suspeito de ameaçar a ex\nUm homem identificado como D. B. da S. foi preso preventivamente neste sábado (5), em Aperibé, no Noroeste Fluminense, suspeito de invadir a casa da e",
+      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/09/06/homem-e-preso-suspeito-de-invadir-casa-da-ex-companheira-ameaca-la-de-morte-e-atear-fogo-no-imovel-em-aperibe.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Mega-Sena 3054: quatro apostas de grandes cidades de SC acertam quina",
@@ -17,65 +73,16 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Médica reencontra amiga de infância após post em rede social viralizar: ‘Ela é ainda mais bacana do que já era’",
-      "resumo": "Médica reencontra amiga de infância após post em rede social viralizar\nPor mais de 25 anos, Isabela Machado guardou fotos e lembranças de uma das melhores amigas da infância, mas não fazia ideia de on",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/09/06/medica-reencontra-amiga-de-infancia-apos-post-em-rede-social-viralizar-ela-e-ainda-mais-bacana-do-que-ja-era.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Festa em louvor à padroeira da cidade é cancela após estrutura cair durante chuva em MG; uma pessoa ficou ferida",
-      "resumo": "Festa à padroeira da cidade é cancelada após estrutura cair com chuva em Patrocínio - Imagens: Redes Sociais\nA festa em louvor à Nossa Senhora do Patrocínio, padroeira de Patrocínio, no Alto Paranaíba",
-      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/06/festa-em-louvor-a-padroeira-da-cidade-e-cancela-apos-estrutura-cair-durante-chuva-em-mg-uma-pessoa-ficou-ferida.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Ao comentar crise no STF, Caiado promete indicar só mulheres à Corte se eleito",
-      "resumo": "Ao comentar crise no STF, Caiado promete indicar só mulheres à Corte se eleito\nO candidato à Presidência da República Ronaldo Caiado (PSD) esteve na feira do Graravelo, em Aparecida de Goiânia, na Reg",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/06/ao-comentar-crise-no-stf-caiado-promete-indicar-so-mulheres-a-corte-se-eleito.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Tremor de terra de magnitude 3,7 é registrado na região sul do Tocantins",
-      "resumo": "Sandolândia, na região sul do Tocantins\nDivulgação/ Prefeitura de Sandolândia\nUm tremor de terra de magnitude 3,7 foi registrado em Sandolândia, na região sul do Tocantins. O abalo foi detectado pelo ",
-      "link": "https://g1.globo.com/to/tocantins/noticia/2026/09/06/tremor-de-terra-de-magnitude-37-e-registrado-na-regiao-sul-do-tocantins.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Concursos e seleções em PE têm mais de 1,2 mil vagas e salários de até R$ 15 mil; saiba como se inscrever",
-      "resumo": "Imagem ilustrativa mostra candidato preenchendo prova de concurso público\nDivulgação\nConcursos públicos e seleções simplificadas com inscrições abertas em Pernambuco oferecem, ao menos, mil vagas de e",
-      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/09/06/concursos-e-selecoes-em-pe-tem-mais-de-12-mil-vagas-e-salarios-de-ate-r-15-mil-saiba-como-se-inscrever.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Mulher morta em Artur Nogueira havia se mudado de cidade por medo de ameaças após fim de relação",
-      "resumo": "Talita Ramos Andrade foi encontrada morta em estrada rural de Artur Nogueira\nArquivo pessoal\nA atendente de caixa Talita Ramos Andrade, de 35 anos, encontrada morta no sábado (5), havia se mudado de A",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/06/mulher-morta-em-artur-nogueira-havia-se-mudado-de-cidade-por-medo-de-ameacas-apos-fim-de-relacao.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Confronto entre facções rivais deixa 2 mortos no Complexo da Serrinha",
-      "resumo": "Um intenso tiroteio no Complexo da Serrinha, entre os bairros de Madureira e Vaz Lobo, na Zona Nortedo Rio, deixou dois mortos na madrugada deste domingo (6). \nO confronto ocorreu entre criminosos do ",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/06/confronto-deixa-mortos-no-complexo-da-serrinha.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Adolescente morre afogado em balneário de Santa Luzia d'Oeste, RO",
-      "resumo": "Armando Gabriel Marcelino Aires, de 16 anos\nReprodução/Redes sociais\nO estudante Armando Gabriel Marcelino Aires, de 16 anos, morreu afogado no último sábado (5), no Balneário Municipal de Santa Luzia",
-      "link": "https://g1.globo.com/ro/rondonia/noticia/2026/09/06/adolescente-morre-afogado-em-balneario-de-santa-luzia-doeste-ro.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Como direita radical da Alemanha planeja chegar ao poder com eleição deste domingo e mudar história do país",
+      "titulo": "Eleição na Alemanha: como direita radical planeja mudar o país após provável vitória na Saxônia",
       "resumo": "Caso conquiste a maioria absoluta na Saxônia-Anhalt, será a primeira vez que um partido de direita radical detém o poder em nível estadual na Alemanha desde a Segunda Guerra Mundial.",
       "link": "https://www.bbc.com/portuguese/articles/cjrx7xl1pvwo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Pesquisas de boca de urna apontam grande vitória da direita radical em Estado da Alemanha",
+      "resumo": "O partido alemão AfD comemorou o 'resultado histórico' na Saxônia-Anhalt e deve ficar muito à frente do partido conservador CDU, segundo pesquisas de boca de urna.",
+      "link": "https://www.bbc.com/portuguese/articles/cqlw2ldp5w9o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
@@ -118,13 +125,6 @@
       "titulo": "'EUA em primeiro lugar': como Trump troca diplomacia por aliados políticos e tensiona a relação com o Brasil",
       "resumo": "Desde início do segundo mandato, presidente americano tem implementado mudanças profundas no Departamento de Estado",
       "link": "https://www.bbc.com/portuguese/articles/cd9w5yk7wxdo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Sem polícia nos gabinetes: o pedido de Gilmar Mendes que expõe tensão entre ministros do Supremo",
-      "resumo": "Proposta trata de uma alteração no Regimento Interno do STF e chega em meio a uma crise sem precedentes na história da Corte",
-      "link": "https://www.bbc.com/portuguese/articles/cg49vnnk606o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
