@@ -1,6 +1,62 @@
 {
-  "atualizadoEm": "2026-09-07T06:44:51.319422",
+  "atualizadoEm": "2026-09-07T07:10:45.807776",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Conheça o G1, robô humanoide de R$ 200 mil que atua como ‘segurança’ no Rock in Rio",
+      "resumo": "G1, o robo humanoide, no Rock in Rio\nQuem passar pela Cidade do Rock pode dar de cara com um “segurança” diferente. O G1Plug, ou simplesmente G1, um robô humanoide que custa cerca de R$ 200 mil, estre",
+      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/07/conheca-o-g1-robo-humanoide-de-r-200-mil-que-atua-como-seguranca-no-rock-in-rio.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Rock in Rio: a pergunta sobre seus fãs que fez Luísa Sonza refletir sobre a carreira",
+      "resumo": "A cantora Luísa Sonza\nPam Martins / Divulgação\nLuísa Sonza fará um show diferente no Rock in Rio. Ela apresentará seu álbum \"Bossa Sempre Nova\", em homenagem ao gênero, junto com o grande Roberto Mene",
+      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/07/rock-in-rio-a-pergunta-sobre-seus-fas-que-fez-luisa-sonza-refletir-sobre-a-carreira.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Veja os horários de pico na volta do feriado da Independência nas rodovias do Vale do Paraíba e região",
+      "resumo": "Rodovia Presidente Dutra, no Vale do Paraíba\nGuilherme Machado/TV Vanguarda\nPara ajudar os motoristas que vão pegar a estrada no retorno para casa, o g1 levantou os horários em que as concessionárias ",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/07/veja-os-horarios-de-pico-na-volta-do-feriado-da-independencia-nas-rodovias-do-vale-do-paraiba-e-regiao.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Feira de ciências transforma curiosidade de alunas em pesquisa e incentiva iniciação científica na escola",
+      "resumo": "Estudantes da rede estadual da Bahia, Valéria Pereira e Eduarda Diamantino desenvolveram creme para tratamento de acne como projeto escolar.\nArquivo pessoal\nValéria Pereira tinha uma lembrança pessoal",
+      "link": "https://g1.globo.com/educacao/noticia/2026/09/07/feira-de-ciencias-transforma-curiosidade-de-alunas-em-pesquisa-e-incentiva-iniciacao-cientifica-na-escola.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Rock in Rio: Péricles fará homenagem a gravadora que revelou Michael Jackson; saiba detalhes",
+      "resumo": "O cantor Péricles, que será destaque no Rock in Rio\nReprodução/Instagram\nPéricles subirá ao palco Sunset do Rock in Rio no dia 7 de setembro para cantar baladas românticas que inspiraram muitos pagode",
+      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/07/rock-in-rio-pericles-fara-homenagem-a-gravadora-que-revelou-michael-jackson-saiba-detalhes.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Feriado da Independência: veja o que abre e fecha em BH",
+      "resumo": "Vista panorâmica de BH, no detalhe, o Parque Municipal, no Centro\nLucas Franco/TV Globo\nO Dia da Independência do Brasil é celebrado nesta segunda-feira, 7 de setembro. Em Belo Horizonte, parques e es",
+      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/07/feriado-da-independencia-veja-o-que-abre-e-fecha-em-bh.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "‘Sensação inexplicável’, diz turista que cavalgou em meio à neve no RS",
+      "resumo": "Serra do RS registra neve neste domingo\nNatural de Luiz Alvez (SC), o farmacêutico Roberto Tomzcak, 48, frequenta há 15 anos a pousada Fazenda Monte Negro, no ponto mais alto do Rio Grande do Sul, em ",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/sensacao-inexplicavel-diz-turista-que-cavalgou-em-meio-a-neve-no-rs.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Prédio desaba em Nova Déli, na Índia, e deixa seis mortos",
+      "resumo": "Escavadeiras são usadas para remover os escombros no local após o desabamento de um prédio em Nova Déli, Índia, em 7 de setembro de 2026.\nREUTERS/Bhawika Chhabra\nPelo menos seis pessoas morreram e vár",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/07/predio-desaba-em-nova-deli-na-india.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Aos 30 anos, geração acompanhada desde o nascimento tem alta da obesidade e dos transtornos mentais comuns, diz pesquisa no RS",
@@ -17,62 +73,6 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Prefeitura é condenada a indenizar jovem acolhida por abrigo que teve larvas na cabeça por omissão de cuidados após cirurgia em SP",
-      "resumo": "Saica I, em Ribeirão Preto (SP)\nReprodução/EPTV\nO Tribunal de Justiça de São Paulo (TJ-SP) condenou a Prefeitura de Ribeirão Preto (SP) a indenizar e custear o tratamento psicológico de uma adolescent",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/09/07/prefeitura-e-condenada-a-indenizar-jovem-acolhida-por-abrigo-que-teve-larvas-na-cabeca-por-omissao-de-cuidados-apos-cirurgia-em-sp.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "3º dia de Rock in Rio vira baile de formatura chuvoso com Calvin Harris e Black Eyed Peas",
-      "resumo": "3º dia de Rock in Rio vira baile de formatura chuvoso com Calvin Harris e Black Eyed Peas Domingo (6) teve shows de Calvin Harris, Ne-Yo, Black Eyed Peas e mais. O que pode e o que não pode levar para",
-      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/ao-vivo/rock-in-rio-2026-shows-ao-vivo-programacao-ingressos-fotos-videos-e-cobertura-em-tempo-real.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Calvin Harris faz Rock in Rio virar Ibiza com sequência de hits, fogo e muito ‘close’",
-      "resumo": "Calvin Harris toca hit gravado com Dua Lipa, \"One Kiss no Rock in Rio\nCalvin Harris subiu ao Palco Mundo do Rock in Rio já na madrugada desta segunda-feira (7), depois da meia-noite e debaixo de muita",
-      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/07/calvin-harris-faz-rock-in-rio-virar-ibiza-com-sequencia-de-hits-fogo-e-muito-close.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "3º dia de Rock in Rio vira baile de formatura chuvoso com Calvin Harris e Black Eyed Peas; veja resumo",
-      "resumo": "Calvin Harris toca “How Deep is Your Love”, um dos maiores hits da carreira\nO terceiro dia do Rock in Rio 2026 foi marcado pelo público jovem acompanhando as primeiras estrelas pops do festival em um ",
-      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/07/3o-dia-de-rock-in-rio-vira-baile-de-formatura-chuvoso-com-calvin-harris-e-black-eyed-peas-veja-resumo.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "resumo": "Previsão do tempo hoje em Brasília\ng1\nA previsão do tempo para esta segunda-feira (7) para Brasília (DF) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 26ºC e as ",
-      "link": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/07/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para São Paulo (SP): tempo nublado com chuva de manhã; à tarde e à noite pode garoar",
-      "resumo": "Previsão do tempo hoje em São Paulo\ng1\nA previsão do tempo para esta segunda-feira (7) para São Paulo (SP) é de tempo nublado com chuva de manhã. À tarde e à noite pode garoar. As máximas são de 13ºC ",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/07/previsao-do-tempo-hoje-para-sao-paulo-sp-tempo-nublado-com-chuva-de-manha-a-tarde-e-a-noite-pode-garoar.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol com muitas nuvens passando a chuvoso à tarde; à noite, a chuva para",
-      "resumo": "Previsão do tempo hoje em São Bernardo do Campo\ng1\nA previsão do tempo para esta segunda-feira (7) para São Bernardo do Campo (SP) é de sol com muitas nuvens passando a chuvoso à tarde. À noite, a chu",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/07/previsao-do-tempo-hoje-para-sao-bernardo-do-campo-sp-sol-com-muitas-nuvens-passando-a-chuvoso-a-tarde-a-noite-a-chuva-para.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Santo André (SP): tempo chuvoso durante o dia; à noite, a chuva para e as nuvens diminuem",
-      "resumo": "Previsão do tempo hoje em Santo André\ng1\nA previsão do tempo para esta segunda-feira (7) para Santo André (SP) é de tempo chuvoso durante o dia. À noite, a chuva para e as nuvens diminuem. As máximas ",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/07/previsao-do-tempo-hoje-para-santo-andre-sp-tempo-chuvoso-durante-o-dia-a-noite-a-chuva-para-e-as-nuvens-diminuem.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
       "titulo": "O que esperam os 6 milhões de afegãos deportados de volta ao país governado pelo Talibã",
       "resumo": "Até agosto, mais 1 milhão de afegãos haviam sido obrigados a retornar neste ano do Paquistão e do Irã",
       "link": "https://www.bbc.com/portuguese/articles/c9qrjzr5n0no?at_medium=RSS&at_campaign=rss",
@@ -80,7 +80,7 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Direita radical na Alemanha caminha para vitória estadual inédita desde a 2ª Guerra Mundial",
+      "titulo": "Direita radical na Alemanha tem vitória estadual inédita desde a 2ª Guerra Mundial, mas não consegue maioria para formar governo",
       "resumo": "O partido alemão AfD comemorou o 'resultado histórico' na Saxônia-Anhalt e deve ficar muito à frente do partido conservador CDU",
       "link": "https://www.bbc.com/portuguese/articles/cqlw2ldp5w9o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
