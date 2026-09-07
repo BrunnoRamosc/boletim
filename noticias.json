@@ -1,10 +1,24 @@
 {
-  "atualizadoEm": "2026-09-07T01:08:07.926691",
+  "atualizadoEm": "2026-09-07T01:38:56.974853",
   "itens": [
     {
       "categoria": "Geral",
+      "titulo": "Havaí entra em estado de emergência com aproximação do furacão Lowell",
+      "resumo": "Uma vista em ângulo do furacão Lowell\nO Havaí declarou estado de emergência diante da aproximação do furacão Lowell, que deve passar próximo às ilhas entre a noite desta segunda-feira (7) e a manhã de",
+      "link": "https://g1.globo.com/meio-ambiente/noticia/2026/09/06/havai-entra-em-estado-de-emergencia-com-aproximacao-do-furacao-lowell.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Brasileiros deportados dos EUA para países africanos vivem sem saber quando poderão voltar",
+      "resumo": "Exclusivo. Dois brasileiros deportados dos Estados Unidos contam como foram parar na África\nA mineira Paola Santos, de 21 anos, trabalhava com limpeza de obras nos Estados Unidos há cinco anos até que",
+      "link": "https://g1.globo.com/fantastico/noticia/2026/09/06/brasileiros-deportados-dos-eua-para-paises-africanos-vivem-sem-saber-quando-poderao-voltar.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
       "titulo": "Black Eyed Peas recebe Papatinho no Rock in Rio 2026",
-      "resumo": "Papatinho participa do show do Black Eyed Peas no Rock in Rio 2026\nReprodução/Multishow\nO Black Eyed Peas recebeu o produtor brasileiro Papatinho durante seu show no Rock in Rio 2026, na noite deste d",
+      "resumo": "Papatinho participa do show do Black Eyed Peas no Rock in Rio 2026\nO Black Eyed Peas recebeu o produtor brasileiro Papatinho durante seu show no Rock in Rio 2026, na noite deste domingo (6).\nPapatinho",
       "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/06/black-eyed-peas-recebe-papatinho-no-rock-in-rio-2026.ghtml",
       "fonte": "G1"
     },
@@ -59,20 +73,6 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Faraó dos bitcoins: Fantástico tem acesso exclusivo a depoimentos sobre destino de fortuna de bilhões de reais",
-      "resumo": "'Faraó dos Bitcoins' diz que fortuna trancada em cofre da PF pode pagar credores\nCinco anos depois da prisão do \"Faraó dos Bitcoins\", uma pergunta ainda intriga milhares de investidores enganados: ond",
-      "link": "https://g1.globo.com/fantastico/noticia/2026/09/06/farao-dos-bitcoins-fantastico-tem-acesso-exclusivo-a-depoimentos-sobre-destino-de-fortuna-de-bilhoes-de-reais.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Noivas enfrentam corrida contra o tempo após ateliê fechar as portas: 'Vestido dos meus sonhos que virou um pesadelo'",
-      "resumo": "Mais de 300 noivas em busca dos vestidos de casamento\n\"Vestido dos meus sonhos que virou um pesadelo\": foi assim que Janaína Santos resumiu o que viveu poucos dias antes de seu casamento. Ela e outras",
-      "link": "https://g1.globo.com/fantastico/noticia/2026/09/06/noivas-enfrentam-corrida-contra-o-tempo-apos-atelie-fechar-as-portas-vestido-dos-meus-sonhos-que-virou-um-pesadelo.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
       "titulo": "O que esperam os 6 milhões de afegãos deportados de volta ao país governado pelo Talibã",
       "resumo": "Até agosto, mais 1 milhão de afegãos haviam sido obrigados a retornar neste ano do Paquistão e do Irã",
       "link": "https://www.bbc.com/portuguese/articles/c9qrjzr5n0no?at_medium=RSS&at_campaign=rss",
@@ -80,8 +80,8 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Pesquisas de boca de urna apontam grande vitória da direita radical em Estado da Alemanha",
-      "resumo": "O partido alemão AfD comemorou o 'resultado histórico' na Saxônia-Anhalt e deve ficar muito à frente do partido conservador CDU, segundo pesquisas de boca de urna.",
+      "titulo": "Direita radical na Alemanha caminha para vitória estadual inédita desde a 2ª Guerra Mundial",
+      "resumo": "O partido alemão AfD comemorou o 'resultado histórico' na Saxônia-Anhalt e deve ficar muito à frente do partido conservador CDU",
       "link": "https://www.bbc.com/portuguese/articles/cqlw2ldp5w9o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
