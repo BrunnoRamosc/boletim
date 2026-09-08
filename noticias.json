@@ -1,11 +1,32 @@
 {
-  "atualizadoEm": "2026-09-08T11:08:48.923686",
+  "atualizadoEm": "2026-09-08T11:39:43.581364",
   "itens": [
     {
       "categoria": "Geral",
-      "titulo": "VÍDEOS: Bom Dia Rio de terça, 8 de setembro de 2026",
-      "resumo": "Assista aos vídeos do telejornal com as notícias do Rio de Janeiro.",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/videos-bom-dia-rio/playlist/videos-bom-dia-rio-de-terca-8-de-setembro-de-2026.ghtml",
+      "titulo": "Bom Dia Cidade - Ribeirão e Franca",
+      "resumo": "Bom Dia Cidade - Ribeirão e Franca Transmissão encerrada.",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/bom-dia-cidade-ribeirao-preto.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Motorista morre após cair em ribanceira e ficar preso às ferragens de carro em Piracicaba",
+      "resumo": "Homem morre após motorista cair em ribanceira em Piracicaba\nTV Metropolitana/Reprodução/EPTV\nUm homem, de 45 anos, morreu após perder o controle do carro que dirigia e cair em uma ribanceira de cerca ",
+      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/08/motorista-morre-apos-cair-em-ribanceira-e-ficar-preso-as-ferragens-de-carro-em-piracicaba.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Denúncias de irregularidades na campanha eleitoral mais que triplicam em 16 dias no Piauí",
+      "resumo": "Eleições 2026: no Piauí, denúncias por irregularidades dobraram em 10 dias\nO número de denúncias de possíveis irregularidades na propaganda eleitoral mais que triplicou em 16 dias no Piauí. Segundo da",
+      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/09/08/irregularidades-campanha-eleitoral.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "MP-AL pede informações à polícia sobre abordagem que matou mulher no Jacintinho, em Maceió",
+      "resumo": "Ministério Público de Alagoas\nJonathan Lins\nO Ministério Público do Estado de Alagoas (MP-AL) solicitou à Polícia Civil informações sobre a abordagem policial que matou Amanda Rhuanny Lopes da Silva, ",
+      "link": "https://g1.globo.com/al/alagoas/noticia/2026/09/08/mp-al-pede-informacoes-a-policia-sobre-abordagem-que-matou-mulher-no-jacintinho-em-maceio.ghtml",
       "fonte": "G1"
     },
     {
@@ -17,58 +38,37 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Duas agências bancárias são alvo de tentativas de furto na Grande BH",
-      "resumo": "À esquerda, equipe do Bope acionada para ocorrência em Santa Luzia. À direita, apreensão de equipamentos que seriam utilizados em furto em agência de Contagem.\nTV Globo\nDuas agências bancárias foram a",
-      "link": "https://g1.globo.com/mg/minas-gerais/bom-dia-minas/noticia/2026/09/08/duas-agencias-bancarias-sao-alvo-de-tentativas-de-furto-na-grande-bh.ghtml",
+      "titulo": "Caso Larissa Morata: Trajetória da bala embasou pedido de prisão de PM suspeito de matar esposa",
+      "resumo": "Mulher de PM é encontrada morta com tiro na cabeça e arma do marido sob o corpo em Embu das Artes\nA trajetória da bala que matou a técnica em radiologia Larissa da Cruz Morata, de 29 anos, foi um dos ",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/08/caso-larissa-morata-trajetoria-da-bala-embasou-pedido-de-prisao-de-pm-suspeito-de-matar-esposa.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "União Europeia faz alerta para ameaças terroristas 25 anos após o 11 de setembro, com jovens buscando violência na internet",
-      "resumo": "Explosão do segundo avião a atingir o World Trade Center é vista de longe em Nova York durante o ataque terrorista em 11 de setembro de 2001\nSpencer Platt/Getty Images via AFP/Arquivo\nUm quarto de séc",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/08/uniao-europeia-faz-alerta-para-ameacas-terroristas-25-anos-apos-o-11-de-setembro-com-jovens-buscando-violencia-na-internet.ghtml",
+      "titulo": "Trend dos anos 80: saiba como criar sua foto com visual da época usando IA",
+      "resumo": "Trend dos anos 80: saiba como fazer a sua foto usando IA\nReprodução/Redes sociais\nUma nova trend em que pessoas aparecem com roupas e cortes de cabelo no estilo dos anos 1980 tem viralizado nas redes ",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/08/trend-dos-anos-80-saiba-como-criar-sua-foto-com-visual-da-epoca-usando-ia.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "Falha em trem da Linha 12-Safira afeta circulação entre Brás e Engenheiro Goulart na manhã desta terça-feira",
-      "resumo": "Falha em trem da Linha 12-Safira afeta circulação entre Brás e Engenheiro Goulart\nA circulação da Linha 12-Safira da CPTM foi afetada na manhã desta terça-feira (8) após um trem que seguia no sentido ",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/08/falha-em-trem-da-linha-12-safira-afeta-circulacao-entre-bras-e-engenheiro-goulart-na-manha-desta-terca-feira.ghtml",
+      "titulo": "Jovem morre após acidente de moto na zona rural de Presidente Dutra",
+      "resumo": "Jovem morre após acidente de moto na zona rural de Presidente Dutra\nUm jovem morreu após sofrer um acidente de moto na zona rural de Presidente Dutra, a 347 km de São Luís. De acordo com a Polícia Mil",
+      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/09/08/jovem-morre-apos-acidente-de-moto-na-zona-rural-de-presidente-dutra.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "Assista ao Bom Dia Vanguarda ao vivo no g1",
-      "resumo": "Assista ao Bom Dia Vanguarda ao vivo no g1 Assista diariamente aos telejornais da emissora no g1. De segunda a sexta-feira, assista ao Bom Dia Vanguarda, Link Vanguarda e Jornal Vanguarda. Aos sábados",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/ao-vivo/assista-ao-bom-dia-vanguarda-ao-vivo-no-g1.ghtml",
+      "titulo": "Hospital Unimed Teresina completa 10 anos e reafirma seu papel na assistência à saúde do Piauí",
+      "resumo": "O presidente da Unimed Teresina, Dr. Rodrigo Pereira, ressaltou a importância do hospital para os médicos e pacientes.\nUnimed Teresina\nO Hospital Unimed Teresina celebrou, na última segunda-feira (31)",
+      "link": "https://g1.globo.com/pi/piaui/especial-publicitario/unimed-teresina/sos-unimed/noticia/2026/09/08/hospital-unimed-teresina-completa-10-anos-e-reafirma-seu-papel-na-assistencia-a-saude-do-piaui.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "Adolescentes estavam em moto furtada que se envolveu em acidente com viatura da GCM em São José dos Campos",
-      "resumo": "Homem morre após colisão entre viatura da GCM e moto em São José dos Campos\nDois adolescentes de 16 anos estavam na moto que se envolveu em uma colisão com uma viatura da Guarda Civil Municipal (GCM) ",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/08/adolescentes-estavam-em-moto-furtada-que-se-envolveu-em-acidente-com-viatura-da-gcm-em-sao-jose-dos-campos.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Saiba datas dos próximos feriados e folgas no Ceará em 2026",
-      "resumo": "Confira calendário de folgas em 2026 no Ceará e Brasil\nTerminado o feriadão proporcionado pelo 7 de Setembro, Dia da Independência do Brasil, o próximo descanso em algum dia da semana vai demorar um p",
-      "link": "https://g1.globo.com/ce/ceara/noticia/2026/09/08/saiba-datas-dos-proximos-feriados-e-folgas-no-ceara-em-2026.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Volkswagen abre caminho para converter fábrica desativada para produção de armas",
-      "resumo": "Fábrica da Volkswagen em Osnabrück, Alemanha\nDivulgação / Volkswagen\nA Volkswagen anunciou nesta segunda-feira (07) que uma de suas fábricas na Alemanha, que terá sua produção de automóveis encerrada,",
-      "link": "https://g1.globo.com/carros/noticia/2026/09/08/volkswagen-fabrica-alemanha.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Carreta desgovernada sai da pista e atinge estabelecimentos comerciais em Presidente Dutra",
-      "resumo": "Motorista de carreta perde o controle e atinge comércios em Presidente Dutra\nUma carreta desgovernada saiu da pista e atingiu, na tarde de segunda-feira (7), diversos estabelecimentos comerciais local",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/09/08/carreta-desgovernada-sai-da-pista-e-atinge-estabelecimentos-comerciais-em-presidente-dutra-no-ma.ghtml",
+      "titulo": "Linchamento de jovem de Rondônia: Justiça do Ceará mantém um preso e solta dois com medidas cautelares",
+      "resumo": "Jovem de Rondônia é vítima de linchamento durante festa no interior do Ceará.\nA Justiça do Ceará decretou, nesta segunda-feira (7), a prisão preventiva de um dos suspeitos de envolvimento no linchamen",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/09/08/linchamento-de-jovem-de-rondonia-justica-do-ceara-mantem-um-preso-e-solta-dois-com-medidas-cautelares.ghtml",
       "fonte": "G1"
     },
     {
@@ -87,8 +87,8 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Ladrões invadem museu e roubam obras de Renoir avaliadas em 9 milhões de euros no sul da França",
-      "resumo": "O nome das obras não foi revelado. Prefeito diz que ladrões, ao serem perseguidos pela polícia, deixaram para trás uma quarta obra.",
+      "titulo": "As obras de Renoir roubadas em invasão a museu no sul da França",
+      "resumo": "Prefeito diz que ladrões, ao serem perseguidos pela polícia, deixaram para trás outros dois quadros.",
       "link": "https://www.bbc.com/portuguese/articles/c0revk5qn0go?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
@@ -129,7 +129,7 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Lula e Flávio aparecem empatados no 2º turno: a corrida para presidente no Agregador de Pesquisas da BBC",
+      "titulo": "Pesquisas para presidente: Como Lula, Flávio Bolsonaro e Cury aparecem no Agregador de Pesquisas eleitorais da BBC",
       "resumo": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
