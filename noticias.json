@@ -1,6 +1,27 @@
 {
-  "atualizadoEm": "2026-09-08T03:09:13.228574",
+  "atualizadoEm": "2026-09-08T03:40:46.377488",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "ESPECIAL ELEIÇÕES: como a educação pode mudar a cara do Brasil? - O Assunto #1799",
+      "resumo": "O Brasil é um país que consegue colocar quase todas as suas crianças na escola na idade certa. O problema é que não conseguimos garantir que elas aprendam: uma em cada três crianças que estão no 2º an",
+      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/08/especial-eleicoes-como-a-educacao-pode-mudar-a-cara-do-brasil-o-assunto-1799.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "EUA afundam embarcação no Pacífico e atribuem barco a facção equatoriana",
+      "resumo": "EUA afundam embarcação equatoriana no Pacífico sob acusação de ligação com o tráfico\nO Comando Sul dos Estados Unidos afundou nesta segunda-feira (7) mais uma embarcação equatoriana que, segundo as au",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/08/eua-afundam-embarcacao-no-pacifico-e-atribuem-barco-a-faccao-equatoriana.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Pacientes devem estar atentos a mensagens sobre exames e consultas",
+      "resumo": "Serena, assistente virtual da Saúde, envia mensagens para confirmação e lembrete aos pacientes\nReprodução\nA Prefeitura de Rio das Ostras vem firmando parcerias e reorganizando serviços para dar mais a",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/09/08/pacientes-devem-estar-atentos-a-mensagens-sobre-exames-e-consultas.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Comunidades rurais de Montes Claros recebem melhorias na infraestrutura",
@@ -52,30 +73,16 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Aumento da expectativa de vida destaca a importância do planejamento financeiro",
-      "resumo": "Com o aumento da expectativa de vida dos brasileiros, a previdência privada ganha destaque como ferramenta de planejamento financeiro de longo prazo, ajudando a complementar a renda futura, preservar ",
-      "link": "https://g1.globo.com/pa/para/especial-publicitario/sicredi-norte/sicredi-gente-que-coopera-cresce/noticia/2026/09/08/aumento-da-expectativa-de-vida-destaca-a-importancia-do-planejamento-financeiro.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Assassinato de médica no Paraná: crime foi comunicado à polícia após familiar ouvir confissão de marido da vítima",
-      "resumo": "Assassinato de médica no Paraná: marido confessou crime à familiar\nO assassinato da médica Gassi Mazia, de 37 anos, foi comunicado à Polícia Militar (PM-PR) por uma familiar de João Vitor Domingues Ro",
-      "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/08/assassinato-medica-parana-confissao-marido-vitima-testemunha.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Avó contesta suicídio de mulher de PM encontrada morta: 'Ela gostava muito da vida'",
-      "resumo": "Avó diz que esposa de PM não se matou e suspeita de feminicídio\nLarissa Cruz Morata, de 29 anos, foi descrita pela família como uma mulher cheia de vida, alegre, dedicada ao filho e com planos para o ",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/08/avo-contesta-suicidio-de-mulher-de-pm-encontrada-morta-ela-gostava-muito-da-vida.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
       "titulo": "Ato de Flávio Bolsonaro na av. Paulista vira protesto contra Moraes e reúne quase 30 mil: 'Última semana me fez estar aqui'",
       "resumo": "Estimativa feito pelo Monitor do Debate Político - USP/Cebrap e em parceria com a organização More in Common aponta aglomeração menor do que a registrada no feriado do ano passado, quando 42,2 mil pes",
       "link": "https://www.bbc.com/portuguese/articles/c0j34vd8x3no?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Em carta a Fachin, ministros aposentados manifestam apoio e cobram apuração 'pública' e 'rigorosa' diante de crise no STF",
+      "resumo": "Celso de Mello, Rosa Weber, Joaquim Barbosa e outros 10 ministros aposentados pedem a Fachin uma resposta firme diante do que classificam como a “mais aguda crise” da Corte.",
+      "link": "https://www.bbc.com/portuguese/articles/c39mzex0882o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
@@ -125,13 +132,6 @@
       "titulo": "Por que Keiko Fujimori declarou estado de emergência em prisões peruanas e o que ela quer com a medida",
       "resumo": "As prisões selecionadas abrigam líderes e integrantes de organizações que coordenam atividades criminosas fora delas.",
       "link": "https://www.bbc.com/portuguese/articles/c5y4lk1mv1mo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "A rede de propaganda pró-Rússia que explora violência sexual e usa mulheres do Exército ucraniano como isca",
-      "resumo": "Canais  ussos no Telegram usam falsas acusações de estupro e imagem de mulheres ucranianas para atrair milhões de usuários a redes de propaganda favoráveis à guerra.",
-      "link": "https://www.bbc.com/portuguese/articles/c93ekydj3q1o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
