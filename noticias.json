@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-08T07:40:45.799457",
+  "atualizadoEm": "2026-09-08T08:10:23.982151",
   "itens": [
     {
       "categoria": "Geral",
@@ -73,6 +73,13 @@
     },
     {
       "categoria": "Geral",
+      "titulo": "Caso Master pode ser anulado por causa de crise entre ministros do STF?",
+      "resumo": "Para criminalista, Moraes tem dificuldade de se defender de suspeitas e busca ampla anulação da operação Compliance Zero.",
+      "link": "https://www.bbc.com/portuguese/articles/cx2z0v90eydo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
       "titulo": "Ato de Flávio Bolsonaro na av. Paulista vira protesto contra Moraes e reúne quase 30 mil: 'Última semana me fez estar aqui'",
       "resumo": "Estimativa feito pelo Monitor do Debate Político - USP/Cebrap e em parceria com a organização More in Common aponta aglomeração menor do que a registrada no feriado do ano passado, quando 42,2 mil pes",
       "link": "https://www.bbc.com/portuguese/articles/c0j34vd8x3no?at_medium=RSS&at_campaign=rss",
@@ -111,13 +118,6 @@
       "titulo": "Após vitória histórica em eleições regionais, direita radical alemã busca apoio para formar governo na Saxônia",
       "resumo": "O partido de direita radical tenta formar um governo no Estado após ficar a três cadeiras de uma maioria",
       "link": "https://www.bbc.com/portuguese/articles/cj06m1jgj2jo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Dia da independência do Brasil: a mulher que assinou separação de Portugal e foi a primeira a governar o país",
-      "resumo": "Como a independência do Brasil ocorreu durante a regência da imperatriz Maria Leopoldina, ela se tornou a primeira mulher a governar o país, ocupando o cargo interinamente por alguns dias.",
-      "link": "https://www.bbc.com/portuguese/articles/c93v9l32r3ko?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
