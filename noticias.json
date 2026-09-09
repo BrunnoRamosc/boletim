@@ -1,74 +1,74 @@
 {
-  "atualizadoEm": "2026-09-09T06:11:49.285814",
+  "atualizadoEm": "2026-09-09T06:43:27.721706",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Após filha morrer por complicações do VSR, mãe engravida novamente e recebe no SUS vacina que não pôde pagar na primeira gestação",
+      "resumo": "Nova gravidez, nova chance: vacina chega ao SUS após perda do filho\nAtrás do balcão de uma farmácia no centro de São João da Boa Vista, no interior de São Paulo, Eshiley Campos atende quem entra. Tem ",
+      "link": "https://g1.globo.com/saude/noticia/2026/09/09/apos-filha-morrer-por-complicacoes-do-vsr-mae-engravida-novamente-e-recebe-no-sus-vacina-que-nao-pode-pagar-na-primeira-gestacao.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Você acertaria as questões mais fáceis de ciências do Pisa? E as mais difíceis?",
+      "resumo": "Sala de aula - imagem ilustrativa\nArquivo AT\nVocê saberia responder a perguntas de ciências formuladas para medir os conhecimentos de alunos de 15 anos? \nAbaixo, o g1 fez uma seleção de questões que c",
+      "link": "https://g1.globo.com/educacao/noticia/2026/09/09/teste-questoes-mais-faceis-de-ciencias-do-pisa-e-mais-dificeis.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Conheça o Dive-LD, drone submarino dos EUA que opera 10 dias submerso sem piloto e foi capturado pelo Irã",
+      "resumo": "Irã captura drone submarino dos EUA no Estreito de Ormuz\nA Guarda Revolucionária do Irã afirmou nesta terça-feira (8) ter capturado um drone submarino dos Estados Unidos no Estreito de Ormuz. O equipa",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/09/conheca-o-dive-ld-drone-submarino-dos-eua-que-opera-10-dias-submerso-sem-piloto-e-foi-capturado-pelo-ira.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Mulher diz ter sido ameaçada por médium após denunciar fraudes em cartas psicografadas",
+      "resumo": "Famílias que buscaram cartas psicografadas com Maira Rocha acusam a médium de coletar informações na internet para produzir as supostas mensagens dos mortos.\nFamílias que passaram a questionar a auten",
+      "link": "https://g1.globo.com/fantastico/noticia/2026/09/09/mulher-diz-ter-sido-ameacada-por-medium-apos-denunciar-fraudes-em-cartas-psicografadas.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Crianças e adolescente que furtaram carro zero km em SC disseram ter aprendido a dirigir em videogame",
+      "resumo": "Crianças de 10 e 11 anos furtam carro, dirigem em alta velocidade e batem em moto em SC\nAs duas crianças e o adolescente que furtaram um carro e dirigiram em alta velocidade por Florianópolis disseram",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/09/criancas-adolescente-furtaram-carro-zero-km-sc-dirigir-videogame.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Infestação de mosca-do-estábulo provoca mortes de animais e causa prejuízos a pecuaristas em SP",
+      "resumo": "Rebanho sofre com o ataque da mosca do estábulo\nPecuaristas do noroeste de São Paulo enfrentam uma grave crise provocada por uma forte infestação de mosca-do-estábulo. O inseto, que ataca o gado para ",
+      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/09/09/infestacao-de-mosca-do-estabulo-provoca-mortes-de-animais-e-causa-prejuizos-a-pecuaristas-em-sp.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Promoções de 9.9: como evitar problemas nas compras em 'datas duplas' das lojas",
+      "resumo": "Carrinho de compras\nKarolinaA Grabowskakaboompics/Pexels\nTodo mês, a mesma história se repete: as lojas on-line fazem promoções das chamadas \"datas duplas\" – como 9.9, 10.10 ou 11.11, por exemplo. \nMa",
+      "link": "https://g1.globo.com/guia/guia-de-compras/promocoes-de-99-como-evitar-problemas-nas-compras-em-datas-duplas-das-lojas.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Por que o sol 'muda de lugar' em Curitiba ao longo do ano? Entenda como a latitude da cidade afeta casas, apartamentos e até o varal de roupas",
+      "resumo": "Por que o sol 'muda de lugar' em Curitiba ao longo do ano?\nO Sol que ilumina Curitiba é o mesmo que ilumina o restante do mundo, mas, diferente do que acontece em regiões mais próximas à Linha do Equa",
+      "link": "https://g1.globo.com/pr/parana/noticia/2026/09/09/por-que-o-sol-muda-de-lugar-em-curitiba-ao-longo-do-ano-entenda-como-a-latitude-da-cidade-afeta-casas-apartamentos-e-ate-o-varal-de-roupas.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Menina que viralizou ao dançar com mãe em hospital do RS comemorava recuperação dos movimentos após crise de doença rara; veja VÍDEO",
+      "resumo": "Mãe e filha dançam juntas em hospital para comemorar avanço de tratamento\nO vídeo de mãe e filha dançando em um corredor do Hospital da Criança Santo Antônio, em Porto Alegre, teve um significado prof",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/09/jovem-doenca-rara-recupera-movimentos-danca-hospital.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Fotojornalistas desaparecem no mar ao seguir para cobrir erupção de vulcão na Indonésia",
       "resumo": "Foto divulgada pela Agência Nacional de Busca e Resgate da Indonésia (BASARNAS) de socorristas em um bote inflável durante as buscas por jornalistas desaparecidos enquanto cobriam a erupção do Monte A",
       "link": "https://g1.globo.com/mundo/noticia/2026/09/09/fotojornalistas-desaparecem-no-mar-ao-seguir-para-cobrir-erupcao-de-vulcao-na-indonesia.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Por que Justiça determinou que biomédica e esteticista acusadas da morte de fotógrafa no interior de SP devem ir a júri",
-      "resumo": "Biomédica e esteticista vão a júri popular por morte de fotógrafa em Cosmópolis\nd\nA Justiça elencou três pontos para determinar que a biomédica e a esteticista acusadas pela morte da fotógrafa Roberta",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/09/por-que-justica-determinou-que-biomedica-e-esteticista-acusadas-da-morte-de-fotografa-no-interior-de-sp-devem-ir-a-juri.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Casal cria terrários inspirados nos orixás e alcança faturamento de R$ 100 mil por mês",
-      "resumo": "De um terrário na Paulista a um negócio que faturou R$ 100 mil em um mês\nQuando deixaram Florianópolis para começar uma nova vida em São Paulo, Edu Santana e Will Souza precisavam encontrar uma forma ",
-      "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/09/09/casal-cria-terrarios-inspirados-nos-orixas-e-alcanca-faturamento-de-r-100-mil-por-mes.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Padre preso suspeito de estupro no litoral de SP já foi condenado por abuso a criança em Franca, SP",
-      "resumo": "Padre preso suspeito de estupro no litoral de SP já foi condenado por abuso em Franca\nO padre Jucelino de Oliveira, de 58 anos, preso na noite de sexta-feira (4) em Praia Grande, no litoral de São Pau",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/09/09/padre-preso-suspeito-de-estupro-no-litoral-de-sp-ja-foi-condenado-por-abuso-a-crianca-em-franca-sp.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Brasília (DF): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
-      "resumo": "Previsão do tempo hoje em Brasília\ng1\nA previsão do tempo para esta quarta-feira (9) para Brasília (DF) é de sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite. As máximas são de 28",
-      "link": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/09/previsao-do-tempo-hoje-para-brasilia-df-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para São Paulo (SP): sol com muitas nuvens a nublado com chuva no fim da manhã; tarde e noite chuvosas",
-      "resumo": "Previsão do tempo hoje em São Paulo\ng1\nA previsão do tempo para esta quarta-feira (9) para São Paulo (SP) é de sol com muitas nuvens a nublado com chuva no fim da manhã. Tarde e noite chuvosas. As máx",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/09/previsao-do-tempo-hoje-para-sao-paulo-sp-sol-com-muitas-nuvens-a-nublado-com-chuva-no-fim-da-manha-tarde-e-noite-chuvosas.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-      "resumo": "Previsão do tempo hoje em São Bernardo do Campo\ng1\nA previsão do tempo para esta quarta-feira (9) para São Bernardo do Campo (SP) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As má",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/09/previsao-do-tempo-hoje-para-sao-bernardo-do-campo-sp-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Santo André (SP): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-      "resumo": "Previsão do tempo hoje em Santo André\ng1\nA previsão do tempo para esta quarta-feira (9) para Santo André (SP) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 24ºC e ",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/09/previsao-do-tempo-hoje-para-santo-andre-sp-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Osasco (SP): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-      "resumo": "Previsão do tempo hoje em Osasco\ng1\nA previsão do tempo para esta quarta-feira (9) para Osasco (SP) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 24ºC e as mínimas",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/09/previsao-do-tempo-hoje-para-osasco-sp-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Guarulhos (SP): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-      "resumo": "Previsão do tempo hoje em Guarulhos\ng1\nA previsão do tempo para esta quarta-feira (9) para Guarulhos (SP) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 23ºC e as m",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/09/previsao-do-tempo-hoje-para-guarulhos-sp-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
       "fonte": "G1"
     },
     {
