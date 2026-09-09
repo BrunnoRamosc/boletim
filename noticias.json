@@ -1,6 +1,62 @@
 {
-  "atualizadoEm": "2026-09-09T08:09:46.236801",
+  "atualizadoEm": "2026-09-09T08:40:14.136343",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "TCE aponta risco de prejuízo de até R$ 603,9 milhões em contratos de energia solar em municípios do RN",
+      "resumo": "Sistema de geração de energia solar\nBruno Vital/g1\nUm relatório técnico do Tribunal de Contas do Estado do Rio Grande do Norte (TCE-RN) apontou indícios de irregularidades em uma ata de preços usada p",
+      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/09/tce-aponta-risco-de-prejuizo-de-ate-r-6039-milhoes-em-contratos-de-energia-solar-em-municipios-do-rn.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Mãe vende donuts em ônibus para comprar cadeira para filho com paralisia cerebral: 'Propósito de Deus'",
+      "resumo": "Carolina Almeida da Silva, de 38 anos, vende donuts em ônibus de Santos para complementar renda para o filho com paralisia cerebral.\nArquivo Pessoal\nUma mãe atípica encontrou nos trajetos de ônibus em",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/09/mae-vende-donuts-em-onibus-para-comprar-cadeira-para-filho-com-paralisia-cerebral-proposito-de-deus.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Torcedor do Santos recebe curtida de Neymar e espalha adesivos com print pelo litoral de SP: 'Emocionei'; VÍDEO",
+      "resumo": "Torcedor do Santos espalha adesivos de post curtido por Neymar no litoral de SP\nO que você faria se fosse notado pelo seu ídolo? O torcedor do Santos FC William Sobral dos Santos, de 32 anos, imprimiu",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/09/torcedor-do-santos-recebe-curtida-de-neymar-e-espalha-adesivos-com-print-pelo-litoral-de-sp-emocionei-video.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "PM aposentado foi morto com tiro na cabeça enquanto fazia segurança de clube no litoral de SP",
+      "resumo": "PM aposentado que trabalhava como segurança é morto a tiros em São Vicente, SP\nO policial militar aposentado Emerson Manzo, de 55 anos, foi morto com um tiro na cabeça enquanto trabalhava como seguran",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/09/pm-aposentado-foi-morto-com-tiro-na-cabeca-enquanto-fazia-seguranca-de-clube-no-litoral-de-sp.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "A pé, de bike e de caiaque: aos 60 anos, voluntário percorre 2,2 mil km da supertrilha que dá a volta no RJ em 4 meses",
+      "resumo": "Alguns dos lugares por onde a trilha Volta ao Rio passa\nReprodução\nForam 127 dias entre montanhas, serras, rios, lagoas, praias e cidades do estado do Rio de Janeiro. Aos 60 anos, o voluntário Luiz Ar",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/09/voluntario-percorre-supertrilha-que-da-a-volta-no-rj.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Arsesp aplicou R$ 10,8 milhões em multas à Sabesp desde 2022 em São José dos Campos; empresa ainda não pagou",
+      "resumo": "Alguns bairros de São José dos Campos ficaram quatro dias sem água em julho.\nReprodução/Rede Vanguarda/Arquivo\nA Agência Reguladora de Serviços Públicos do Estado de São Paulo (Arsesp) aplicou R$ 10,8",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/09/arsesp-aplicou-r-108-milhoes-em-multas-a-sabesp-desde-2022-em-sao-jose-dos-campos-empresa-ainda-nao-pagou.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Antes e depois: em 4 dias, trecho do Rio da Prata seca completamente e ameaça peixes em MS",
+      "resumo": "Com avanço da seca, peixes são resgatados no rio da Prata em Jardim\nA estiagem que atinge Mato Grosso do Sul mudou completamente o cenário de um trecho do Rio da Prata, em Jardim. Em apenas quatro dia",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/09/antes-e-depois-em-4-dias-trecho-do-rio-da-prata-seca-completamente-e-ameaca-peixes-em-ms.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Família de acreana assassinada a facadas em MT tenta resgatar filho da vítima que está com desconhecida: 'Nos bloqueou'",
+      "resumo": "Imagens mostram acreana sendo levada para casa onde foi morta a facadas no MT\nAlém da dor de perder a acreana Mirela dos Santos Kaluzny, de 28 anos, assassinada a facadas no último domingo (6) em Feli",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/09/09/familia-de-acreana-assassinada-a-facadas-em-mt-tenta-resgatar-filho-da-vitima-que-esta-com-desconhecida-nos-bloqueou.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Padre do Ceará é finalista em disputa de samba-enredo da escola Unidos da Tijuca, que vai homenagear 'A Cabeça do Santo'",
@@ -13,62 +69,6 @@
       "titulo": "Casos Larissa e Gisele: soldado suspeito de matar esposa vai para mesma prisão militar onde está oficial acusado de feminicídio",
       "resumo": "Trajetória da bala embasou prisão de PM\nO soldado da Polícia Militar (PM) Vinícius Costa Silva, de 26 anos, suspeito de envolvimento na morte da esposa, Larissa da Cruz Morata, de 29, foi levado para ",
       "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/09/casos-larissa-e-gisele-soldado-suspeito-de-matar-esposa-vai-para-mesma-prisao-militar-onde-esta-oficial-acusado-de-feminicidio.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "'Mini Bode': Animal chama atenção por tamanho reduzido e amizade com menina no PI",
-      "resumo": "'Mini Bode': Animal chama atenção por tamanho reduzido e amizade com menina no PI\nUm bode de 2 anos, que vive na localidade Barreiro, zona rural de Queimada Nova, no Sul do Piauí, chamou atenção nas r",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/09/09/bode-tamanho-reduzido-piaui.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "TCU dá 60 dias para Saúde explicar atraso em 97% das entregas de remédios em acordo com a Fiocruz",
-      "resumo": "Walterson Rosa/MS\nEntre junho e dezembro de 2024, 97% das entregas de medicamentos previstas em um acordo do Ministério da Saúde com a Fiocruz ficaram fora do prazo. Apenas 3% saíram na data contratad",
-      "link": "https://g1.globo.com/saude/noticia/2026/09/09/tcu-da-60-dias-para-saude-explicar-atraso-em-97percent-das-entregas-de-remedios-em-acordo-com-a-fiocruz.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "VÍDEO: atirador joga arma no chão e saca outra da cintura para matar homem que estava no primeiro dia de trabalho em MG",
-      "resumo": "Homem é morto a tiros dentro de estabelecimento no primeiro dia de trabalho, em MG\nCâmeras de monitoramento registraram uma cena que chamou a atenção pela frieza do criminoso: após efetuar os primeiro",
-      "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/09/09/video-atirador-joga-arma-no-chao-e-saca-outra-da-cintura-para-matar-homem-que-estava-no-primeiro-dia-de-trabalho-em-mg.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Trabalhador morto após pegar carne da marmita de colega havia se mudado há um mês para novo emprego em MG",
-      "resumo": "Adelson Pereira de Araújo, morto após discussão por causa de carne de marmita em Patos de Minas\nArquivo pessoal\nAdelson Pereira de Araújo, de 37 anos, morto a facadas por um colega de alojamento, de 2",
-      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/09/trabalhador-morto-apos-pegar-carne-da-marmita-de-colega-havia-se-mudado-ha-um-mes-para-novo-emprego-em-mg.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Sargento da PM é condenado a 31 anos por estupro de vulnerável no Rio; enteada relatou abusos desde os 8 anos",
-      "resumo": "Abuso infantil\nBanco de dados\nA Justiça do Rio condenou um 1º sargento da Polícia Militar a 31 anos de prisão em regime fechado por estupro de vulnerável contra a enteada. A decisão foi da juíza Bruna",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/09/sargento-da-pm-e-condenado-por-estupro-de-vulneravel.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Círio 2026: caravanas de peregrinos podem se cadastrar para receber apoio no trajeto até Belém",
-      "resumo": "Caminhada é acompanhada pela imagem de Nossa Senhora de Nazaré\nDivulgação / Nazareno Abraçado\nGrupos de peregrinos que vão percorrer estradas a pé ou de bicicleta rumo a Belém para o Círio de Nazaré 2",
-      "link": "https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/09/09/cirio-2026-caravanas-de-peregrinos-podem-se-cadastrar-para-receber-apoio-no-trajeto-ate-belem.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Filho de venezuelanos é batizado de Haaland em Roraima em homenagem ao astro norueguês",
-      "resumo": "Filho de venezuelanos é batizado de Haaland em Roraima em homenagem ao astro norueguês\nFilho de venezuelanos. Nascido no Brasil. Nome do astro norueguês. Esse é o início da história do mais novo rorai",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/09/09/filho-de-venezuelanos-e-batizado-de-haaland-em-roraima-em-homenagem-ao-astro-noruegues.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "'Faraó dos bitcoins' diz à Justiça que obrigava Mirelis a operar criptomoedas para clientes através de tortura psicológica e cárcere privado",
-      "resumo": "Glaidson Acácio dos Santos, o 'Faraó dos Bitcoins'\nReprodução/TV Globo\nGlaidson Acácio dos Santos, o \"Faraó dos bitcoins\", disse à Justiça Federal que fazia tortura psicológica e mantinha a esposa e s",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/09/farao-dos-bitcoins-diz-a-justica-que-obrigava-mirelis-a-operar-criptomoedas-para-clientes-atraves-de-tortura-psicologica-e-carcere-privado.ghtml",
       "fonte": "G1"
     },
     {
