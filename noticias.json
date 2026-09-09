@@ -1,6 +1,34 @@
 {
-  "atualizadoEm": "2026-09-09T05:08:34.802297",
+  "atualizadoEm": "2026-09-09T05:39:37.803793",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Fotojornalistas desaparecem no mar ao seguir para cobrir erupção de vulcão na Indonésia",
+      "resumo": "Foto divulgada pela Agência Nacional de Busca e Resgate da Indonésia (BASARNAS) de socorristas em um bote inflável durante as buscas por jornalistas desaparecidos enquanto cobriam a erupção do Monte A",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/09/fotojornalistas-desaparecem-no-mar-ao-seguir-para-cobrir-erupcao-de-vulcao-na-indonesia.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Por que Justiça determinou que biomédica e esteticista acusadas da morte de fotógrafa no interior de SP devem ir a júri",
+      "resumo": "Biomédica e esteticista vão a júri popular por morte de fotógrafa em Cosmópolis\nd\nA Justiça elencou três pontos para determinar que a biomédica e a esteticista acusadas pela morte da fotógrafa Roberta",
+      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/09/por-que-justica-determinou-que-biomedica-e-esteticista-acusadas-da-morte-de-fotografa-no-interior-de-sp-devem-ir-a-juri.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Casal cria terrários inspirados nos orixás e alcança faturamento de R$ 100 mil por mês",
+      "resumo": "De um terrário na Paulista a um negócio que faturou R$ 100 mil em um mês\nQuando deixaram Florianópolis para começar uma nova vida em São Paulo, Edu Santana e Will Souza precisavam encontrar uma forma ",
+      "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/09/09/casal-cria-terrarios-inspirados-nos-orixas-e-alcanca-faturamento-de-r-100-mil-por-mes.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Padre preso suspeito de estupro no litoral de SP já foi condenado por abuso a criança em Franca, SP",
+      "resumo": "Padre preso suspeito de estupro no litoral de SP já foi condenado por abuso em Franca\nO padre Jucelino de Oliveira, de 58 anos, preso na noite de sexta-feira (4) em Praia Grande, no litoral de São Pau",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/09/09/padre-preso-suspeito-de-estupro-no-litoral-de-sp-ja-foi-condenado-por-abuso-a-crianca-em-franca-sp.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Previsão do tempo hoje para Brasília (DF): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
@@ -41,34 +69,6 @@
       "titulo": "Previsão do tempo hoje para Guarulhos (SP): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
       "resumo": "Previsão do tempo hoje em Guarulhos\ng1\nA previsão do tempo para esta quarta-feira (9) para Guarulhos (SP) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 23ºC e as m",
       "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/09/previsao-do-tempo-hoje-para-guarulhos-sp-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para São Gonçalo (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "resumo": "Previsão do tempo hoje em São Gonçalo\ng1\nA previsão do tempo para esta quarta-feira (9) para São Gonçalo (RJ) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuven",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/09/previsao-do-tempo-hoje-para-sao-goncalo-rj-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "resumo": "Previsão do tempo hoje em Rio de Janeiro\ng1\nA previsão do tempo para esta quarta-feira (9) para o Rio de Janeiro (RJ) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são ",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/09/previsao-do-tempo-hoje-para-o-rio-de-janeiro-rj-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-      "resumo": "Previsão do tempo hoje em Nova Iguaçu\ng1\nA previsão do tempo para esta quarta-feira (9) para Nova Iguaçu (RJ) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 29ºC e ",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/09/previsao-do-tempo-hoje-para-nova-iguacu-rj-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Niterói (RJ): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-      "resumo": "Previsão do tempo hoje em Niterói\ng1\nA previsão do tempo para esta quarta-feira (9) para Niterói (RJ) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 26ºC e as mínim",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/09/previsao-do-tempo-hoje-para-niteroi-rj-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
       "fonte": "G1"
     },
     {
