@@ -1,6 +1,62 @@
 {
-  "atualizadoEm": "2026-09-11T05:38:57.283076",
+  "atualizadoEm": "2026-09-11T06:11:23.335705",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Em documento, PF detalha articulações de Vorcaro dias antes de ser preso e aponta que banqueiro sabia da operação",
+      "resumo": "A Polícia Federal detalhou em um documento, cujo sigilo foi retirado na noite desta quinta-feira (10), as articulações do ex-banqueiro Daniel Vorcaro nos dias que antecederam a deflagração da Operação",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/11/em-documento-pf-detalha-articulacoes-de-vorcaro-dias-antes-de-ser-preso-e-aponta-que-banqueiro-sabia-da-operacao.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "O que estraga a máquina de lavar e o que você pode usar sem medo, segundo especialistas",
+      "resumo": "Saiba o que pode e o que não pode ir na máquina de lavar\nSeparar as roupas, colocar na máquina, pôr sabão, alvejante e amaciante é a rotina de muita gente. Mas e o detergente ou a água sanitária, será",
+      "link": "https://g1.globo.com/guia/guia-de-compras/casa/limpeza/saiba-o-que-estraga-a-maquina-de-lavar-e-o-que-voce-pode-usar-sem-medo.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Como o trabalho noturno no campo virou alternativa para driblar o calor",
+      "resumo": "Trabalho noturno no campo para driblar o calor\nEm Moka, no Japão, as galinhas de uma fazenda fazem suas refeições depois da meia-noite.\nElas perdem o apetite quando as temperaturas chegam a 35°C duran",
+      "link": "https://g1.globo.com/meio-ambiente/noticia/2026/09/11/como-o-trabalho-noturno-no-campo-virou-alternativa-para-driblar-o-calor.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Terras raras: por que o Brasil está no centro da disputa global por minerais críticos",
+      "resumo": "O que são as tão disputadas terras raras\nO BNDES acaba de aprovar um investimento de R$ 77,5 milhões para um centro de terras raras em Poços de Caldas (MG). A notícia veio poucos dias após o Senado ap",
+      "link": "https://g1.globo.com/meio-ambiente/noticia/2026/09/11/terras-raras-por-que-o-brasil-esta-no-centro-da-disputa-global-por-minerais-criticos.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "VÍDEO: Homem invade obra, furta serra e devolve equipamento ao ser localizado por amigos da vítima",
+      "resumo": "Homem pula muro, invade obra e furta equipamentos, em MG\nUm homem pulou o muro de uma construção no bairro Morro do Engenho, em Itaúna, na noite de terça-feira (8), roubou uma serra circular, mas devo",
+      "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/09/11/video-homem-invade-obra-furta-serra-e-devolve-equipamento-ao-ser-localizado-por-amigos-da-vitima.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "4 exercícios que ajudam a fortalecer os pulsos, uma das articulações mais prejudicadas pela vida moderna",
+      "resumo": "Getty Images\nA vida moderna está prejudicando nossos pulsos. No meu caso, começou com uma dor leve.\nAo longo de um verão, ela progrediu rapidamente até se transformar em uma dor penetrante no braço, q",
+      "link": "https://g1.globo.com/saude/noticia/2026/09/11/4-exercicios-que-ajudam-a-fortalecer-uma-das-articulacoes-mais-prejudicadas-pela-vida-moderna.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "'Temos que seguir em frente': Um mês após tornado no RS, metade das famílias atingidas segue fora de casa",
+      "resumo": "Um mês após tornado no RS, metade das famílias atingidas segue fora de casa\nUm mês após a passagem de um tornado que deixou destruição de seis quilômetros em Pedro Osório, no Sul do Rio Grande do Sul,",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/11/um-mes-apos-tornado-no-rs-metade-das-familias-atingidas-segue-fora-de-casa.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Caso Larissa: nova perícia vai usar scanner 3D e luminol na casa em que esposa de PM morreu baleada",
+      "resumo": "Caso Larissa: exame confirma que disparo foi feito do lado esquerdo da cabeça\nA polícia pretende realizar nesta sexta-feira (11) uma nova perícia na residência em que Larissa Morata, de 29 anos, morre",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/11/caso-larissa-nova-pericia-vai-usar-scanner-3d-e-luminol-na-casa-em-que-esposa-de-pm-morreu-baleada.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "PF aponta triangulação de R$ 6,1 milhões do contrato de wi-fi de SP e indícios de lavagem de dinheiro em entidades ligadas ao filme Dark Horse",
@@ -13,62 +69,6 @@
       "titulo": "Caldeirão com aba: por que a cozinha profissional usa esse detalhe",
       "resumo": "Quem entra numa cozinha de restaurante nota que os caldeirões têm uma borda dobrada para fora — a chamada aba. Parece detalhe de fabricação, mas é uma escolha funcional: com 30 ou 45 litros de caldo d",
       "link": "https://g1.globo.com/mg/centro-oeste/especial-publicitario/panela-de-ferro-fundido-casa-cozinha-decoracao/noticia/2026/09/11/caldeirao-com-aba-por-que-a-cozinha-profissional-usa-esse-detalhe.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "De sucata a instrumento: músico cria atabaque sustentável e fatura R$ 20 mil por mês",
-      "resumo": "Músico transforma sucata em instrumentos e fatura R$ 20 mil por mês\nTransformar sucata em música foi o caminho encontrado pelo músico e percussionista Felipe Fiúza, de Brasília, para resolver um probl",
-      "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/09/11/de-sucata-a-instrumento-musico-cria-atabaque-sustentavel-e-fatura-r-20-mil-por-mes.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; não chove",
-      "resumo": "Previsão do tempo hoje em Brasília\ng1\nA previsão do tempo para esta sexta-feira (11) para Brasília (DF) é de sol com algumas nuvens. Não chove. As máximas são de 30ºC e as mínimas de 16ºC. Clique aqui",
-      "link": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/11/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-nao-chove.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para São Paulo (SP): chuva forte de manhã; aberturas de sol à tarde e pancadas de chuva que vão até a noite",
-      "resumo": "Previsão do tempo hoje em São Paulo\ng1\nA previsão do tempo para esta sexta-feira (11) para São Paulo (SP) é de chuva forte de manhã. Aberturas de sol à tarde e pancadas de chuva que vão até a noite. A",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/11/previsao-do-tempo-hoje-para-sao-paulo-sp-chuva-forte-de-manha-aberturas-de-sol-a-tarde-e-pancadas-de-chuva-que-vao-ate-a-noite.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para São Bernardo do Campo (SP): chuva forte de manhã; ainda chove no começo da tarde, as nuvens diminuem e o sol aparece",
-      "resumo": "Previsão do tempo hoje em São Bernardo do Campo\ng1\nA previsão do tempo para esta sexta-feira (11) para São Bernardo do Campo (SP) é de chuva forte de manhã. Ainda chove no começo da tarde. As nuvens d",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/11/previsao-do-tempo-hoje-para-sao-bernardo-do-campo-sp-chuva-forte-de-manha-ainda-chove-no-comeco-da-tarde-as-nuvens-diminuem-e-o-sol-aparece.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Santo André (SP): chuva forte de manhã; ainda chove no começo da tarde, as nuvens diminuem e o sol aparece",
-      "resumo": "Previsão do tempo hoje em Santo André\ng1\nA previsão do tempo para esta sexta-feira (11) para Santo André (SP) é de chuva forte de manhã. Ainda chove no começo da tarde. As nuvens diminuem e o sol apar",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/11/previsao-do-tempo-hoje-para-santo-andre-sp-chuva-forte-de-manha-ainda-chove-no-comeco-da-tarde-as-nuvens-diminuem-e-o-sol-aparece.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Osasco (SP): chuva forte de manhã; ainda chove no começo da tarde, as nuvens diminuem e o sol aparece",
-      "resumo": "Previsão do tempo hoje em Osasco\ng1\nA previsão do tempo para esta sexta-feira (11) para Osasco (SP) é de chuva forte de manhã. Ainda chove no começo da tarde. As nuvens diminuem e o sol aparece. As má",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/11/previsao-do-tempo-hoje-para-osasco-sp-chuva-forte-de-manha-ainda-chove-no-comeco-da-tarde-as-nuvens-diminuem-e-o-sol-aparece.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Guarulhos (SP): sol com algumas nuvens e chuva passageira; à noite, muitas nuvens mas com tempo firme",
-      "resumo": "Previsão do tempo hoje em Guarulhos\ng1\nA previsão do tempo para esta sexta-feira (11) para Guarulhos (SP) é de sol com algumas nuvens e chuva passageira. À noite, muitas nuvens mas com tempo firme. As",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/11/previsao-do-tempo-hoje-para-guarulhos-sp-sol-com-algumas-nuvens-e-chuva-passageira-a-noite-muitas-nuvens-mas-com-tempo-firme.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para São Gonçalo (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
-      "resumo": "Previsão do tempo hoje em São Gonçalo\ng1\nA previsão do tempo para esta sexta-feira (11) para São Gonçalo (RJ) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com poucas nuven",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/11/previsao-do-tempo-hoje-para-sao-goncalo-rj-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-poucas-nuvens.ghtml",
       "fonte": "G1"
     },
     {
