@@ -1,10 +1,24 @@
 {
-  "atualizadoEm": "2026-09-11T02:08:51.599109",
+  "atualizadoEm": "2026-09-11T02:39:57.931076",
   "itens": [
     {
       "categoria": "Geral",
-      "titulo": "Chuva de granizo é registrada no Noroeste do RS",
-      "resumo": "Granizo Três Passos\nDivulgação/ Defesa Civil de Três Passos\nUma chuva de granizo foi registrada no Noroeste do Rio Grande do Sul na noite desta quinta-feira (10).\n❄️ O granizo acontece durante tempest",
+      "titulo": "Embarcação com passageiros naufraga parcialmente próximo a Juruá, no Amazonas",
+      "resumo": "Embarcação com passageiros naufraga parcialmente no Amazonas\nA embarcação Almirante Oliveira V naufragou parcialmente na noite desta quinta-feira (10), nas proximidades do município de Juruá, no inter",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/09/10/embarcacao-com-passageiros-naufraga-parcialmente-proximo-a-jurua-no-amazonas.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Maroon 5 faz show de reencontros e de realização de sonhos em Salvador dez anos após se apresentar pela primeira vez na cidade",
+      "resumo": "Banda Maroon 5 reúne multidão em retorno a Salvador\nA banda norte-americana Maroon 5 reuniu uma multidão em Salvador, nesta quinta-feira (10), para a apresentação da turnê \"Love Is Like Tour\". O show ",
+      "link": "https://g1.globo.com/ba/bahia/o-que-fazer-em-salvador/noticia/2026/09/10/maroon-5-faz-show-de-reencontros-e-de-realizacao-de-sonhos-em-salvador-dez-anos-apos-se-apresentar-pela-primeira-vez-na-cidade.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "VÍDEO: Chuva de granizo é registrada no Noroeste do RS",
+      "resumo": "Chuva de granizo é registrada em Três Passos, no Noroeste do RS\nUma chuva de granizo foi registrada no Noroeste do Rio Grande do Sul na noite desta quinta-feira (10).\n❄️ O granizo acontece durante tem",
       "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/10/video-chuva-de-granizo-e-registrada-no-noroeste-do-rs.ghtml",
       "fonte": "G1"
     },
@@ -25,7 +39,7 @@
     {
       "categoria": "Geral",
       "titulo": "Fachin combinou com Mendonça decisão sobre sigilo do Master",
-      "resumo": "A decisão do presidente do Supremo Tribunal Federal (STF), Edson Fachin, de pedir a derrubada do sigilo de informações do caso Master foi previamente combinada com o ministro relator do caso, André Me",
+      "resumo": "Fachin determina retirada do sigilo das investigações do caso Master no STF\nA decisão do presidente do Supremo Tribunal Federal (STF), Edson Fachin, de pedir a derrubada do sigilo de informações do ca",
       "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/10/fachin-mendonca-sigilo-master.ghtml",
       "fonte": "G1"
     },
@@ -59,17 +73,10 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Troca de insultos, farpas e acusações marcam mais um debate entre os candidatos ao GDF",
-      "resumo": "Candidatos ao governo do Distrito Federal participam de quarto debate.\nMetrópoles/Reprodução\nCandidatos ao Governo do Distrito Federal participaram, nesta quinta-feira (10), de mais um debate da campa",
-      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/10/troca-de-insultos-farpas-e-acusacoes-marcam-mais-um-debate-entre-os-candidatos-ao-gdf.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Renan Santos, candidato do Missão à Presidência, cumpre agenda em São Paulo",
-      "resumo": "Renan Santos, do Missão, fez campanha em São Paulo\nO candidato Renan Santos, do Missão, cumpriu agenda em São Paulo.\n📱Favorite o g1 no Google e acompanhe as principais notícias do dia\nRenan Santos par",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/09/10/renan-santos-candidato-do-missao-a-presidencia-cumpre-agenda-em-sao-paulo.ghtml",
-      "fonte": "G1"
+      "titulo": "Presidente do STF pede retirada de sigilo do caso Master",
+      "resumo": "Edson Fachin solicitou nesta quinta-feira (10/09) ao ministro André Mendonça o envio de informações relativas a uma das petições que trata do Caso Master no STF.",
+      "link": "https://www.bbc.com/portuguese/articles/c3revjrgz88o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
     },
     {
       "categoria": "Geral",
@@ -90,13 +97,6 @@
       "titulo": "STF salvou a democracia brasileira, mas agora a está sufocando, diz The Economist",
       "resumo": "Artigo da revista britânica publicado nesta quinta-feira (10/09) aborda 'disfunção' no STF e os desdobramentos do Caso Master para Alexandre de Moraes e para a Corte.",
       "link": "https://www.bbc.com/portuguese/articles/cg492rdelyxo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Entenda as duas investigações sobre 'Dark Horse': uma envolve Daniel Vorcaro, e a outra, Mario Frias",
-      "resumo": "A operação Make Up, que a Polícia Federal deflagrou nesta quinta-feira (10/9), apura suspeita de desevio de emendas parlamentares e tem Frias como alvo, não Vorcaro.",
-      "link": "https://www.bbc.com/portuguese/articles/cj9xz29p70eo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
