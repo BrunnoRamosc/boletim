@@ -1,6 +1,13 @@
 {
-  "atualizadoEm": "2026-09-12T02:09:16.471259",
+  "atualizadoEm": "2026-09-12T02:38:56.216223",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Datafolha divulga nova pesquisa de intenção de voto para presidente; veja os números",
+      "resumo": "Datafolha, 1º turno: Lula, 39%; Flávio Bolsonaro, 35%; Cury, 6%; Caiado, 4%; Renan, 3%; Zema, 2%\nO Datafolha divulgou uma nova pesquisa de intenção de voto para presidente. O levantamento foi contrata",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/09/11/datafolha-divulga-nova-pesquisa-de-intencao-de-voto-para-presidente-veja-os-numeros.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Rock in Rio 2026: Jamiroquai faz último show do palco Sunset nesta sexta-feira (11)",
@@ -13,13 +20,6 @@
       "titulo": "Torneira de cobre: a pátina que muda a cor com o tempo",
       "resumo": "Quem instala uma torneira de cobre brilhante e, meses depois, vê a peça escura costuma achar que ela estragou. Não estragou: o cobre desenvolve pátina, uma camada de óxido que muda a cor com o tempo. ",
       "link": "https://g1.globo.com/mg/centro-oeste/especial-publicitario/panela-de-ferro-fundido-casa-cozinha-decoracao/noticia/2026/09/11/torneira-de-cobre-a-patina-que-muda-a-cor-com-o-tempo.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "base rock in rio resenhas",
-      "resumo": "HORÁRIOS ROCK IN RIO: Confira a programação completa\nGALERIA: Veja fotos dos shows 5º dia\nFamosos curtem 5º dia; veja imagens\n\nArte/g1\nRock in Rio 2026: Veja vídeos do quinto dia de festival",
-      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/11/base-rock-in-rio-resenhas.ghtml",
       "fonte": "G1"
     },
     {
@@ -38,8 +38,8 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "No RS, Lula vincula Vorcaro a Bolsonaro e diz que combateu fraude no Master: ‘No meu mandato, ele virou prisioneiro’",
-      "resumo": "Lula em comício em Porto Alegre\nBruno Todeschini/ Grupo RBS\nEm agenda no Rio Grande do Sul, Lula (PT) buscou vincular o banqueiro Daniel Vorcaro, fundador do banco Master, ao governo Jair Bolsonaro (P",
+      "titulo": "No RS, Lula vincula Vorcaro a Bolsonaro e diz que combateu fraude no Master: 'No meu mandato, ele virou prisioneiro'",
+      "resumo": "No RS, Lula vincula Vorcaro a Bolsonaro e diz: ‘No meu mandato, ele virou prisioneiro’\nEm agenda no Rio Grande do Sul, Lula (PT) buscou vincular o banqueiro Daniel Vorcaro, fundador do banco Master, a",
       "link": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/11/lula-bolsonaro-vorcaro-master-rs.ghtml",
       "fonte": "G1"
     },
