@@ -1,6 +1,27 @@
 {
-  "atualizadoEm": "2026-09-13T00:43:06.282517",
+  "atualizadoEm": "2026-09-13T01:07:51.707542",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Lula, candidato à Presidência pelo PL, faz campanha no Paraná",
+      "resumo": "Lula, candidato à Presidência pelo PL, faz campanha no Paraná.\nJornal Nacional/Reprodução\nDurante a manhã de sábado (12), Lula participou de um evento com apoiadores, aliados políticos e a primeira-da",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/09/12/lula-candidato-a-presidencia-pelo-pl-faz-campanha-no-parana.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Flávio Bolsonaro, candidato à Presidência pelo PL, faz campanha no Rio de Janeiro",
+      "resumo": "Flávio Bolsonaro, candidato à Presidência pelo PL, faz campanha no Rio de Janeiro\nJornal Nacional/Reprodução\nFlávio Bolsonaro se reuniu com apoiadores e discursou em uma praça de Cabo Frio, pela manhã",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/09/12/flavio-bolsonaro-candidato-a-presidencia-pelo-pl-faz-campanha-no-rio-de-janeiro.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Augusto Cury, candidato à Presidência pelo Avante, faz campanha em São Paulo",
+      "resumo": "Augusto Cury, candidato à Presidência pelo Avante, faz campanha em São Paulo\nJornal Nacional/Reprodução\nNa manhã de sábado (12), Augusto Cury deu palestra num evento para a classe médica, em Barueri, ",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/09/12/augusto-cury-candidato-a-presidencia-pelo-avante-faz-campanha-em-sao-paulo.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Chuvas intensas causam estragos em diversas regiões do estado de São Paulo",
@@ -48,27 +69,6 @@
       "titulo": "Dark Horse: documentos analisados pela PF mostram pagamentos do Banco Master para o filme",
       "resumo": "Dark Horse: documentos analisados pela PF mostram pagamentos do Banco Master para o filme\nJornal Nacional/Reprodução\nDocumentos analisados pela Polícia Federal mostram como foram feitos os pagamentos ",
       "link": "https://g1.globo.com/jornal-nacional/noticia/2026/09/12/dark-horse-documentos-analisados-pela-pf-mostram-pagamentos-do-banco-master-para-o-filme.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Fachin rejeita discutir na mesma sessão os casos dos ministros Moraes e Mendonça",
-      "resumo": "Fachin rejeita discutir na mesma sessão os casos dos ministros Moraes e Mendonça\nJornal Nacional/Reprodução\nO presidente do Supremo, ministro Edson Fachin, rejeitou discutir, na mesma sessão, os casos",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/09/12/fachin-rejeita-discutir-na-mesma-sessao-os-casos-dos-ministros-moraes-e-mendonca.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "TRE-DF indefere mais duas candidaturas ao governo do Distrito Federal",
-      "resumo": "Tribunal Regional Eleitoral do DF (TRE-DF)\nTV Globo/Reprodução\nO Tribunal Regiona Eleitoral do Distrito Federal (TRE-DF) concluiu, neste sábado (12), o julgamento das candidaturas ao governo. Com as v",
-      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/12/tre-df-indefere-mais-duas-candidaturas-ao-governo-do-distrito-federal.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição de sábado, 12 de setembro de 2026",
-      "resumo": "Assista agora os vídeos do Jornal Anhanguera 2ª Edição",
-      "link": "https://g1.globo.com/go/goias/edicao/2026/09/12/videos-jornal-anhanguera-2-edicao-de-sabado-12-de-setembro-de-2026.ghtml",
       "fonte": "G1"
     },
     {
