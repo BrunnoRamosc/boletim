@@ -1,6 +1,62 @@
 {
-  "atualizadoEm": "2026-09-13T04:39:05.079506",
+  "atualizadoEm": "2026-09-13T05:08:22.932069",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Cirurgia do 'homem mais tatuado do Brasil' será decisiva para definir gravidade de tumor na bexiga",
+      "resumo": "'Homem mais tatuado do Brasil' descobre tumor na bexiga\nA cirurgia do influenciador Leandro de Souza, conhecido por ter sido considerado o \"homem mais tatuado do Brasil\", pode esclarecer os próximos p",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/13/cirurgia-homem-mais-tatuado-do-brasil-decisiva-gravidade-tumor-bexiga.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Educação do DF manda servidores temporários submeterem qualquer atestado à perícia; sindicato critica",
+      "resumo": "Escola Classe Varjão, no DF\nTV Globo/reprodução\nUm memorando publicado pela Secretaria de Estado de Educação do Distrito Federal impôs novas regras para a entrega de atestados médicos. \nA medida, no e",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/09/13/educacao-do-df-manda-servidores-temporarios-submeterem-qualquer-atestado-a-pericia-sindicato-critica.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Prefeitura abre apuração sobre fiscalização de obra que desabou e deixou vítimas na Zona Leste de SP",
+      "resumo": "Desabamento de prédio na Zona Leste de SP deixa ao menos dois mortos\nA Prefeitura de São Paulo abriu na noite de sábado (12) uma apuração na Controladoria Geral do Município (CGM) para investigar os p",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/13/prefeitura-abre-apuracao-sobre-fiscalizacao-de-obra-que-desabou-e-deixou-vitimas-na-zona-leste-de-sp.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "'Quem Resolve': podcast foi a 10 regiões do DF ouvir os problemas da população; veja episódios",
+      "resumo": "Podcast 'Quem Resolve' vai às regiões administrativs para identificar os problemas históricos\nTV Globo\nA poucos dias das eleições, moradores de diferentes regiões do Distrito Federal têm uma lista de ",
+      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/13/quem-resolve-podcast-foi-a-10-regioes-do-df-ouvir-os-problemas-da-populacao-veja-episodios.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Conheça a escola voltada ao público 60+ que já atendeu mais de 1 mil alunos e avança com franquias",
+      "resumo": "Escola para público 60+ transforma aprendizado em negócio e atrai mais de mil alunos\nVoltar para a sala de aula depois dos 60 anos pode parecer um plano improvável para muita gente. Em uma escola de P",
+      "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/09/13/conheca-a-escola-voltada-ao-publico-60-que-ja-atendeu-mais-de-1-mil-alunos-e-avanca-com-franquias.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Rock in Rio 2026: 6º dia tem Maroon 5 previsível, Demi Lovato afinada, muito pop farofa e axé",
+      "resumo": "Rock in Rio 2026: 6º dia tem Maroon 5 previsível, Demi Lovato afinada, muito pop farofa e axé Mumford & Sons, João Gomes e outros também se apresentaram neste sábado (12). Como chegar no Rock in Rio d",
+      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/ao-vivo/rock-in-rio-2026-shows-ao-vivo-programacao-ingressos-fotos-videos-e-cobertura-em-tempo-real.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "6º dia de Rock in Rio tem Maroon 5 previsível, Demi Lovato afinada, muito pop farofa e axé; veja resumo",
+      "resumo": "Maroon 5 toca 'She will be loved' no Rock in Rio\nO Rock in Rio 2026 teve neste sábado (12) um dia de pop farofento, grandes hits e encontros especiais, com o Maroon 5 como headliner no Palco Mundo. \nE",
+      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/13/6o-dia-de-rock-in-rio-tem-maroon-5-previsivel-demi-lovato-afinada-muito-pop-farofa-e-axe-veja-resumo.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Maroon 5 faz show previsível, mas hits sustentam o 3º Rock in Rio da banda",
+      "resumo": "Maroon 5 toca 'She will be loved' no Rock in Rio\nHeadliner deste sábado (12) no Rock in Rio, o Maroon 5 se tornou um meme do festival depois que substituiu Lady Gaga de última hora em 2017. Desde entã",
+      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/13/maroon-5-faz-show-previsivel-mas-hits-sustentam-o-3o-rock-in-rio-da-banda.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Naufrágio deixa mais de 30 desaparecidos em Vanuatu, no Pacífico",
@@ -13,62 +69,6 @@
       "titulo": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; não chove",
       "resumo": "Previsão do tempo hoje em Brasília\ng1\nA previsão do tempo para este domingo (13) para Brasília (DF) é de sol com algumas nuvens. Não chove. As máximas são de 32ºC e as mínimas de 19ºC. Clique aqui par",
       "link": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-nao-chove.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para São Paulo (SP): tempo chuvoso durante o dia e à noite",
-      "resumo": "Previsão do tempo hoje em São Paulo\ng1\nA previsão do tempo para este domingo (13) para São Paulo (SP) é de tempo chuvoso durante o dia e à noite. As máximas são de 17ºC e as mínimas de 14ºC. Clique aq",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-sao-paulo-sp-tempo-chuvoso-durante-o-dia-e-a-noite.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para São Bernardo do Campo (SP): tempo chuvoso durante o dia e à noite",
-      "resumo": "Previsão do tempo hoje em São Bernardo do Campo\ng1\nA previsão do tempo para este domingo (13) para São Bernardo do Campo (SP) é de tempo chuvoso durante o dia e à noite. As máximas são de 16ºC e as mí",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-sao-bernardo-do-campo-sp-tempo-chuvoso-durante-o-dia-e-a-noite.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Santo André (SP): tempo chuvoso durante o dia e à noite",
-      "resumo": "Previsão do tempo hoje em Santo André\ng1\nA previsão do tempo para este domingo (13) para Santo André (SP) é de tempo chuvoso durante o dia e à noite. As máximas são de 17ºC e as mínimas de 14ºC. Cliqu",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-santo-andre-sp-tempo-chuvoso-durante-o-dia-e-a-noite.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Osasco (SP): tempo chuvoso durante o dia e à noite",
-      "resumo": "Previsão do tempo hoje em Osasco\ng1\nA previsão do tempo para este domingo (13) para Osasco (SP) é de tempo chuvoso durante o dia e à noite. As máximas são de 17ºC e as mínimas de 14ºC. Clique aqui par",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-osasco-sp-tempo-chuvoso-durante-o-dia-e-a-noite.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Guarulhos (SP): sol com muitas nuvens a nublado com chuva no fim da manhã; tarde e noite chuvosas",
-      "resumo": "Previsão do tempo hoje em Guarulhos\ng1\nA previsão do tempo para este domingo (13) para Guarulhos (SP) é de sol com muitas nuvens a nublado com chuva no fim da manhã. Tarde e noite chuvosas. As máximas",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-guarulhos-sp-sol-com-muitas-nuvens-a-nublado-com-chuva-no-fim-da-manha-tarde-e-noite-chuvosas.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para São Gonçalo (RJ): sol o dia todo; muitas nuvens e pancadas de chuva de manhã e à noite",
-      "resumo": "Previsão do tempo hoje em São Gonçalo\ng1\nA previsão do tempo para este domingo (13) para São Gonçalo (RJ) é de sol o dia todo. Muitas nuvens e pancadas de chuva de manhã e à noite. As máximas são de 2",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-sao-goncalo-rj-sol-o-dia-todo-muitas-nuvens-e-pancadas-de-chuva-de-manha-e-a-noite.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol com muitas nuvens a nublado com chuva no fim da manhã; tarde e noite chuvosas",
-      "resumo": "Previsão do tempo hoje em Rio de Janeiro\ng1\nA previsão do tempo para este domingo (13) para o Rio de Janeiro (RJ) é de sol com muitas nuvens a nublado com chuva no fim da manhã. Tarde e noite chuvosas",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-o-rio-de-janeiro-rj-sol-com-muitas-nuvens-a-nublado-com-chuva-no-fim-da-manha-tarde-e-noite-chuvosas.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "resumo": "Previsão do tempo hoje em Nova Iguaçu\ng1\nA previsão do tempo para este domingo (13) para Nova Iguaçu (RJ) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 24ºC e as",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/13/previsao-do-tempo-hoje-para-nova-iguacu-rj-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
       "fonte": "G1"
     },
     {
