@@ -1,6 +1,34 @@
 {
-  "atualizadoEm": "2026-09-14T05:08:26.002975",
+  "atualizadoEm": "2026-09-14T05:39:01.288916",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Base de cálculo do IPTU passará por atualização em Uberaba",
+      "resumo": "Imóveis residência casas IPTU Uberaba\nReprodução/TV Integração\nA Prefeitura de Uberaba iniciou um processo para revisão da planta genérica de valores, tabela que é base de cálculo para o IPTU. Os estu",
+      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/14/base-de-calculo-do-iptu-passara-por-atualizacao-em-uberaba.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "VÍDEO: ‘Encantador de búfalos’ toca violino para conduzir animais no RS",
+      "resumo": "‘Encantador de búfalos’ toca violino para conduzir animais no RS\nO criador e veterinário Antônio Carlos Trierweiler ficou conhecido como o “Encantador de Búfalos” por conduzir os animais por meio da m",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/14/video-encantador-de-bufalos-toca-violino-para-conduzir-animais-no-rs.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Tem água ou não? Entenda em 5 pontos o abastecimento de Ribeirão Preto, SP, pelo Aquífero Guarani",
+      "resumo": "Entenda o sistema de abastecimento de  de Ribeirão Preto, SP, em 5 pontos\nTem água no Aquífero Guarani? Sim. Mas isso não significa que ela chegue com regularidade à torneira de todos os moradores de ",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/09/14/tem-agua-ou-nao-entenda-em-5-pontos-o-abastecimento-de-ribeirao-preto-sp-pelo-aquifero-guarani.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "De cliente a dona de clínica: empreendedora faz da paixão por estética um negócio de milhões",
+      "resumo": "De cliente a dona: empreendedora transforma paixão por estética em negócio milionário\nO mercado de estética continua em expansão no Brasil, impulsionado por consumidores cada vez mais atentos ao bem-e",
+      "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/09/14/de-cliente-a-dona-de-clinica-empreendedora-faz-da-paixao-por-estetica-um-negocio-de-milhoes.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Os melhores e os piores shows do Rock in Rio 2026... Os destaques e as decepções do festival",
@@ -41,34 +69,6 @@
       "titulo": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; não chove",
       "resumo": "Previsão do tempo hoje em Brasília\ng1\nA previsão do tempo para esta segunda-feira (14) para Brasília (DF) é de sol com algumas nuvens. Não chove. As máximas são de 32ºC e as mínimas de 19ºC. Clique aq",
       "link": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/14/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-nao-chove.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para São Paulo (SP): tempo chuvoso durante o dia e à noite",
-      "resumo": "Previsão do tempo hoje em São Paulo\ng1\nA previsão do tempo para esta segunda-feira (14) para São Paulo (SP) é de tempo chuvoso durante o dia e à noite. As máximas são de 17ºC e as mínimas de 14ºC. Cli",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/14/previsao-do-tempo-hoje-para-sao-paulo-sp-tempo-chuvoso-durante-o-dia-e-a-noite.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para São Bernardo do Campo (SP): tempo chuvoso de manhã e à noite; aberturas de sol à tarde, ainda com pancadas de chuva",
-      "resumo": "Previsão do tempo hoje em São Bernardo do Campo\ng1\nA previsão do tempo para esta segunda-feira (14) para São Bernardo do Campo (SP) é de tempo chuvoso de manhã e à noite. Aberturas de sol à tarde, ain",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/14/previsao-do-tempo-hoje-para-sao-bernardo-do-campo-sp-tempo-chuvoso-de-manha-e-a-noite-aberturas-de-sol-a-tarde-ainda-com-pancadas-de-chuva.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Santo André (SP): tempo chuvoso de manhã e à noite; aberturas de sol à tarde, ainda com pancadas de chuva",
-      "resumo": "Previsão do tempo hoje em Santo André\ng1\nA previsão do tempo para esta segunda-feira (14) para Santo André (SP) é de tempo chuvoso de manhã e à noite. Aberturas de sol à tarde, ainda com pancadas de c",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/14/previsao-do-tempo-hoje-para-santo-andre-sp-tempo-chuvoso-de-manha-e-a-noite-aberturas-de-sol-a-tarde-ainda-com-pancadas-de-chuva.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Osasco (SP): tempo chuvoso de manhã; aberturas de sol à tarde e pancadas de chuva que vão até a noite",
-      "resumo": "Previsão do tempo hoje em Osasco\ng1\nA previsão do tempo para esta segunda-feira (14) para Osasco (SP) é de tempo chuvoso de manhã. Aberturas de sol à tarde e pancadas de chuva que vão até a noite. As ",
-      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/14/previsao-do-tempo-hoje-para-osasco-sp-tempo-chuvoso-de-manha-aberturas-de-sol-a-tarde-e-pancadas-de-chuva-que-vao-ate-a-noite.ghtml",
       "fonte": "G1"
     },
     {
