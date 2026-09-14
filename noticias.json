@@ -1,6 +1,62 @@
 {
-  "atualizadoEm": "2026-09-13T23:36:46.172305",
+  "atualizadoEm": "2026-09-14T00:13:22.705797",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "AO VIVO: Entrevista com os candidatos ao Senado no RN",
+      "resumo": "AO VIVO: Entrevista com os candidatos ao Senado no RN Entrevistas acontecem no Bom Dia da Inter de 14 a 18 de setembro.",
+      "link": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/ao-vivo/ao-vivo-entrevista-com-os-candidatos-ao-senado-no-rn.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "AO VIVO: Entrevista com os candidatos ao governo do RN no Inter 1",
+      "resumo": "AO VIVO: Entrevista com os candidatos ao governo do RN no Inter 1 Entrevistas acontecem de 14 a 18 de setembro.",
+      "link": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/ao-vivo/ao-vivo-entrevista-com-os-candidatos-ao-governo-do-rn-no-inter-1.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Polícia Civil e Guarda Municipal salvam cães em situação de maus-tratos em Petrópolis: 'Risco concreto de morte'",
+      "resumo": "Caso de maus-tratos foi registrado na 105ª Delegacia de Polícia, no bairro Retiro, em Petrópolis\nBruno Rodrigues/G1\nAgentes da Polícia Civil e da Guarda Municipal em Petrópolis, na Região Serrana do R",
+      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/09/13/policia-civil-e-guarda-municipal-salvam-caes-em-situacao-de-maus-tratos-em-petropolis-risco-concreto-de-morte.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Miastenia gravis: um papo com Alex Escobar sobre o susto que ele tomou depois de passar mal ao vivo, na Copa",
+      "resumo": "Alex Escobar é um colega muito querido e uma referência no telejornalismo esportivo. Mas, nos últimos meses, ele precisou se distanciar da TV para enfrentar um desafio inesperado.\nDurante a cobertura ",
+      "link": "https://g1.globo.com/fantastico/podcast/isso-e-fantastico/noticia/2026/09/13/miastenia-gravis-um-papo-com-alex-escobar-sobre-o-susto-que-ele-tomou-depois-de-passar-mal-ao-vivo-na-copa.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Cidades da Região Metropolitana são atingidas por forte chuva e granizo neste domingo",
+      "resumo": "Cidades da Região Metropolitana são atingidas por forte chuva e granizo neste domingo\nReprodução: Redes Sociais\nCidades da Região Metropolitana de Belo Horizonte foram atingidas por uma forte chuva e ",
+      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/13/cidades-da-regiao-metropolitana-sao-atingidas-por-forte-chuva-e-granizo-neste-domingo.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Um ano após crise do metanol, investigação revela cadeia de falsificação e vítimas convivem com sequelas",
+      "resumo": "Um ano após crise do metanol, investigações avançam, mas ainda há mortes no país por intoxicação\nUm ano depois da onda de intoxicações por metanol associadas a bebidas adulteradas em São Paulo, a polí",
+      "link": "https://g1.globo.com/fantastico/noticia/2026/09/13/um-ano-apos-crise-do-metanol-investigacao-revela-cadeia-de-falsificacao-e-vitimas-convivem-com-sequelas.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Ex-presidente do BRB tinha contas zeradas e saldo devedor na data do bloqueio de bens",
+      "resumo": "Ex-presidente do BRB, Paulo Henrique Costa\nBRB/Divulgação\nDocumentos revelados após quebra de sigilo do caso Master mostram detalhes sobre apreensão e bloqueio de bens de Paulo Henrique Costa, ex-pres",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/09/13/ex-presidente-do-brb-tinha-contas-zeradas-e-saldo-devedor-na-data-do-bloqueio-de-bens.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Máfia dos celulares: operação revela esquema por trás do roubo de aparelhos no Brasil",
+      "resumo": "Máfia dos Celulares: criminosos movimentaram quase meio bilhão de reais, segundo MP\nMais de 830 mil celulares foram roubados ou furtados no Brasil em um ano, o equivalente a um aparelho levado a cada ",
+      "link": "https://g1.globo.com/fantastico/noticia/2026/09/13/mafia-dos-celulares-operacao-revela-esquema-bilionario-por-tras-do-roubo-de-aparelhos-no-brasil.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Rock in Rio 2026: Marina Sena convida Céu no Palco Sunset neste último dia",
@@ -11,64 +67,8 @@
     {
       "categoria": "Geral",
       "titulo": "Gilmar Mendes pede para PF enviar cópia do celular de Vorcaro e afirma que 'não se cogita qualquer levantamento de sigilo'",
-      "resumo": "O ministro do Supremo Tribunal federal (STF) Gilmar Mendes pediu que o diretor-geral da Polícia Federal, Andrei Rodrigues, neste domingo (13) uma cópia integral do celular de Daniel Vorcaro apreendido",
+      "resumo": "O ministro do Supremo Tribunal Federal (STF) Gilmar Mendes pediu neste domingo (13) que o diretor-geral da Polícia Federal, Andrei Rodrigues, encaminhe uma cópia integral do celular de Daniel Vorcaro ",
       "link": "https://g1.globo.com/politica/noticia/2026/09/13/gilmar-mendes-pede-para-pf-enviar-copia-do-celular-de-vorcaro-e-afirma-que-nao-se-cogita-qualquer-levantamento-de-sigilo.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Passageiro que morreu em acidente que deixou Audi partido ao meio na GO-080 deixou dois filhos, diz família",
-      "resumo": "Victor Silva morreu em acidente na GO-080\nReprodução/Arquivo pessoal Thais Braga\nO passageiro Victor Silva, de 26 anos, que morreu em um acidente que deixou Audi partido ao meio na GO-080, deixou uma ",
-      "link": "https://g1.globo.com/go/goias/transito/noticia/2026/09/13/passageiro-que-morreu-em-acidente-que-deixou-audi-partido-ao-meio-na-go-080-deixou-dois-filhos-diz-familia.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Eleições 2026: veja como foi o dia dos candidatos ao Governo do Piauí neste domingo (13)",
-      "resumo": "Eleições 2026: veja como foi o dia dos candidatos ao Governo do Piauí neste domingo (13)\nMontagem/g1\nOs candidatos ao Governo do Piauí realizaram atividades de campanha neste domingo (13). As agendas ",
-      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/09/13/candidatos-governo-pi.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Veja agenda de campanha dos candidatos ao governo de MG neste domingo",
-      "resumo": "Montagem de fotos com os candidatos ao governo de MG\nDivulgação\nCandidatos ao governo de Minas Gerais realizaram a gravação de materiais de campanha, participaram de reuniões internas e estiveram pres",
-      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/13/veja-agenda-de-campanha-dos-candidatos-ao-governo-de-mg-neste-domingo.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Lula faz 'live' com apoiadores no Alvorada; em 2022, TSE proibiu Bolsonaro de promover própria campanha no palácio",
-      "resumo": "O presidente Luiz Inácio Lula da Silva (PT) participou neste domingo (13) de uma transmissão ao vivo no Palácio da Alvorada com apoiadores para promover a própria candidatura à reeleição. \nNa transmis",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/13/lula-faz-live-com-apoiadores-no-alvorada-em-2022-tse-proibiu-bolsonaro-de-promover-propria-campanha-no-palacio.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Lola Young estreia no Brasil com vocal rasgado e bom show cru, mas prejudicado por público apático",
-      "resumo": "Lolla Young canta 'Messy' no Rock in Rio\nDebaixo de uma fina e insistente garoa, Lola Young estreou no Brasil cantando para um público pequeno, levando em conta que ela estava no Palco Mundo e começou",
-      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/13/lola-young-estreia-no-brasil-com-vocal-rasgado-e-bom-show-cru-mas-prejudicado-por-publico-apatico.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Setlist de Zara Larsson no Rock in Rio: veja como deve ser show da cantora no festival",
-      "resumo": "Zara Larsson em foto para o disco 'Midnight Sun'\nReprodução/Charlotte Rutherford\nA cantora sueca Zara Larsson encerra a programação do Palco Sunset do Rock in Rio neste domingo (13). Ela traz um show ",
-      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/13/setlist-de-zara-larsson-no-rock-in-rio-veja-como-deve-ser-show-da-cantora-no-festival.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Praia Grande abre 45 vagas para guarda-vidas temporários com salário de R$ 2,6 mil",
-      "resumo": "Praia Grande abre vagas para auxiliar de guarda-vidas temporário\nFred Casagrande/Prefeitura de Praia Grande\nA Prefeitura de Praia Grande, no litoral de São Paulo, abriu um processo seletivo com 45 vag",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/13/praia-grande-abre-45-vagas-para-guarda-vidas-temporarios-com-salario-de-r-26-mil.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Escorredor de arroz e macarrão: por que o furo faz diferença",
-      "resumo": "Escorredor parece o utensílio mais simples da cozinha até você perder metade do arroz pelo ralo ou esperar cinco minutos para o macarrão drenar. O detalhe que decide é o padrão de furo — tamanho e dis",
-      "link": "https://g1.globo.com/mg/centro-oeste/especial-publicitario/panela-de-ferro-fundido-casa-cozinha-decoracao/noticia/2026/09/13/escorredor-de-arroz-e-macarrao-por-que-o-furo-faz-diferenca.ghtml",
       "fonte": "G1"
     },
     {
@@ -122,9 +122,9 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Como o ar mais limpo acelera o aquecimento global — e vem revelando um problema maior",
-      "resumo": "Uma curiosa discussão nas redes sociais sobre as ondas de calor ocorridas no último verão europeu destaca uma preocupante mudança no estudo científico das mudanças climáticas.",
-      "link": "https://www.bbc.com/portuguese/articles/cly74p4dznpo?at_medium=RSS&at_campaign=rss",
+      "titulo": "Como o Uruguai virou destino preferido de milhares de cubanos",
+      "resumo": "O país sul-americano recebeu um fluxo extraordinário de refugiados vindos de uma Cuba em crise. Hoje, eles fazem parte do seu cotidiano: há até uma parlamentar nascida na ilha.",
+      "link": "https://www.bbc.com/portuguese/articles/crl6z468xw4o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
