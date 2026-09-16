@@ -1,6 +1,27 @@
 {
-  "atualizadoEm": "2026-09-16T04:09:06.755766",
+  "atualizadoEm": "2026-09-16T04:40:24.890673",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "A sessão histórica que colocou o Supremo contra si mesmo - O Assunto #1805",
+      "resumo": "A sessão dessa terça-feira (15) foi marcada pelo presidente do STF, Edson Fachin, para que o plenário da Corte deliberasse sobre a abertura de uma possível investigação contra o ministro Alexandre de ",
+      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/16/a-sessao-historica-que-colocou-o-supremo-contra-si-mesmo-o-assunto-1805.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Previsão do tempo hoje para Brasília (DF): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
+      "resumo": "Previsão do tempo hoje em Brasília\ng1\nA previsão do tempo para esta quarta-feira (16) para Brasília (DF) é de sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite. As máximas são de 3",
+      "link": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/16/previsao-do-tempo-hoje-para-brasilia-df-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Previsão do tempo hoje para São Paulo (SP): céu nublado com possibilidade de garoa de dia e à noite",
+      "resumo": "Previsão do tempo hoje em São Paulo\ng1\nA previsão do tempo para esta quarta-feira (16) para São Paulo (SP) é de céu nublado com possibilidade de garoa de dia e à noite. As máximas são de 18ºC e as mín",
+      "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/16/previsao-do-tempo-hoje-para-sao-paulo-sp-ceu-nublado-com-possibilidade-de-garoa-de-dia-e-a-noite.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
@@ -48,27 +69,6 @@
       "titulo": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol, com pancadas de chuva de manhã e muitas nuvens à tarde; à noite, tempo firme",
       "resumo": "Previsão do tempo hoje em Nova Iguaçu\ng1\nA previsão do tempo para esta quarta-feira (16) para Nova Iguaçu (RJ) é de sol, com pancadas de chuva de manhã e muitas nuvens à tarde. À noite, tempo firme. A",
       "link": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/16/previsao-do-tempo-hoje-para-nova-iguacu-rj-sol-com-pancadas-de-chuva-de-manha-e-muitas-nuvens-a-tarde-a-noite-tempo-firme.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Niterói (RJ): sol com algumas nuvens e chuva passageira; à noite, o céu fica nublado e pode chuviscar",
-      "resumo": "Previsão do tempo hoje em Niterói\ng1\nA previsão do tempo para esta quarta-feira (16) para Niterói (RJ) é de sol com algumas nuvens e chuva passageira. À noite, o céu fica nublado e pode chuviscar. As ",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/16/previsao-do-tempo-hoje-para-niteroi-rj-sol-com-algumas-nuvens-e-chuva-passageira-a-noite-o-ceu-fica-nublado-e-pode-chuviscar.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Duque de Caxias (RJ): sol o dia todo, com muitas nuvens; pancadas de chuva de manhã, à noite, tempo chuvoso",
-      "resumo": "Previsão do tempo hoje em Duque de Caxias\ng1\nA previsão do tempo para esta quarta-feira (16) para Duque de Caxias (RJ) é de sol o dia todo, com muitas nuvens. Pancadas de chuva de manhã. À noite, temp",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/16/previsao-do-tempo-hoje-para-duque-de-caxias-rj-sol-o-dia-todo-com-muitas-nuvens-pancadas-de-chuva-de-manha-a-noite-tempo-chuvoso.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Sete Lagoas (MG): dia de sol, com nevoeiro ao amanhecer; as nuvens aumentam à tarde e à noite chove",
-      "resumo": "Previsão do tempo hoje em Sete Lagoas\ng1\nA previsão do tempo para esta quarta-feira (16) para Sete Lagoas (MG) é de dia de sol, com nevoeiro ao amanhecer. As nuvens aumentam à tarde e à noite chove. A",
-      "link": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/09/16/previsao-do-tempo-hoje-para-sete-lagoas-mg-dia-de-sol-com-nevoeiro-ao-amanhecer-as-nuvens-aumentam-a-tarde-e-a-noite-chove.ghtml",
       "fonte": "G1"
     },
     {
