@@ -1,6 +1,13 @@
 {
-  "atualizadoEm": "2026-09-16T03:09:05.599469",
+  "atualizadoEm": "2026-09-16T03:40:23.114587",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Helicóptero cai em Los Angeles e deixa ao menos três mortos",
+      "resumo": "Um helicóptero caiu em Los Angeles, nos Estados Unidos, e três pessoas foram declaradas mortas no local, informou o Corpo de Bombeiros de Los Angeles em uma publicação nas redes sociais nesta terça-fe",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/16/helicoptero-cai-em-los-angeles.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Campanha Vilarejo reúne 10% em 10x para seguir construindo e reformando",
@@ -66,14 +73,7 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "VÍDEO: Até que horas posso votar na eleição 2026?",
-      "resumo": "Guia do Eleitor: Até que horas posso votar?\nA eleição começa e termina no mesmo momento em todo o Brasil. Mas isso não quer dizer que o relógio vai marcar a mesma hora em todos os estados.   \nDesde 20",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/16/video-ate-que-horas-posso-votar-na-eleicao-2026.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "STF não decide sobre Alexandre Moraes e crise se prolonga",
+      "titulo": "STF não decide sobre Alexandre de Moraes e crise se prolonga",
       "resumo": "Em sessão marcada por bate-bocas e trocas de acusações diante das câmeras, Flávio Dino pediu vista e paralisou caso; ainda não está claro se Supremo vai manter data para analisar acusações contra Mend",
       "link": "https://www.bbc.com/portuguese/articles/cm0re47gwy21o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
