@@ -1,6 +1,27 @@
 {
-  "atualizadoEm": "2026-09-16T08:41:34.261254",
+  "atualizadoEm": "2026-09-16T09:08:52.917144",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Assista ao Jornal da Manhã",
+      "resumo": "Assista ao Jornal da Manhã",
+      "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Semana de Arte do Rio reúne exposições, shows e performances; veja destaques",
+      "resumo": "Prefeitura do Rio divulga programação da Semana de Arte do Rio\nA Semana de Arte do Rio reúne, entre quarta-feira (16) e domingo (20), uma programação com mais de 400 exposições, performances, cinema, ",
+      "link": "https://g1.globo.com/guia/guia-rj/noticia/2026/09/16/semana-de-arte-do-rio-reune-exposicoes-shows-e-performances-veja-destaques.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "'Consequências imprevisíveis' para eleição: como imprensa internacional noticiou sessão tumultuada do STF",
+      "resumo": "Sessão extraordinária do STF que decidiria o destino de Alexandre de Moraes (direita) foi destaque na imprensa internacional.\nReuters via BBC\nA sessão extraordinária do Supremo Tribunal Federal (STF) ",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/16/consequencias-imprevisiveis-para-eleicao-como-imprensa-internacional-noticiou-sessao-tumultuada-do-stf.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Veja o que é #FATO ou #FAKE nas entrevistas com candidatos ao governo de São Paulo no SP1",
@@ -52,27 +73,6 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Pedreira sem licença provoca rachaduras e medo em casas no Sertão de AL",
-      "resumo": "Pedreira não tem licença para funcionar em São José da Tapera, afirma IMA\nMoradores do Sítio Serrinha, na zona rural de São José da Tapera, no Alto Sertão de Alagoas, denunciam danos em casas e transt",
-      "link": "https://g1.globo.com/al/alagoas/noticia/2026/09/16/pedreira-sem-licenca-provoca-rachaduras-e-medo-em-casas-no-sertao-de-al.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Lei Rafaela Drumond: entenda como funciona legislação inspirada em escrivã morta após denunciar violência psicológica na polícia",
-      "resumo": "Rafaela Drumond, escrivã da Polícia Civil que morreu em Barbacena\nReprodução/Redes Sociais\nA Lei Rafaela Drumond, em Barbacena, estabelece medidas para prevenir e combater o assédio moral e sexual con",
-      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/09/16/lei-rafaela-drumond-entenda-como-funciona-legislacao-inspirada-em-escriva-morta-apos-denunciar-violencia-psicologica-na-policia.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "PM e esposa encontrados mortos em MG enfrentavam problemas no casamento, diz família",
-      "resumo": "Morte de sargento da PM e esposa é investigada em Itaúna\nFamiliares relataram à Polícia Militar (PM) que o casal encontrado morto dentro de casa, em Itaúna, enfrentava problemas conjugais frequentes e",
-      "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/09/16/pm-e-esposa-encontrados-mortos-em-mg-enfrentavam-problemas-no-casamento-diz-familia.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
       "titulo": "STF não decide sobre Alexandre de Moraes e crise se prolonga",
       "resumo": "Em sessão marcada por bate-bocas e trocas de acusações diante das câmeras, Flávio Dino pediu vista e paralisou caso; ainda não está claro se Supremo vai manter data para analisar acusações contra Mend",
       "link": "https://www.bbc.com/portuguese/articles/cm0re47gwy21o?at_medium=RSS&at_campaign=rss",
@@ -83,6 +83,20 @@
       "titulo": "Quem venceu primeiro embate da batalha entre Moraes e Mendonça no STF? O que dizem os analistas",
       "resumo": "Especialistas ouvidos pela BBC avaliam que, embora a estratégia de ministros aliados a Moraes tenha sido bem-sucedida ao conseguir adiar a análise do caso, o STF é o maior perdedor da sessão.",
       "link": "https://www.bbc.com/portuguese/articles/ckyvz5nel578o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Como foi o papel de cada ministro em sessão tensa e inédita no STF",
+      "resumo": "Julgamento de petição que implica Alexandre de Moraes no caso Master foi marcado por discursos pedindo união e bate-bocas.",
+      "link": "https://www.bbc.com/portuguese/articles/c9rk3r6lylmpo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "'Consequências imprevisíveis' para eleição: como imprensa internacional noticiou sessão tumultuada do STF",
+      "resumo": "Sessão extraordinária do STF que decidiria o destino de Alexandre de Moraes foi destaque na imprensa internacional.",
+      "link": "https://www.bbc.com/portuguese/articles/cq1mv77n38zro?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
@@ -104,20 +118,6 @@
       "titulo": "Dino pede vista, e STF adia análise do caso Moraes; veja como foi o julgamento",
       "resumo": "Com pedido de adiamento, Dino pode paralisar análise por até 90 dias, segundo regras do Supremo.  Até o momento, STF não esclarece se acusações contra Mendonça serão ou não debatidas no dia 24. Nunes ",
       "link": "https://www.bbc.co.uk/portuguese/live/cm8xkdyqkkj4t?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Flávio Dino: 'Há mensagens dos ministros Fux, Kassio e André. Onde vamos parar?'",
-      "resumo": "Ministro Flávio Dino disse que Edson Fachin \"está condenado a marcar dezenas de sessões iguais a essa\"",
-      "link": "https://www.bbc.com/portuguese/articles/cmq8j47dky0wo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Moraes e Mendonça deveriam ser impedidos de votar? Juristas respondem perguntas de leitores da BBC",
-      "resumo": "Especialistas respondem às perguntas enviadas à redação sobre julgamento do Supremo em que ministros debateriam se Moraes deve ser investigado por sua suposta relação com o banqueiro Daniel Vorcaro.",
-      "link": "https://www.bbc.com/portuguese/articles/cwkgvk44l5jeo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
