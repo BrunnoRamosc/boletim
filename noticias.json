@@ -1,6 +1,41 @@
 {
-  "atualizadoEm": "2026-09-16T07:40:03.159130",
+  "atualizadoEm": "2026-09-16T08:09:42.364127",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Hemopi mobiliza rede nacional para localizar sangue para paciente com combinação rara de anticorpos",
+      "resumo": "Exames identificaram os anticorpos anti-Rh18 e anti-Rh19, considerados extremamente raros\nReprodução\nO Centro de Hematologia e Hemoterapia do Piauí (Hemopi) realiza uma mobilização nacional para local",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/09/16/paciente-combinacao-rara.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Pedreira sem licença provoca rachaduras e medo em casas no Sertão de AL",
+      "resumo": "Pedreira não tem licença para funcionar em São José da Tapera, afirma IMA\nMoradores do Sítio Serrinha, na zona rural de São José da Tapera, no Alto Sertão de Alagoas, denunciam danos em casas e transt",
+      "link": "https://g1.globo.com/al/alagoas/noticia/2026/09/16/pedreira-sem-licenca-provoca-rachaduras-e-medo-em-casas-no-sertao-de-al.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Lei Rafaela Drumond: entenda como funciona legislação inspirada em escrivã morta após denunciar violência psicológica na polícia",
+      "resumo": "Rafaela Drumond, escrivã da Polícia Civil que morreu em Barbacena\nReprodução/Redes Sociais\nA Lei Rafaela Drumond, em Barbacena, estabelece medidas para prevenir e combater o assédio moral e sexual con",
+      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/09/16/lei-rafaela-drumond-entenda-como-funciona-legislacao-inspirada-em-escriva-morta-apos-denunciar-violencia-psicologica-na-policia.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "PM e esposa encontrados mortos em MG enfrentavam problemas no casamento, diz família",
+      "resumo": "Morte de sargento da PM e esposa é investigada em Itaúna\nFamiliares relataram à Polícia Militar (PM) que o casal encontrado morto dentro de casa, em Itaúna, enfrentava problemas conjugais frequentes e",
+      "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/09/16/pm-e-esposa-encontrados-mortos-em-mg-enfrentavam-problemas-no-casamento-diz-familia.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Pai e avó denunciados por morte de Eduarda Shigematsu são julgados 7 anos após crime; relembre o caso",
+      "resumo": "Justiça mantém júri do caso Eduarda Shigematsu para 16 de setembro\nNesta quarta-feira (16), Ricardo Seidi Shigematsu e Terezinha de Jesus Guinaia vão a júri popular pela morte de Eduarda Shigematsu, d",
+      "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/16/juri-eduarda-shigematsu.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Como proteger as boas bactérias da sua boca",
@@ -38,44 +73,16 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Botox pode afetar emoções, conexões sociais e até a vida sexual, apontam estudos",
-      "resumo": "Botox afeta as emoções\nO botox está acabando literalmente com as emoções. E não se trata somente das emoções de personagens interpretados por atores e atrizes com a cara cada vez mais congelada por co",
-      "link": "https://g1.globo.com/saude/noticia/2026/09/16/botox-pode-afetar-emocoes-conexoes-sociais-e-ate-a-vida-sexual-apontam-estudos.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Jovem acusado de matar adolescente de 16 anos é julgado pelo Tribunal do Júri em Pindamonhangaba",
-      "resumo": "Adolescente de 16 anos é morto a tiros em Pindamonhangaba, SP\nRauston Naves/TV Vanguarda\nO jovem acusado de matar um adolescente de 16 anos será julgado nesta quarta-feira (16) pelo Tribunal do Júri n",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/16/jovem-acusado-de-matar-adolescente-de-16-anos-e-julgado-pelo-tribunal-do-juri-em-pindamonhangaba.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Emprego: veja as 171 vagas disponíveis em Petrolina e Araripina",
-      "resumo": "Consultora de gente e gestão fala sobre como lidar com erros no mercado de trabalho\nA Agência de Trabalho de Pernambuco divulgou as vagas de emprego disponibilizadas para os municípios de Petrolina e ",
-      "link": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/09/16/emprego-veja-as-171-vagas-disponiveis-em-petrolina-e-araripina.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Lixo do Rio vira combustível para caminhões que levam resíduos ao Aterro de Seropédica",
-      "resumo": "Lixo do Rio vira combustível para caminhões que levam resíduos ao Aterro de Seropédica\nO lixo produzido diariamente no Rio de Janeiro pode deixar de ser apenas um problema ambiental para também virar ",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/16/lixo-do-rio-vira-combustivel-para-caminhoes-que-levam-residuos-ao-aterro-de-seropedica.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Dormir bem pode ajudar no desempenho escolar de adolescentes, mostra estudo",
-      "resumo": "Dormir bem pode ajudar no desempenho escolar de adolescentes.\nMagnific\nBoas noites de sono podem ser essenciais para a saúde mental e o desempenho escolar dos adolescentes. Isso é o que aponta um novo",
-      "link": "https://g1.globo.com/educacao/noticia/2026/09/16/dormir-bem-pode-ajudar-no-desempenho-escolar-de-adolescentes-mostra-estudo.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
       "titulo": "STF não decide sobre Alexandre de Moraes e crise se prolonga",
       "resumo": "Em sessão marcada por bate-bocas e trocas de acusações diante das câmeras, Flávio Dino pediu vista e paralisou caso; ainda não está claro se Supremo vai manter data para analisar acusações contra Mend",
       "link": "https://www.bbc.com/portuguese/articles/cm0re47gwy21o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Como Flávio Dino 'sequestrou o debate' em sessão do Supremo que acabou sem decisão",
+      "resumo": "Ministro pede mais tempo para apreciar questão de ordem após discussão entre Gilmar Mendes e André Mendonça e diz que pedido de vista ocorreu porque Fachin não tomou 'providências'.",
+      "link": "https://www.bbc.com/portuguese/articles/c94gml8k74yeo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
@@ -111,13 +118,6 @@
       "titulo": "'Pode chorar': os bate-bocas entre ministros na sessão sobre caso Moraes-Vorcaro",
       "resumo": "A sessão foi marcada pelo presidente da Corte, Edson Fachin, para decidir se o ministro Alexandre de Moraes, também do STF, deverá ou não ser alvo de uma investigação por sua relação com Daniel Vorcar",
       "link": "https://www.bbc.com/portuguese/articles/cm4gv32zgljeo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Por que Kassio Nunes Marques se declarou impedido de analisar futuro de Moraes",
-      "resumo": "Ministro disse que não se sente confortável em participar do julgamento por sua posição como presidente do Tribunal Superior Eleitoral (TSE) e se declarou impedido.",
-      "link": "https://www.bbc.com/portuguese/articles/cmx2zlpklk6yo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
