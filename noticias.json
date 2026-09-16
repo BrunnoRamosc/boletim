@@ -1,74 +1,74 @@
 {
-  "atualizadoEm": "2026-09-16T09:08:52.917144",
+  "atualizadoEm": "2026-09-16T09:40:05.237468",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Resultado da Mega-Sena 3058: 18 apostas do Piauí acertam números; veja valores",
+      "resumo": "G1 | Loterias - Mega-Sena 3058\nDezoito apostas feitas no Piauí acertaram quatro números no concurso 3058 da Mega-Sena, sorteado nesta terça-feira (15), em São Paulo. Os premiados vão receber entre R$ ",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/09/16/resultado-da-mega-sena-3058.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Israel ameaça retomar guerra em Gaza e expulsar palestinos",
+      "resumo": "Israel e Hamas divergem sobre implementação do acordo de desmilitarização de Gaza\nO ministro da Defesa de Israel afirmou nesta quarta-feira (16) que é apenas uma questão de tempo até que o país retome",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/16/israel-ameaca-retomar-guerra-em-gaza-e-expulsar-palestinos.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Gustavo Gayer, candidato ao Senado, é entrevistado no Bom Dia Goiás",
+      "resumo": "Gustavo Gayer, candidato ao Senado, é entrevistado no Bom Dia Goiás Vanderlan Cardoso e Gustavo Mendanha são os próximos entrevistados. O G1 Goiás transmite ao vivo, acompanhe! O Bom Dia Goiás sabatin",
+      "link": "https://g1.globo.com/go/goias/eleicoes/2026/ao-vivo/entrevistas-candidatos-goias-senado.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Eleições 2026: 113 locais de votação têm mudanças em SP; 22 ficam na capital",
+      "resumo": "Imagem urna eletrônica\nReprodução/TV Globo\nTRE-SP orienta eleitores a consultar o endereço antes de ir às urnas. Na cidade de São Paulo, alterações atingem 16 zonas eleitorais; mudanças também foram r",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/16/eleicoes-2026-113-locais-de-votacao-tem-mudancas-em-sp-22-ficam-na-capital.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Marconi Perillo, candidato ao governo, é entrevistado ao vivo no Jornal Anhanguera 1ª Edição",
+      "resumo": "Marconi Perillo, candidato ao governo, é entrevistado ao vivo no Jornal Anhanguera 1ª Edição Daniel Vilela (MDB) e Wilder Morais (PL) já foram sabatinados. O G1 Goiás transmite ao vivo, acompanhe! O J",
+      "link": "https://g1.globo.com/go/goias/eleicoes/2026/ao-vivo/entrevistas-candidatos-goias-governo.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "AO VIVO: assista à programação da NSC TV",
+      "resumo": "AO VIVO: assista à programação da NSC TV   Saiba telefones, endereços e sites das reportagens exibidas",
+      "link": "https://g1.globo.com/sc/santa-catarina/ao-vivo/assista-ao-vivo-aos-telejornais-da-nsc.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Assista ao Bom Dia ES",
+      "resumo": "Assista ao Bom Dia ES Comece o dia bem informado com as notícias do Espírito Santo a partir das 6h.",
+      "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/assista-bdes.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Gastos de candidatos ao governo de Roraima na campanha passam de 2,6 milhões com publicidade, combustíveis, advogados e carros",
+      "resumo": "Arthur Henrique (PL), Soldado Sampaio (Republicanos) e Rosi Aires (PSOL) declararam mais de R$ 2,6 milhões em gastos com campanha\nAssessorias divulgação\nOs gastos de três dos cinco candidatos ao gover",
+      "link": "https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/16/gastos-de-candidatos-ao-governo-de-roraima-na-campanha-passam-de-26-milhoes-com-publicidade-combustiveis-advogados-e-carros.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Dívida do Amazonas chega a R$ 7,5 bilhões em 2025, aponta Tesouro Nacional",
+      "resumo": "Sede do Governo do Amazonas\nBruno Zanardo/Secom\nA dívida consolidada líquida do Amazonas chegou a R$ 7,53 bilhões em 2025, segundo dados do Tesouro Nacional consultados pelo g1. O valor corresponde a ",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/09/16/divida-do-amazonas-chega-a-r-75-bilhoes-em-2025-aponta-tesouro-nacional.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Assista ao Jornal da Manhã",
       "resumo": "Assista ao Jornal da Manhã",
       "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Semana de Arte do Rio reúne exposições, shows e performances; veja destaques",
-      "resumo": "Prefeitura do Rio divulga programação da Semana de Arte do Rio\nA Semana de Arte do Rio reúne, entre quarta-feira (16) e domingo (20), uma programação com mais de 400 exposições, performances, cinema, ",
-      "link": "https://g1.globo.com/guia/guia-rj/noticia/2026/09/16/semana-de-arte-do-rio-reune-exposicoes-shows-e-performances-veja-destaques.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "'Consequências imprevisíveis' para eleição: como imprensa internacional noticiou sessão tumultuada do STF",
-      "resumo": "Sessão extraordinária do STF que decidiria o destino de Alexandre de Moraes (direita) foi destaque na imprensa internacional.\nReuters via BBC\nA sessão extraordinária do Supremo Tribunal Federal (STF) ",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/16/consequencias-imprevisiveis-para-eleicao-como-imprensa-internacional-noticiou-sessao-tumultuada-do-stf.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Veja o que é #FATO ou #FAKE nas entrevistas com candidatos ao governo de São Paulo no SP1",
-      "resumo": "Fernando Haddad (esq.) e Tarcísio de Freitas (dir.) durante sabatina no SP1\nReprodução\nOs candidatos ao governo de São Paulo Fernando Haddad (PT) e Tarcísio de Freitas (Republicanos) foram entrevistad",
-      "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/16/veja-o-que-e-fato-ou-fake-nas-entrevistas-com-candidatos-ao-governo-de-sao-paulo-no-sp1.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Mulher celebra recomeço ao lado dos filhos após 3 meses sob controle de golpista do Tinder em MS: ‘Vou seguir minha vida’",
-      "resumo": "Mulher perde R$ 30 mil e relata violências após viver 3 meses com golpista\n“Viver, viver.” É assim que uma mulher de 39 anos resume os planos para o futuro depois de passar três meses, segundo ela, so",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/16/mulher-celebra-recomeco-ao-lado-dos-filhos-apos-3-meses-sob-controle-de-golpista-do-tinder-em-ms-vou-seguir-minha-vida.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Com perdas de até R$ 200 mil, mais de 200 dentistas denunciam empresário e cobram devolução de dinheiro na Justiça",
-      "resumo": "A suspensão do concurso se aplica exclusivamente para dentista e auxiliar de dentista. \nPixabay/Reprodução\nDentistas e cirurgiões-dentistas de diferentes partes do Brasil, incluindo profissionais da B",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/16/com-perdas-de-ate-r-200-mil-mais-de-200-dentistas-denunciam-empresario-e-cobram-devolucao-de-dinheiro-na-justica.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Após sobreviver a acidente, motorista usa caminhão para anunciar sexo do bebê em chá revelação; VÍDEO",
-      "resumo": "Motorista usa caminhão para revelar sexo do bebê após sobreviver a acidente\ni1\nO casal Gabriela Santana e Igor Coutinho descobriu que está à espera de uma menina, que vai receber o nome de Ayla. A rev",
-      "link": "https://g1.globo.com/to/tocantins/noticia/2026/09/16/apos-sobreviver-a-acidente-motorista-usa-caminhao-para-anunciar-sexo-do-bebe-em-cha-revelacao-video.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Menina de 3 anos é encontrada sozinha na chuva em avenida no litoral de SP",
-      "resumo": "Criança foi atendida no Hospital e Maternidade Municipal Dr. Adoniran Corrêa Campos e caso foi registrado na Delegacia de Defesa da Mulher de Mongaguá (SP).\nPrefeitura de Mongaguá e Fernando Skillo/G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/16/menina-de-3-anos-e-encontrada-sozinha-na-chuva-em-avenida-no-litoral-de-sp.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Jovem usa barco para resgatar animais durante enchente no Vale do Ribeira: 'Fazer a minha parte'; VÍDEO",
-      "resumo": "Jovem usa barco para resgatar animais durante enchentes no Vale do Ribeira\nUm jovem de 21 anos está usando um barco emprestado para resgatar animais que ficaram ilhados durante as enchentes provocadas",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/16/jovem-usa-barco-para-resgatar-animais-durante-enchente-no-vale-do-ribeira-fazer-a-minha-parte-video.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Hemopi mobiliza rede nacional para localizar sangue para paciente com combinação rara de anticorpos",
-      "resumo": "Exames identificaram os anticorpos anti-Rh18 e anti-Rh19, considerados extremamente raros\nReprodução\nO Centro de Hematologia e Hemoterapia do Piauí (Hemopi) realiza uma mobilização nacional para local",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/09/16/paciente-combinacao-rara.ghtml",
       "fonte": "G1"
     },
     {
