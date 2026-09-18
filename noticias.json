@@ -1,6 +1,27 @@
 {
-  "atualizadoEm": "2026-09-18T08:09:28.876601",
+  "atualizadoEm": "2026-09-18T08:40:01.670263",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Justiça condena empresa em R$ 150 mil por trabalho clandestino em porões de navios no Porto de Santos",
+      "resumo": "Justiça condena empresa que atua no Porto de Santos (SP). IMAGEM ILUSTRATIVA\nDivulgação/APS\nA Justiça do Trabalho condenou uma empresa e seu responsável a pagar R$ 150 mil por dano moral coletivo após",
+      "link": "https://g1.globo.com/sp/santos-regiao/porto-mar/noticia/2026/09/18/justica-condena-empresa-em-r-150-mil-por-trabalho-clandestino-em-poroes-de-navios-no-porto-de-santos.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Homem é preso após perseguir e tentar roubar mulher a caminho do trabalho no litoral de SP; VÍDEO",
+      "resumo": "Homem é preso após seguir e tentar roubar mulher a caminho do trabalho no litoral de SP\nUm homem de 38 anos foi preso em flagrante após perseguir e tentar roubar uma mulher que estava a caminho do tra",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/18/homem-e-preso-apos-perseguir-e-tentar-roubar-mulher-a-caminho-do-trabalho-no-litoral-de-sp-video.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Ex-candidato a vereador é preso suspeito de estuprar menina de 10 anos encontrada morta",
+      "resumo": "Israel dos Santos foi preso suspeito de estupro de vulnerável em Peruíbe, SP\nTSE e Polícia Civil\nUm homem de 64 anos foi preso suspeito de estupro de vulnerável contra uma menina de 10 anos que foi en",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/18/ex-candidato-a-vereador-e-preso-suspeito-de-estuprar-menina-de-10-anos-encontrada-morta.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Homem que matou colega em discussão por pedaço de carne tem prisão preventiva decretada para garantia da ordem pública",
@@ -24,8 +45,8 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Ataque a tiros deixa um morto e quatro feridos em escola nas Filipinas",
-      "resumo": "Pelo menos uma pessoa morreu e outras quatro ficaram feridas em um tiroteio em uma escola de ensino médio no sul das Filipinas na sexta-feira (18), disse o governador da província.\nO incidente ocorre ",
+      "titulo": "Ataque a tiros deixa três mortos e oito feridos em escola nas Filipinas",
+      "resumo": "Três pessoas morreram em um tiroteio em uma escola no sul das Filipinas na sexta-feira (18), incluindo o suspeito de 16 anos, e outras oito ficaram feridas, disse o prefeito da cidade.\nQuatro dos oito",
       "link": "https://g1.globo.com/mundo/noticia/2026/09/18/ataque-a-tiros-em-escola-nas-filipinas.ghtml",
       "fonte": "G1"
     },
@@ -52,24 +73,10 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Emprego: veja as 168 vagas disponíveis em Petrolina e Araripina",
-      "resumo": "Consultora de gente e gestão fala sobre como lidar com erros no mercado de trabalho\nA Agência de Trabalho de Pernambuco divulgou as vagas de emprego disponibilizadas para os municípios de Petrolina e ",
-      "link": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/09/18/emprego-veja-as-168-vagas-disponiveis-em-petrolina-e-araripina.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Cachorrinha presa em fenda por 5 dias é resgatada no Interior do RS",
-      "resumo": "Cachorrinha presa em fenda por 5 dias é resgatada no Interior do RS\nUma operação de resgate que mobilizou ONGs da causa animal e a prefeitura de Camaquã resultou no resgate da cadela Josi, que estava ",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/18/cachorrinha-presa-em-fenda-por-5-dias-e-resgatada-no-interior-do-rs.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Bazar beneficente arrecada dinheiro para projeto de reurbanização de comunidade em Curitiba",
-      "resumo": "Bazar Obra Nossa\nFoto: Divulgação\nUm bazar realizado pelo projeto Obra Nossa reúne mais de 500 peças de moda e design e acontece nos dias 18, 19 e 20 de setembro, no Shopping Novo Batel, em Curitiba. ",
-      "link": "https://g1.globo.com/pr/parana/economia/noticia/2026/09/18/bazar-beneficente-arrecada-dinheiro-para-projeto-de-reurbanizacao-de-comunidade-em-curitiba.ghtml",
-      "fonte": "G1"
+      "titulo": "Lula está usando reajuste do Bolsa Família como arma eleitoral?",
+      "resumo": "Segundo governo, aumento de 15% é apenas reajuste da inflação após anos de congelamento dos benefícios; para cientista político, medida é iniciativa econômica lançada de olho no possível impacto eleit",
+      "link": "https://www.bbc.com/portuguese/articles/ck4gle0xwlg3o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
     },
     {
       "categoria": "Geral",
@@ -90,13 +97,6 @@
       "titulo": "A guerra entre Gilmar Mendes e André Mendonça sobre a quebra de sigilo de documentos ligados ao Banco Master",
       "resumo": "Gilmar comparou cenário a vazamentos da Lava Jato, e Mendonça disse que 'jamais ameaçou quem quer que seja de execração pública'.",
       "link": "https://www.bbc.com/portuguese/articles/cwkgxl7703kyo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Lula x Flávio Bolsonaro: os 5 grupos de eleitores que podem definir a eleição, segundo pesquisas",
-      "resumo": "A quase duas semanas do primeiro turno da eleição presidencial, as pesquisas de intenção de voto ainda não apontam um favorito claro. A reportagem consultou cientistas políticos e mergulhou nos detalh",
-      "link": "https://www.bbc.com/portuguese/articles/cm2mxy1pz4zo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
