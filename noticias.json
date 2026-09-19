@@ -1,6 +1,34 @@
 {
-  "atualizadoEm": "2026-09-19T16:08:28.485221",
+  "atualizadoEm": "2026-09-19T16:38:09.168081",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "EPTV 1 Campinas ao vivo",
+      "resumo": "EPTV 1 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
+      "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-1-ao-vivo.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "EPTV 1 Piracicaba ao vivo",
+      "resumo": "EPTV 1 Piracicaba ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
+      "link": "https://g1.globo.com/sp/piracicaba-regiao/ao-vivo/eptv-1-piracicaba-ao-vivo.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Morte de mulher encontrada no Rio Cuiabá é investigada para saber se houve violência",
+      "resumo": "Cleonice dos Santos, de 53 anos, estava desaparecida e foi encontrada morta no Rio Cuiabá\nPolícia Civil\nO corpo de Cleonice dos Santos, de 53 anos, foi encontrado nessa sexta-feira (18) às margens do ",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/19/morte-de-mulher-encontrada-no-rio-cuiaba-e-investigada-para-saber-se-houve-violencia.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Assista ao Link Vanguarda ao vivo no g1",
+      "resumo": "Assista ao Link Vanguarda ao vivo no g1 Assista diariamente aos telejornais da emissora no g1. De segunda a sexta-feira, assista ao Bom Dia Vanguarda, Link Vanguarda e Jornal Vanguarda. Aos sábados, a",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/ao-vivo/assista-ao-link-vanguarda-ao-vivo-no-g1.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Assista ao EPTV1",
@@ -10,65 +38,37 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Candidato ao Governo pelo Amazonas, Cabo Daciolo promete asfaltar BR-319 e triplicar efetivo da segurança",
-      "resumo": "O candidato ao governo do Amazonas Cabo Daciolo (Mobiliza) propôs a pavimentação da BR-319, a construção de uma ponte de acesso à rodovia e medidas nas áreas de segurança pública, saúde, educação e va",
-      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/19/candidato-ao-governo-pelo-amazonas-cabo-daciolo-promete-asfaltar-br-319-e-triplicar-efetivo-da-seguranca.ghtml",
+      "titulo": "Briga de trânsito na Anhanguera termina com guarda municipal ferido e motorista baleado em Jundiaí",
+      "resumo": "Homem foi levado para o Hospital São Vicente de Paulo de Jundiaí (SP)\nPrefeitura de Jundiaí/Reprodução\nUma briga de trânsito seguida por batida e tiros deixou um motorista de 40 anos internado em esta",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/19/briga-de-transito-na-anhanguera-termina-com-guarda-municipal-ferido-e-motorista-baleado-em-jundiai.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "MG1 entrevista Mateus Simões, candidato ao governo de Minas Gerais; ASSISTA",
-      "resumo": "MG1 entrevista Mateus Simões, candidato ao governo de Minas Gerais; ASSISTA Candidato do PSD será o último sabatinado no telejornal em série de entrevistas.",
-      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/ao-vivo/entrevista-mg1-mateus-simoes.ghtml",
+      "titulo": "A mãe que viralizou ao correr descalça (e vencer) uma corrida para poder comprar o material escolar da filha",
+      "resumo": "Ramabai Ranveer venceu a corrida aos 47 anos\nKIRAN SAKLE/BBC\nApesar de sua falta de experiência, e até mesmo de tênis para correr, Ramabai Ranveer venceu sua primeira corrida em agosto, correndo desca",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/19/a-mae-que-viralizou-ao-correr-descalca-e-vencer-uma-corrida-para-poder-comprar-o-material-escolar-da-filha.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "Mateus Simões promete passe livre a estudantes, aumento de delegacias e mais unidades de saúde regionais",
-      "resumo": "Mateus Simões fala sobre período chuvoso em entrevista ao MG1\nO candidato do PSD ao governo de Minas Gerais, Mateus Simões, afirmou, em entrevista ao MG1 deste sábado (19), que pretende dar passe livr",
-      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/19/mateus-simoes-entrevista-mg1.ghtml",
+      "titulo": "VÍDEOS: JA 1ª Edição - TO de sábado, 19 de setembro de 2026",
+      "resumo": "Assista aos vídeos do telejornal com as notícias da região.",
+      "link": "https://g1.globo.com/to/tocantins/edicao/2026/09/19/videos-ja-1-edicao-to-de-sabado-19-de-setembro-de-2026.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "Jajangmyeon: aprenda a receita no Chef JPB",
-      "resumo": "Jajangmyeon do Chef JPB\nReprodução TV Cabo Branco.\nO Chef JPB deste sábado (19) ensina o passo a passo de um prato sul-coreano: jajangmyeon. \n🔎Jajangmyeon é um prato de macarrão sino-coreano coberto c",
-      "link": "https://g1.globo.com/pb/paraiba/chef-jpb/noticia/2026/09/19/jajangmyeon-aprenda-a-receita-no-chef-jpb.ghtml",
+      "titulo": "VÍDEO: carro estacionado 'invade' bar após ser atingido por veículo em avenida de Piracicaba",
+      "resumo": "Carro invade bar na Vila Rezende, em Piracicaba, após batida entre veículos\nCâmeras de segurança flagraram o momento em que um carro estacionado foi \"lançado\" para dentro de um bar após ser atingido p",
+      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/19/video-carro-estacionado-invade-bar-apos-ser-atingido-por-veiculo-em-avenida-de-piracicaba.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "Vídeos do g1 e TV Bahia - sábado, 19 de setembro de 2026",
-      "resumo": "Assista aos vídeos do g1 e TV Bahia deste sábado.",
-      "link": "https://g1.globo.com/ba/bahia/edicao/2026/09/19/videos-do-g1-e-tv-bahia-sabado-19-de-setembro-de-2026.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Dia Mundial da Limpeza: Boneca, ventilador e restos de caixa de som estão entre os 480 quilos lixo recolhidos na Praia do Flamengo",
-      "resumo": "Agora no g1\nA Praia do Flamengo, na Zona Sul do Rio, foi palco neste sábado (19) de um grande mutirão de limpeza em comemoração ao Dia Mundial da Limpeza, celebrado neste domingo (20). \nCerca de 400 v",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/19/dia-mundial-da-limpeza-praia-do-flamengo.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Renan Santos defende 'militarizar o Brasil' contra o crime organizado e chama disputa presidencial de 'eleição da desistência'",
-      "resumo": "No RS, Renan Santos critica Centrão e direita por ligação com Vorcaro\nCandidato à presidência pelo partido Missão, Renan Santos segue com sua caravana pelo Sul do país, em um roteiro que iniciou no Ri",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/19/candidato-presidencia-renan-santos-campanha-rs.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "VÍDEOS: NE1 de sábado, 19 de setembro de 2026",
-      "resumo": "Assista aos vídeos do telejornal com as notícias de Pernambuco.",
-      "link": "https://g1.globo.com/pe/pernambuco/videos-ne1/playlist/videos-ne1-de-sabado-19-de-setembro-de-2026.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Maria Bona defende gestão tripartite das instituições de ensino na Bahia",
-      "resumo": "Maria Bona defende gestão tripartite das instituições de ensino na Bahia\nA candidata ao governo da Bahia pelo Partido da Causa Operária (PCO), Maria Bona, foi entrevistada na tarde deste sábado (19), ",
-      "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/19/entrevista-com-maria-bona-pco.ghtml",
+      "titulo": "Dia do Comerciário: veja o que abre e o que fecha em Campina Grande",
+      "resumo": "Comércio na Rua Maciel Pinheiro, em Campina Grande\nJunot Lacet Filho/Jornal da Paraíba\nNa segunda-feira, 21 de setembro, é comemorado o Dia do Comerciário na Paraíba. Por ser uma data comemorativa par",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/09/19/dia-do-comerciario-veja-o-que-abre-e-o-que-fecha-em-campina-grande.ghtml",
       "fonte": "G1"
     },
     {
@@ -76,6 +76,13 @@
       "titulo": "De 'guardião' da Constituição de 1988 ao centro da política: como o STF ficou tão poderoso",
       "resumo": "A Constituição deu novos poderes à Suprema Corte brasileira, mas foi o perfil dos indicados que consolidou o perfil de uma Corte cada vez mais envolvida no debate público brasileiro, avalia jurista",
       "link": "https://www.bbc.com/portuguese/articles/cgl7ndlzgwko?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "A mãe que viralizou ao correr descalça (e vencer) uma corrida para poder comprar o material escolar da filha",
+      "resumo": "A façanha dessa mulher de 47 anos contribuiu para intensificar as críticas à situação econômica e educacional do país.",
+      "link": "https://www.bbc.com/portuguese/articles/c674e71k09yjo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
@@ -125,13 +132,6 @@
       "titulo": "Lula está usando reajuste do Bolsa Família como arma eleitoral?",
       "resumo": "Segundo governo, aumento de 15% é apenas reajuste da inflação após anos de congelamento dos benefícios; para cientista político, medida é iniciativa econômica lançada de olho no possível impacto eleit",
       "link": "https://www.bbc.com/portuguese/articles/ck4gle0xwlg3o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Por que SP já tem setembro mais chuvoso em mais de 80 anos — e chuva deve voltar neste fim de semana",
-      "resumo": "Especialistas explicam como uma combinação de frentes frias, umidade e o El Niño em curso levou a cidade a superar o recorde de 1983 — e apontam que o risco de deslizamentos e alagamentos continua alt",
-      "link": "https://www.bbc.com/portuguese/articles/c6n9wzr8wen2o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
