@@ -1,6 +1,34 @@
 {
-  "atualizadoEm": "2026-09-19T04:38:21.870604",
+  "atualizadoEm": "2026-09-19T05:07:58.322481",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Como pai e filho transformaram um pequeno estoque em um e-commerce de R$ 220 mil",
+      "resumo": "Como uma família construiu um negócio de R$ 220 mil por mês vendendo online\nDurante mais de três décadas, Sérgio Cruz viveu atrás do volante de um caminhão. A profissão ajudou a criar os filhos e sust",
+      "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/09/19/como-pai-e-filho-transformaram-um-pequeno-estoque-em-um-e-commerce-de-r-220-mil.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Saúde e educação: veja o que os candidatos ao governo do DF disseram nas entrevistas ao DF1",
+      "resumo": "Candidatos ao GDF participam de entrevistas no DF1\nTV Globo/Reprodução\nNesta semana, a TV Globo entrevistou os quatro candidatos ao Governo do Distrito Federal mais bem colocados na pesquisa de intenç",
+      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/19/saude-e-educacao-veja-o-que-os-candidatos-ao-governo-do-df-disseram-nas-entrevistas-ao-df1.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "O que se sabe e o que ainda falta saber sobre caso de vereador que caiu no Rio Piracicaba ao gravar vídeo",
+      "resumo": "Vereador Fabrício Polezi cai de ponte no Rio Piracicaba, se afoga e é internado\nO vereador Fabrício Polezi (PL), de Piracicaba (SP), segue internado na Unidade de Terapia Intensiva (UTI) da Santa Casa",
+      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/19/o-que-se-sabe-e-o-que-ainda-falta-saber-sobre-caso-de-vereador-que-caiu-no-rio-piracicaba-ao-gravar-video.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Zezé Di Camargo e Luciano interrompem show para atendimento de pessoa que passou mal na plateia",
+      "resumo": "Zezé e Luciano interrompem show para atendimento de pessoa que passou mal na plateia\nZezé Di Camargo e Luciano interromperam o show que abriu a edição 2026 do Jaguariúna Rodeo Festival, na noite desta",
+      "link": "https://g1.globo.com/sp/campinas-regiao/rodeio-de-jaguariuna/noticia/2026/09/19/zeze-di-camargo-e-luciano-interrompem-show-para-atendimento-de-pessoa-que-passou-mal-na-plateia.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; não chove",
@@ -41,34 +69,6 @@
       "titulo": "Previsão do tempo hoje para Guarulhos (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
       "resumo": "Previsão do tempo hoje em Guarulhos\ng1\nA previsão do tempo para este sábado (19) para Guarulhos (SP) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máx",
       "link": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/19/previsao-do-tempo-hoje-para-guarulhos-sp-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para São Gonçalo (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
-      "resumo": "Previsão do tempo hoje em São Gonçalo\ng1\nA previsão do tempo para este sábado (19) para São Gonçalo (RJ) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com poucas nuvens. As",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/19/previsao-do-tempo-hoje-para-sao-goncalo-rj-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-poucas-nuvens.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "resumo": "Previsão do tempo hoje em Rio de Janeiro\ng1\nA previsão do tempo para este sábado (19) para o Rio de Janeiro (RJ) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nu",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/19/previsao-do-tempo-hoje-para-o-rio-de-janeiro-rj-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
-      "resumo": "Previsão do tempo hoje em Nova Iguaçu\ng1\nA previsão do tempo para este sábado (19) para Nova Iguaçu (RJ) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com poucas nuvens. As",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/19/previsao-do-tempo-hoje-para-nova-iguacu-rj-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-poucas-nuvens.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Previsão do tempo hoje para Niterói (RJ): sol, com pancadas de chuva de manhã e muitas nuvens à tarde; à noite, tempo firme",
-      "resumo": "Previsão do tempo hoje em Niterói\ng1\nA previsão do tempo para este sábado (19) para Niterói (RJ) é de sol, com pancadas de chuva de manhã e muitas nuvens à tarde. À noite, tempo firme. As máximas são ",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/09/19/previsao-do-tempo-hoje-para-niteroi-rj-sol-com-pancadas-de-chuva-de-manha-e-muitas-nuvens-a-tarde-a-noite-tempo-firme.ghtml",
       "fonte": "G1"
     },
     {
