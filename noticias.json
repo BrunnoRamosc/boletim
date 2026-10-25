@@ -1,81 +1,88 @@
 {
-  "atualizadoEm": "2026-10-25T18:05:58.451892",
+  "atualizadoEm": "2026-10-25T21:03:27.234679",
   "itens": [
     {
       "categoria": "Geral",
-      "titulo": "Votação têm tecla de urna colada, prisão e eleitor flagrado filmando o voto",
-      "resumo": "Votação têm tecla de urna colada, prisão e eleitor flagrado filmando o voto Em Mato Grosso do Sul, eleitores vão às urnas para escolher o presidente da República.",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/ao-vivo/ao-vivo-cobertura-apuracao-votacao-segundo-turno-mato-grosso-do-sul.ghtml",
+      "titulo": "Presidente de seção eleitoral falta ao trabalho e é encontrado morto em casa, em MG",
+      "resumo": "Prefeitura de São José de Safira\nDivulgação\nO presidente de uma seção eleitoral foi encontrado morto dentro de casa após não comparecer para trabalhar no segundo turno das Eleições 2026, neste domingo",
+      "link": "https://g1.globo.com/mg/vales-mg/eleicoes/2026/noticia/2026/10/25/presidente-de-secao-eleitoral-falta-ao-trabalho-e-e-encontrado-morto-em-casa-em-mg.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "Polícia Civil investiga três jovens por apologia ao nazismo no Maranhão",
-      "resumo": "Polícia Civil investiga três jovens por apologia ao nazismo no Maranhão\nA Polícia Civil do Maranhão (PC-MA) investiga três jovens suspeitos de fazer apologia ao nazismo em publicações nas redes sociai",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/10/25/policia-civil-investiga-tres-jovens-por-apologia-ao-nazismo-no-maranhao.ghtml",
+      "titulo": "Apuração dos votos: urnas fechadas não podem ser reabertas",
+      "resumo": "Zanin, ministro do STF, prorroga votação em todo país até às 19h\nApós decisão do ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), de prorrogar a votação até as 19h, as urnas que já haviam ",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/apuracao-dos-votos-urnas-fechadas-nao-podem-ser-reabertas.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "Prefeitura de Salvador diz que secretário está em missão oficial na França e se apresentará às autoridades nesta segunda-feira (26)",
-      "resumo": "TRE determina prisão de Secretário de Mobilidade de Salvador após ônibus serem impedidos de sair de garagens\nReprodução/Redes Sociais\nA Prefeitura de Salvador informou, neste domingo (25), que o secre",
-      "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/25/prefeitura-de-salvador-diz-que-secretario-esta-em-missao-oficial-na-franca-e-se-apresentara-as-autoridades-nesta-segunda-feira-26.ghtml",
+      "titulo": "Segundo turno das Eleições 2026 em Santa Catarina: votação, apuração e resultados",
+      "resumo": "Segundo turno das Eleições 2026 em Santa Catarina: votação, apuração e resultados Mais de 5,7 milhões de catarinenses estavam aptos a voltar às urnas neste domingo (25) para votar para Presidente da R",
+      "link": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/ao-vivo/segundo-turno-das-eleicoes-2026-santa-catarina-votacao-apuracao-resultados.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "Eleitores indígenas do Vale do Javari reclamam de falta de assistência durante votação, no AM",
-      "resumo": "Eleitores indígenas do Vale do Javari reclamam de falta de assistência durante votação, no AM O g1 acompanha os principais acontecimentos da eleição neste domingo (25), que define o presidente da Repú",
+      "titulo": "EM TEMPO REAL: acompanhe a votação e a apuração dos votos no 2º turno no Espírito Santo",
+      "resumo": "EM TEMPO REAL: acompanhe a votação e a apuração dos votos no 2º turno no Espírito Santo g1 acompanhou o domingo de eleição nos 78 municípios e os votos dos dois candidatos ao governo do estado.",
+      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-espirito-santo.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Apesar de decisão do STF prorrogar horário de votação, locais são fechados no Piauí",
+      "resumo": "Locais de votação fechados em Teresina após decisão do TSE que prorroga horário de votação\nReprodução/ g1\nLocais de votação no Piauí foram fechados mesmo após o ministro Cristiano Zanin, do Supremo Tr",
+      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/10/25/locais-de-votacao.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "TSE prorroga horário da votação; acompanhe a cobertura das eleições 2026 no Amazonas",
+      "resumo": "TSE prorroga horário da votação; acompanhe a cobertura das eleições 2026 no Amazonas O g1 acompanha os principais acontecimentos da eleição neste domingo (25), que define o presidente da República e o",
       "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-amazonas.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "RJ tem 132 urnas substituídas no 2º turno, segundo balanço do TRE-RJ",
-      "resumo": "Urna Eletrônica\nTSE\nO estado do Rio de Janeiro registrou, neste domingo (25), a substituição de 132 urnas eletrônicas por problemas de funcionamento. A informação foi divulgada por volta das 14h30, pe",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/25/rj-tem-urnas-substituidas-no-2o-turno-segundo-balanco-do-tre-rj.ghtml",
+      "titulo": "Apesar de decisão de Zanin, escolas na região de Ribeirão Preto e Franca encerram votação no horário regular",
+      "resumo": "Urnas fechadas para transporte após fim da votação na E.E. Coronel Francisco Martins, em Franca, SP\nIgor do Vale/g1\nApesar da decisão do ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), qu",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/eleicoes/2026/noticia/2026/10/25/apesar-de-decisao-de-zanin-escolas-na-regiao-de-ribeirao-preto-e-franca-encerram-votacao-no-horario-regular.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "Eleições 2026: goteiras atrapalham eleitores, chuva molha urna e motiva troca de equipamento no interior de SP",
-      "resumo": "Goteiras e áreas interditadas em escola incomodam eleitores em Piracicaba\nA região de Piracicaba (SP) soma 958.295 eleitores aptos a votar no segundo turno das eleições de 2026, neste omingo (25).  Na",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-goteiras-atrapalham-eleitores-chuva-molha-urna-e-motiva-troca-de-equipamento-no-interior-de-sp.ghtml",
+      "titulo": "Eleições 2026: Ministro prorrogra horário de votação no país; TRE-RR não responde se vai acatar a decisão",
+      "resumo": "Eleições 2026: Ministro prorrogra horário de votação no país; TRE-RR não responde se vai acatar a decisão Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT) disputam o segundo turno neste domingo ",
+      "link": "https://g1.globo.com/rr/roraima/eleicoes/2026/ao-vivo/eleicoes-2026-acompanhe-a-cobertura-do-2-turno-em-roraima.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "Urnas eletrônicas são substituídas após falhas em cidades da região de Ribeirão Preto e Franca, SP, no 2º turno",
-      "resumo": "Locais de votação enfrentam problemas por conta da chuva em Ribeirão Preto, SP\nUrnas eletrônicas precisaram ser substituídas em seções eleitorais de ao menos seis cidades da região de Ribeirão Preto e",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/eleicoes/2026/noticia/2026/10/25/urnas-eletronicas-sao-substituidas-apos-falhas-em-cidades-da-regiao-de-ribeirao-preto-e-franca-sp-no-2o-turno.ghtml",
+      "titulo": "AO VIVO: Votação no RN é tranquila",
+      "resumo": "AO VIVO: Votação no RN é tranquila Acompanhe aqui toda a cobertura ao vivo do segundo turno das eleições no RN no dia 25 de outubro.",
+      "link": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/ao-vivo/segundo-turno-das-eleicoes-2026-no-rio-grande-do-norte.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "'Tenho prazer de votar enquanto estiver viva', diz eleitora de 90 anos no Amazonas",
-      "resumo": "'Tenho prazer de votar enquanto estiver viva', diz eleitora de 90 anos no AM\ng1 AM\nAos 90 anos, Maria Célia Pereira foi votar acompanhada da neta, Gabriela Mathias, de 20 anos, durante o segundo turno",
-      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/25/tenho-prazer-de-votar-enquanto-estiver-viva-diz-eleitora-de-90-anos-no-amazonas.ghtml",
+      "titulo": "Mesmo com prorrogação do prazo de votação, mídias de urnas chegam a sede da Justiça Eleitoral em Sorocaba",
+      "resumo": "Mídia chegou à sede da Justiça Eleitoral em Sorocaba (SP)\nThales Rodrigues/TV TEM\nMesmo com a prorrogação do período de votação até as 19h deste domingo (25), mídias com dados da votação começaram a c",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/eleicoes/2026/noticia/2026/10/25/votacao-prorrogada-em-sorocaba.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "Eleições 2026: PM registra sete ocorrências e cinco pessoas são detidas em SP",
-      "resumo": "Viaturas da Polícia Militar de São Paulo - PM de SP\nDivulgação/SSP\nA Polícia Militar registrou sete ocorrências e cinco pessoas detidas até o meio-dia deste domingo (25), durante o segundo turno das e",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/25/eleicoes-2026-pm-registra-sete-ocorrencias-e-cinco-pessoas-sao-detidas-em-sp.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Eleições 2026: entenda quem precisa assinar o caderno de votação",
-      "resumo": "Ministro Kássio Nunes Marques, presidente do TSE, vota em Brasília\nNas Eleições 2026, a necessidade de assinar o caderno de votação na seção eleitoral depende da identificação biométrica do eleitor. S",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-entenda-quem-precisa-assinar-o-caderno-de-votacao.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Eleições 2026: Mais de 2,5 milhões de ausentes, denúncias no transporte e os primeiros resultado no exterior; siga",
-      "resumo": "Urnas ficam abertas das 8h às 17h deste domingo (25/10); acompanhe a cobertura completa sobre a disputa entre Lula e Flávio Bolsonaro. BBC News Brasil terá transmissão ao vivo a partir das 16h30 com a",
+      "titulo": "Eleições 2026 ao vivo: Mesários relatam confusão em zonas eleitorais após prorrogação da votação; siga",
+      "resumo": "Após pedido da campanha de Lula, ministro Cristiano Zanin determina que urnas devem ficar abertas até as 19h; acompanhe a cobertura completa sobre a disputa entre Lula e Flávio Bolsonaro. BBC News Bra",
       "link": "https://www.bbc.co.uk/portuguese/live/c6vg0rrxzx13t?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Mapa das Eleições 2026: veja o resultado para presidente e governador no 2º turno",
+      "resumo": "Neste interativo, você pode consultar os resultados da eleição para presidente e governador por Estado e município.",
+      "link": "https://www.bbc.com/portuguese/articles/c61m430mdek2o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
@@ -83,6 +90,34 @@
       "titulo": "Voto no exterior: veja os resultados por país e a apuração de Lula x Flávio no 2º turno das eleições 2026",
       "resumo": "Flávio Bolsonaro venceu Lula no Japão, nos Emirados Árabes Unidos e em Hong Kong, entre outros. Já o petista saiu na frente em países como China, Austrália e Nova Zelândia.",
       "link": "https://www.bbc.com/portuguese/articles/cw5yn34exenno?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Votos do Nordeste demoram mais para chegar ao TSE? Tudo para acompanhar a apuração",
+      "resumo": "Infraestrutura desigual das regiões faz com que dados do eleitorado do Sul e do Sudeste sejam contabilizados primeiro no TSE; próximo presidente deve ser conhecido, no domingo, até 20h30.",
+      "link": "https://www.bbc.com/portuguese/articles/cmvg9v4v8kwgo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "O que se sabe sobre as denúncias sobre falta de ônibus pelo Brasil?",
+      "resumo": "O presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT) pediu ao Tribunal Superior Eleitoral (TSE) a prorrogação do horário de votação nas cidades que registraram irregularidades.",
+      "link": "https://www.bbc.com/portuguese/articles/cm93z1wyl706o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Clique aqui",
+      "resumo": "Acompanhe a apuração para presidente e governador em seu Estado e município com o mapa interativo da BBC News Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c61m430mdek2o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "BBC News Brasil faz transmissão AO VIVO para você acompanhar apuração e resultados do 2º turno",
+      "resumo": "No domingo, dia da eleição, a cobertura em tempo real — na página da BBC News Brasil — acompanha a abertura das urnas, o clima da votação e os principais acontecimentos do dia.",
+      "link": "https://www.bbc.com/portuguese/articles/cwrkyjpv5p7no?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
@@ -104,41 +139,6 @@
       "titulo": "Flávio Bolsonaro: o herdeiro de Jair tenta levar o clã de volta ao Planalto",
       "resumo": "Senador estreia na disputa presidencial e tenta impor derrota a Lula quatro anos depois de seu pai não ter sido reeleito.",
       "link": "https://www.bbc.com/portuguese/articles/cq7838ydk87jo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Clique aqui",
-      "resumo": "Veja a intenção de voto no 2º turno no Agregador de Pesquisas da BBC News Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "BBC News Brasil faz transmissão AO VIVO para você acompanhar apuração e resultados do 2º turno",
-      "resumo": "No domingo, dia da eleição, a cobertura em tempo real — na página da BBC News Brasil — acompanha a abertura das urnas, o clima da votação e os principais acontecimentos do dia.",
-      "link": "https://www.bbc.com/portuguese/articles/cwrkyjpv5p7no?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Votos do Nordeste demoram mais para chegar ao TSE? Tudo para acompanhar a apuração",
-      "resumo": "Infraestrutura desigual das regiões faz com que dados do eleitorado do Sul e do Sudeste sejam contabilizados primeiro no TSE; próximo presidente deve ser conhecido, no domingo, até 20h30.",
-      "link": "https://www.bbc.com/portuguese/articles/cmvg9v4v8kwgo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Como a vitória da direita radical na Colômbia provocou mudanças na campanha de Lula no 2º turno",
-      "resumo": "Reação ao resltado do primeiro turno foi semelhante ao que ocorreu na Colômbia, onde o direitista Abelardo de la Espriella conquistou a Presidência por uma estreita margem.",
-      "link": "https://www.bbc.com/portuguese/articles/c617kxp8l79jo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Mapa das Eleições 2026: veja o resultado para presidente e governador no 2º turno",
-      "resumo": "Neste interativo, você pode consultar os resultados da eleição para presidente e governador por Estado e município.",
-      "link": "https://www.bbc.com/portuguese/articles/c61m430mdek2o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
