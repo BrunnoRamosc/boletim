@@ -1,88 +1,116 @@
 {
-  "atualizadoEm": "2026-10-26T01:28:33.051905",
+  "atualizadoEm": "2026-10-26T06:49:42.420792",
   "itens": [
     {
       "categoria": "Geral",
-      "titulo": "63ª zona eleitoral de Nazário (GO): votos por local de votação no 2º turno",
-      "resumo": "A 63ª zona eleitoral de Nazário (GO) tem 5 locais de votação. O g1 publicou reportagens com a votação para presidente em cada um deles, no 2º turno das Eleições 2026, com os números de cada seção elei",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/25/63a-zona-eleitoral-de-nazario-go-votos-por-local-de-votacao-no-2o-turno.ghtml",
+      "titulo": "EMEIF São Lázaro, 18ª zona eleitoral: resultado da votação em Altamira (PA) no 2º turno",
+      "resumo": "Flávio Bolsonaro (PL) foi o candidato a presidente mais votado em Altamira (PA), com 42.165 votos. Lula (PT) foi o segundo mais votado, com 23.942 votos. Os dados foram divulgados pelo Tribunal Superi",
+      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/26/emeif-sao-lazaro-18a-zona-eleitoral-resultado-da-votacao-em-altamira-pa-no-2o-turno.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "E. E. Prof. Tereza Lemos de Oliveira Santos, 42ª zona eleitoral: resultado da votação em Atalaia do Norte (AM) no 2º turno",
-      "resumo": "Lula (PT) foi o candidato a presidente mais votado em Atalaia do Norte (AM), com 5.310 votos. Flávio Bolsonaro (PL) foi o segundo mais votado, com 1.514 votos. Os dados foram divulgados pelo Tribunal ",
-      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/25/e-e-prof-tereza-lemos-de-oliveira-santos-42a-zona-eleitoral-resultado-da-votacao-em-atalaia-do-norte-am-no-2o-turno.ghtml",
+      "titulo": "EMEF Francisco Taboza Filho, 122ª zona eleitoral: resultado da votação em Maracanaú (CE) no 2º turno",
+      "resumo": "Lula (PT) foi o candidato a presidente mais votado em Maracanaú (CE), com 95.283 votos. Flávio Bolsonaro (PL) foi o segundo mais votado, com 60.152 votos. Os dados foram divulgados pelo Tribunal Super",
+      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/26/emef-francisco-taboza-filho-122a-zona-eleitoral-resultado-da-votacao-em-maracanau-ce-no-2o-turno.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "CEMEI Maria Margarida Rodolfo Silva, 13ª zona eleitoral: resultado da votação em Guaçuí (ES) no 2º turno",
-      "resumo": "Flávio Bolsonaro (PL) foi o candidato a presidente mais votado em Guaçuí (ES), com 9.372 votos. Lula (PT) foi o segundo mais votado, com 7.086 votos. Os dados foram divulgados pelo Tribunal Superior E",
-      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/25/cemei-maria-margarida-rodolfo-silva-13a-zona-eleitoral-resultado-da-votacao-em-guacui-es-no-2o-turno.ghtml",
+      "titulo": "Escola Cel. Jose Leoncio, 11ª zona eleitoral: resultado da votação em Quixeramobim (CE) no 2º turno",
+      "resumo": "Lula (PT) foi o candidato a presidente mais votado em Quixeramobim (CE), com 39.087 votos. Flávio Bolsonaro (PL) foi o segundo mais votado, com 10.681 votos. Os dados foram divulgados pelo Tribunal Su",
+      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/26/escola-cel-jose-leoncio-11a-zona-eleitoral-resultado-da-votacao-em-quixeramobim-ce-no-2o-turno.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "E. M. Muraid Said, 38ª zona eleitoral: resultado da votação em Tapauá (AM) no 2º turno",
-      "resumo": "Lula (PT) foi o candidato a presidente mais votado em Tapauá (AM), com 4.850 votos. Flávio Bolsonaro (PL) foi o segundo mais votado, com 4.712 votos. Os dados foram divulgados pelo Tribunal Superior E",
-      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/25/e-m-muraid-said-38a-zona-eleitoral-resultado-da-votacao-em-tapaua-am-no-2o-turno.ghtml",
+      "titulo": "EMEIF Jarbas Passarinho, 49ª zona eleitoral: resultado da votação em Mãe do Rio (PA) no 2º turno",
+      "resumo": "Lula (PT) foi o candidato a presidente mais votado em Mãe do Rio (PA), com 10.743 votos. Flávio Bolsonaro (PL) foi o segundo mais votado, com 9.428 votos. Os dados foram divulgados pelo Tribunal Super",
+      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/26/emeif-jarbas-passarinho-49a-zona-eleitoral-resultado-da-votacao-em-mae-do-rio-pa-no-2o-turno.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "Guaramiranga (CE): resultado do local de votação por zonas eleitorais no 2º turno",
-      "resumo": "Guaramiranga (CE) tem 1 zona eleitoral. O g1 publicou reportagens com a votação para presidente em cada local de votação da cidade, no 2º turno das Eleições 2026, com os números de cada seção eleitora",
-      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/25/guaramiranga-ce-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno-1.ghtml",
+      "titulo": "EEEF S. Paulo das Pedrinhas, 36ª zona eleitoral: resultado da votação em Santa Bárbara do Pará (PA) no 2º turno",
+      "resumo": "Lula (PT) foi o candidato a presidente mais votado em Santa Bárbara do Pará (PA), com 8.829 votos. Flávio Bolsonaro (PL) foi o segundo mais votado, com 5.807 votos. Os dados foram divulgados pelo Trib",
+      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/26/eeef-s-paulo-das-pedrinhas-36a-zona-eleitoral-resultado-da-votacao-em-santa-barbara-do-para-pa-no-2o-turno.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "11ª zona eleitoral de Vila Boa (GO): votos por local de votação no 2º turno",
-      "resumo": "A 11ª zona eleitoral de Vila Boa (GO) tem 3 locais de votação. O g1 publicou reportagens com a votação para presidente em cada um deles, no 2º turno das Eleições 2026, com os números de cada seção ele",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/25/11a-zona-eleitoral-de-vila-boa-go-votos-por-local-de-votacao-no-2o-turno.ghtml",
+      "titulo": "EMEF Planatina, 18ª zona eleitoral: resultado da votação em Brasil Novo (PA) no 2º turno",
+      "resumo": "Flávio Bolsonaro (PL) foi o candidato a presidente mais votado em Brasil Novo (PA), com 9.450 votos. Lula (PT) foi o segundo mais votado, com 3.897 votos. Os dados foram divulgados pelo Tribunal Super",
+      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/26/emef-planatina-18a-zona-eleitoral-resultado-da-votacao-em-brasil-novo-pa-no-2o-turno.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "E. M. Maria Pinto Pereira, 47ª zona eleitoral: resultado da votação em Santo Antônio do Içá (AM) no 2º turno",
-      "resumo": "Lula (PT) foi o candidato a presidente mais votado em Santo Antônio do Içá (AM), com 10.712 votos. Flávio Bolsonaro (PL) foi o segundo mais votado, com 3.740 votos. Os dados foram divulgados pelo Trib",
-      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/25/e-m-maria-pinto-pereira-47a-zona-eleitoral-resultado-da-votacao-em-santo-antonio-do-ica-am-no-2o-turno.ghtml",
+      "titulo": "EMEFM André Alves, 52ª zona eleitoral: resultado da votação em Augusto Corrêa (PA) no 2º turno",
+      "resumo": "Lula (PT) foi o candidato a presidente mais votado em Augusto Corrêa (PA), com 21.253 votos. Flávio Bolsonaro (PL) foi o segundo mais votado, com 7.769 votos. Os dados foram divulgados pelo Tribunal S",
+      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/26/emefm-andre-alves-52a-zona-eleitoral-resultado-da-votacao-em-augusto-correa-pa-no-2o-turno.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "34ª zona eleitoral de Sanclerlândia (GO): votos por local de votação no 2º turno",
-      "resumo": "A 34ª zona eleitoral de Sanclerlândia (GO) tem 5 locais de votação. O g1 publicou reportagens com a votação para presidente em cada um deles, no 2º turno das Eleições 2026, com os números de cada seçã",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/25/34a-zona-eleitoral-de-sanclerlandia-go-votos-por-local-de-votacao-no-2o-turno.ghtml",
+      "titulo": "EMEF Marajoara, 59ª zona eleitoral: resultado da votação em Pau Darco (PA) no 2º turno",
+      "resumo": "Flávio Bolsonaro (PL) foi o candidato a presidente mais votado em Pau Darco (PA), com 3.697 votos. Lula (PT) foi o segundo mais votado, com 2.527 votos. Os dados foram divulgados pelo Tribunal Superio",
+      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/26/emef-marajoara-59a-zona-eleitoral-resultado-da-votacao-em-pau-darco-pa-no-2o-turno.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "Unidade Escolar Nossa Senhora da Penha, 75ª zona eleitoral: resultado da votação em Riachão (MA) no 2º turno",
-      "resumo": "Lula (PT) foi o candidato a presidente mais votado em Riachão (MA), com 9.130 votos. Flávio Bolsonaro (PL) foi o segundo mais votado, com 4.343 votos. Os dados foram divulgados pelo Tribunal Superior ",
-      "link": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/25/unidade-escolar-nossa-senhora-da-penha-75a-zona-eleitoral-resultado-da-votacao-em-riachao-ma-no-2o-turno.ghtml",
+      "titulo": "EMFM Progresso, 49ª zona eleitoral: resultado da votação em Mãe do Rio (PA) no 2º turno",
+      "resumo": "Lula (PT) foi o candidato a presidente mais votado em Mãe do Rio (PA), com 10.743 votos. Flávio Bolsonaro (PL) foi o segundo mais votado, com 9.428 votos. Os dados foram divulgados pelo Tribunal Super",
+      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/26/emfm-progresso-49a-zona-eleitoral-resultado-da-votacao-em-mae-do-rio-pa-no-2o-turno.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "Itaiçaba (CE): resultado do local de votação por zonas eleitorais no 2º turno",
-      "resumo": "Itaiçaba (CE) tem 1 zona eleitoral. O g1 publicou reportagens com a votação para presidente em cada local de votação da cidade, no 2º turno das Eleições 2026, com os números de cada seção eleitoral. O",
-      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/25/itaicaba-ce-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml",
+      "titulo": "EMEF de Pampolonia (Escola Polo), 35ª zona eleitoral: resultado da votação em Baião (PA) no 2º turno",
+      "resumo": "Lula (PT) foi o candidato a presidente mais votado em Baião (PA), com 15.867 votos. Flávio Bolsonaro (PL) foi o segundo mais votado, com 5.854 votos. Os dados foram divulgados pelo Tribunal Superior E",
+      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/26/emef-de-pampolonia-escola-polo-35a-zona-eleitoral-resultado-da-votacao-em-baiao-pa-no-2o-turno.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "Lula conquista virada inédita e terá quarto mandato como presidente",
+      "titulo": "Lula conquista virada inédita e terá quarto mandato como presidente do Brasil: 'Vamos ter que regular as plataformas digitais'",
       "resumo": "Campanha renasceu após a derrota no primeiro turno, com manifestações nas ruas e ação nas redes sob comando de André Janones (Rede-MG). Petista está diante da conjuntura mais difícil desde 2003, com C",
       "link": "https://www.bbc.com/portuguese/articles/cx8dzrgq569go?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
       "categoria": "Geral",
-      "titulo": "Eleições 2026 ao vivo: Decisão de prorrogar votação não alterou resultado, diz Nunes Marques, do TSE; siga",
-      "resumo": "Com 96% dos votos apurados, petista venceu disputa contra Flávio Bolsonaro (PL), segundo cálculos da Justiça eleitoral; acompanhe a cobertura completa. BBC News Brasil faz transmissão ao vivo com apur",
+      "titulo": "Lula é reeleito presidente, e Flávio diz que vai pedir anulação das eleições; siga",
+      "resumo": "Com 100% dos votos apurados, petista venceu disputa contra Flávio Bolsonaro (PL) por 4,4 milhões de votos; acompanhe a cobertura completa.",
       "link": "https://www.bbc.co.uk/portuguese/live/c6vg0rrxzx13t?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Os argumentos de Flávio para pedir anulação da eleição — e o que dizem especialistas",
+      "resumo": "Advogados de Flávio teriam de provar que a quantidade de votos depositada após prorrogação faria diferença no resultado final",
+      "link": "https://www.bbc.com/portuguese/articles/crkg7ywjj8l0o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Os números que mostram de onde vieram os 10 milhões de votos que deram virada histórica a Lula",
+      "resumo": "Vitória do petista combinou uma virada em Minas Gerais, a redução de desvantagens em grandes colégios eleitorais do Sudeste e o reforço da liderança no Nordeste.",
+      "link": "https://www.bbc.com/portuguese/articles/cqe8rekpg9lxo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Lula conquista a 1ª vitória da esquerda na América Latina desde que Trump voltou ao poder; veja mapa",
+      "resumo": "A vitória de Lula é primeira eleição presidencial vencida pela esquerda na região desde que Trump voltou à Casa Branca em 2025: na Colômbia, no Peru, na Costa Rica, em Honduras, no Chile, na Bolívia e",
+      "link": "https://www.bbc.com/portuguese/articles/ck5ynlp6qq57o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Por que o STF ordenou prorrogar votação por duas horas - e o que dizem os juristas sobre medida",
+      "resumo": "O ministro Cristiano Zanin atendeu a um pedido da campanha de Lula, que apontou falhas no transporte público de cidades na Bahia; a campanha de Flávio Bolsonaro também pediu prorrogação da votação em ",
+      "link": "https://www.bbc.com/portuguese/articles/c64g13y5k303o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
@@ -94,16 +122,9 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Lula aos 80 anos: a 'última dança' do presidente com virada histórica e vitória para quarto mandato",
-      "resumo": "Ex-metalúrgico e presidente por três mandatos, Lula conquista virada histórica para mais quatro anos no Palácio do Planalto.",
-      "link": "https://www.bbc.com/portuguese/articles/cx240l916lneo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "BBC News Brasil faz transmissão AO VIVO para você acompanhar apuração e resultados do 2º turno",
-      "resumo": "No domingo, dia da eleição, a cobertura em tempo real — na página da BBC News Brasil — acompanha a abertura das urnas, o clima da votação e os principais acontecimentos do dia.",
-      "link": "https://www.bbc.com/portuguese/articles/cwrkyjpv5p7no?at_medium=RSS&at_campaign=rss",
+      "titulo": "Abstenção tem a maior queda entre turnos desde a redemocratização",
+      "resumo": "Em termos percentuais, a abstenção deste segundo turno era a menor desde 2006, quando foi de 18,99%, com 99,91% das urnas apuradas.",
+      "link": "https://www.bbc.com/portuguese/articles/cmq8n4pn08p4o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
@@ -115,30 +136,9 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Eleição ainda pode ser anulada? Analistas apontam infração, mas diferença de votos enfraquece possibilidade",
-      "resumo": "Extensão do horário de votação causou confusão no domingo do 2º turno, mas especialistas entendem que margem de vitória do presidente Lula reduz chances de questionamentos prosperarem",
+      "titulo": "Chances de anulação ou 'terceiro turno' a pedido de Flávio são remotas, veem especialistas",
+      "resumo": "Flávio Bolsonaro disse ser 'impossível reconhecer' vitória de Lula; extensão do horário de votação causou confusão no domingo do 2º turno, mas especialistas entendem que margem de vitória mais ampla r",
       "link": "https://www.bbc.com/portuguese/articles/cqdjvnppkdnyo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Abstenção tem a maior queda entre turnos desde a redemocratização",
-      "resumo": "Em termos percentuais, a abstenção deste segundo turno era a menor desde 2006, quando foi de 18,99%, com 99,91% das urnas apuradas.",
-      "link": "https://www.bbc.com/portuguese/articles/cmq8n4pn08p4o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "'Só consegui votar com carona': eleitores esperam horas por transporte público e recorrem a redes sociais e até 40 km de bicicleta para chegar às urnas",
-      "resumo": "Taynan Carvalho de Sá, de Salvador, só conseguiu carona no final do dia, mas encontrou sua seção eleitoral fechada, apesar da prorrogação nacional.",
-      "link": "https://www.bbc.com/portuguese/articles/cmly0zplj298o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Celina é reeleita governadora do DF e Aziz vence no Amazonas; quem são os governadores eleitos no 2º turno",
-      "resumo": "Neste domingo (25/10), eleitores de cinco Estados e do Distrito Federal elegeram seus governadores no segundo turno das eleições.",
-      "link": "https://www.bbc.com/portuguese/articles/c9m2641r5rezo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
