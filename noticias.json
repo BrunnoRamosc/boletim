@@ -1,74 +1,74 @@
 {
-  "atualizadoEm": "2026-11-07T09:53:30.115989",
+  "atualizadoEm": "2026-11-07T16:04:45.408981",
   "itens": [
     {
       "categoria": "Geral",
-      "titulo": "Assista ao Bom Dia Sábado",
-      "resumo": "Assista ao Bom Dia Sábado",
+      "titulo": "Assista ao Gazeta Meio Dia",
+      "resumo": "Assista ao Gazeta Meio Dia  Fique bem informado com o seu jornal da hora do almoço.",
+      "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-gazeta-meio-dia.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Assista ao EPTV1",
+      "resumo": "Assista ao EPTV1 Transmissão encerrada.",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv1.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Assista ao Gazeta Meio Dia - edição regional",
+      "resumo": "Assista ao Gazeta Meio Dia - edição regional Fique bem informado com o seu jornal da hora do almoço.",
+      "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-ao-gazeta-meio-dia-edicao-regional.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Assista ao JAP2 deste sábado (7)",
+      "resumo": "Assista ao JAP2 deste sábado (7)  O g1 transmite ao vivo, diariamente, os telejornais Bom Dia Amapá (7h), JAP1 (11h45) e JAP2 (19h05).",
+      "link": "https://g1.globo.com/ap/ao-vivo/assista-ao-bom-dia-amapa-desta-quinta-5.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Assista aos telejornais da TV Liberal",
+      "resumo": "Assista aos telejornais da TV Liberal g1 transmite os telejornais Jornal Liberal 1ª e 2ª Edição.",
+      "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Assista aos telejornais da TV Bahia",
+      "resumo": "Assista aos telejornais da TV Bahia",
       "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "Em prisão domiciliar, Peña é transferido para instalação militar durante a madrugada, diz jornal",
-      "resumo": "Santiago Peña, presidente do Paraguai desde 2023 que renunciou ao cargo em 5 de novembro de 2026.\nREUTERS/Cesar Olmedo/File Photo\nO ex-presidente do Paraguai Santiago Peña foi transferido para uma pri",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/07/pena-transferido-para-instalacao-militar-prisao-domiciliar.ghtml",
+      "titulo": "Juiz de Fora e região permanecem em alerta para chuva; frente fria deve amenizar calor",
+      "resumo": "Juiz de Fora deverá ter mais chuva no fim de semana\nJuliana Netto/g1\nApós temporal de 76 milímetros em alguns bairros de Juiz de Fora na quinta-feira (5), o fim de semana deve continuar com chuva na c",
+      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/07/juiz-de-fora-e-regiao-permanecem-em-alerta-para-chuva-frente-fria-deve-amenizar-calor.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "Homem com deficiência visual cai de janela de prédio ao ir ao banheiro de madrugada no litoral de SP",
-      "resumo": "Homem caiu de 4º andar de prédio em Guarujá (SP)\ng1 Santos\nUm homem de 68 anos caiu da janela do quarto andar de um prédio em Guarujá, no litoral de São Paulo. Conforme apurado pelo g1, a vítima é uma",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/07/homem-com-deficiencia-visual-cai-de-janela-de-predio-ao-ir-ao-banheiro-de-madrugada-no-litoral-de-sp.ghtml",
+      "titulo": "Posto de combustíveis pega fogo no Paraná; testemunha relata que incêndio começou após raio atingir estabelecimento",
+      "resumo": "Posto de combustíveis pega fogo no Paraná; testemunha relata que incêndio começou após raio atingir estabelecimento\nUm posto de combustíveis pegou fogo na manhã deste sábado (7) em Guaratuba, no litor",
+      "link": "https://g1.globo.com/pr/parana/noticia/2026/11/07/posto-de-combustiveis-pega-fogo-no-parana-testemunha-raio.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "Falsa biomédica é indiciada por realizar procedimentos estéticos invasivos ilegalmente",
-      "resumo": "Falsa biomédica é indiciada por realizar procedimentos estéticos invasivos\nUma falsa biomédica foi indiciada pela Polícia Civil por exercício ilegal da profissão. Segundo apurado pelo g1 junto à corpo",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/07/falsa-biomedica-e-indiciada-por-realizar-procedimentos-esteticos-invasivos-ilegalmente.ghtml",
+      "titulo": "Jogador Bismarck é sepultado em Natal após ser morto a tiros",
+      "resumo": "Jogador Bismarck é morto a tiros em Natal\nO jogador de futebol Bismarck Vinicyus Freire do Nascimento foi sepultado na manhã deste sábado (7), no Cemitério Público do Alecrim, em Natal. O atleta, de 3",
+      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/07/jogador-bismarck-e-sepultado-em-natal-apos-ser-morto-a-tiros.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "Vídeo mostra menino de 4 anos pedindo ajuda a porteiro após mãe ser morta no litoral de SP",
-      "resumo": "Vídeo mostra menino de 4 anos pedindo ajuda a porteiro após mãe ser morta no litoral de S\nCâmeras de monitoramento registraram o momento em que o filho de 4 anos da mulher que foi morta pelo companhei",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/07/video-mostra-menino-de-4-anos-pedindo-ajuda-a-porteiro-apos-mae-ser-morta-no-litoral-de-sp.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Artesã autodidata produz tapete em 3 minutos e fatura até R$ 600 em feiras e eventos",
-      "resumo": "Artesã autodidata aprendeu a fazer tapetes em casa e hoje expõe em feiras e eventos\nA artesã Rosimeire da Silva, de 57 anos, aprendeu sozinha a fazer tapetes e pesos de porta, movida pela curiosidade ",
-      "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/07/artesa-autodidata-produz-tapete-em-3-minutos-e-fatura-ate-r-600-em-feiras-e-eventos.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "5 dicas para aproveitar o fim de ano em Atibaia",
-      "resumo": "O fim do ano é um convite para desacelerar, reunir a família e aproveitar momentos de lazer. E Atibaia, no interior de São Paulo, reúne diferentes atrações para quem deseja transformar os últimos mese",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/atibaia-e-regiao-convention-e-visitors-bureau/turismo-atibaia-e-regiao/noticia/2026/11/07/5-dicas-para-aproveitar-o-fim-de-ano-em-atibaia.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Experiência de 'videogame' simula transporte de cargas sob chuva e vento forte para agilizar preparo de operadores em porto de SC",
-      "resumo": "Funcionário de porto treina operação de guindaste em simulador\nJoysticks e volantes reais, além de uma cadeira que se mexe em reação ao real balanço de guindastes, empilhadeiras e carretas. Novos func",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/07/experiencia-videogame-simula-transporte-cargas-porto-navegantes.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Robôs, inteligência artificial e pintura de capacetes de Ayrton Senna são destaques de congresso em Búzios",
-      "resumo": "O evento que terá a participação do artista e designer Alan Mosca, filho de Sid Mosca, responsável pela criação da pintura do icônico capacete amarelo de Ayrton Senna.\nDivulgação/Sid Special Paint\nRob",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/07/robos-inteligencia-artificial-e-pintura-de-capacetes-de-ayrton-senna-sao-destaques-de-congresso-em-buzios.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Alunos de escola pública na periferia de cidade cearense ganham medalhas de ouro e prata em olimpíada de foguetes",
-      "resumo": "Alunos de escola pública no CE conquistam ouro e prata em Olimpíada Brasileira de Foguetes\nSeis alunos de uma escola pública na periferia de Caucaia, Região Metropolitana de Fortaleza, conquistaram me",
-      "link": "https://g1.globo.com/ce/ceara/educacao/noticia/2026/11/07/alunos-de-escola-publica-na-periferia-de-cidade-cearense-ganham-medalhas-de-ouro-e-prata-em-olimpiada-de-foguetes.ghtml",
+      "titulo": "Defesa Civil monitora risco de erosão em cemitério de cidade do Acre; cratera se aproxima de muro",
+      "resumo": "Município de Rodrigues Alves registra outros pontos de desbarrancamento\nDefesa Civil\nAutoridades de Rodrigues Alves, no interior do Acre, monitoram o avanço de erosão no solo próximo ao Cemitério Muni",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/11/07/defesa-civil-monitora-risco-de-erosao-em-cemiterio-de-cidade-do-acre-cratera-se-aproxima-de-muro.ghtml",
       "fonte": "G1"
     },
     {
@@ -80,16 +80,44 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Santiago Peña é preso em casa após sofrer impeachment no Paraguai",
-      "resumo": "Senado aprovou impeachment de Santiago Peña por unanimidade. Logo em seguida, de acordo com jornal, Ministério Público do país emitiu uma ordem de prisão contra o político, que foi detido em casa.",
-      "link": "https://www.bbc.com/portuguese/articles/c5x2vvxw8m04o?at_medium=RSS&at_campaign=rss",
+      "titulo": "Ueno Bank: escândalo que levou à queda do presidente do Paraguai pode ser comparado ao do Banco Master?",
+      "resumo": "Crescimento rápido, exposição relevante de recursos públicos e relações próximas com o mundo político estão entre as semelhanças dos dois casos. Mas analistas apontam diferenças relevantes",
+      "link": "https://www.bbc.com/portuguese/articles/c6eq33z529jwo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
       "categoria": "Geral",
-      "titulo": "'Meu medo é o governo Lula buscar atalhos e brigar com o mercado': por que professor de Cambridge defende ajuste fiscal 'suave'",
-      "resumo": "Economista Tiago Cavalcanti, brasileiro professor da Universidade de Cambridge, critica a proposta de rápida redução da taxa de juros apresentada por André Lara Resende.",
-      "link": "https://www.bbc.com/portuguese/articles/cqglww4xw40do?at_medium=RSS&at_campaign=rss",
+      "titulo": "Atirador deixa 5 mortos e mais de 10 feridos em praça no centro da Cracóvia, na Polônia; o que se sabe",
+      "resumo": "O agressor foi baleado pela polícia e está sendo levado para o hospital, segundo as autoridades.",
+      "link": "https://www.bbc.com/portuguese/articles/cm5yn1gyv07no?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Quem é Pedro Alliana, o novo presidente do Paraguai com quem o poderoso Partido Colorado tenta se  recuperar",
+      "resumo": "Pedro Alliana tomou posse nesta sexta-feira como o novo presidente do Paraguai, após o processo de impeachment conduzido pelo Congresso que destituiu Santiago Peña do cargo.",
+      "link": "https://www.bbc.com/portuguese/articles/ck87zz7rwqz5o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "A escritora brasileira que virou sensação com romance sobre os neandertais: 'Já tive empregos horríveis, estar no meu quarto escrevendo é libertador'",
+      "resumo": "Escritora de Brasília (DF) lançou neste ano \"Os Imortais\", livro sobre um grupo de neandertais e seu encontro com os homo sapiens e a luta pela sobrevivência que se tornou um dos destaques de 2026 e t",
+      "link": "https://www.bbc.com/portuguese/articles/cwm24k534kr4o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "A nomeação de assessor para cargo na Casa Branca que indica endurecimento de Trump após eleição",
+      "resumo": "A promoção de Jason Miller, um partidário leal e influente, para o cargo de chefe de gabinete pelo presidente dos EUA, provavelmente criará conflitos com o Congresso.",
+      "link": "https://www.bbc.com/portuguese/articles/cqrmyymgjexvo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Santiago Peña é preso em casa após sofrer impeachment no Paraguai",
+      "resumo": "Senado aprovou impeachment de Santiago Peña por unanimidade. Logo em seguida, de acordo com jornal, Ministério Público do país emitiu uma ordem de prisão contra o político, que foi detido em casa.",
+      "link": "https://www.bbc.com/portuguese/articles/c5x2vvxw8m04o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
@@ -108,37 +136,9 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "'Não falei com Lula nem tenho nada marcado. Isso foi plantado para queimar alguém que defendeu a proposta', diz economista André Lara Resende",
-      "resumo": "Economista que presidiu o BNDES e fez parte da diretoria do Banco Central propôs criação de conselho que reduziria taxa Selic a longo prazo; proposta mobilizou mercado financeiro e discussão em Brasíl",
-      "link": "https://www.bbc.com/portuguese/articles/cmly0jeq2q9no?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Papa no Uruguai, Argentina e Peru: como a Igreja Católica tem se posicionado na América Latina?",
-      "resumo": "O papa Leão 14º volta a pisar em solo latino-americano nesta sexta-feira (6/11), três anos depois de deixar o Peru e se transferir para Roma. E ele encontrará uma região bastante diferente, do ponta d",
-      "link": "https://www.bbc.com/portuguese/articles/cv0ldd4dj27po?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Como cultura machista dos anos 2000 que 'embalou' Russell Brand, agora condenado por estupro",
-      "resumo": "O comportamento que serviu de pano de fundo para o processo contra Brand também ajudou a projetá-lo, escreve Katie Razzall, editora de mídia da BBC.",
-      "link": "https://www.bbc.com/portuguese/articles/c63ell03l5wgo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Pai de Meghan Markle é preso sob suspeita de posse de material de abuso sexual infantil",
-      "resumo": "Ele foi detido na Flórida, nos Estados Unidos. Ainda não está claro se a duquesa de Sussex foi informada sobre a prisão.",
-      "link": "https://www.bbc.com/portuguese/articles/c34g11eerrpno?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "O erro mais comum na redação do Enem e como evitar que ele derrube sua nota",
-      "resumo": "Primeiro, lembre-se de que a redação tem que ter começo, meio e fim, interconectados entre si — em outras palavras, uma introdução que apresente uma tese bem elaborada.",
-      "link": "https://www.bbc.com/portuguese/articles/c639887442yyo?at_medium=RSS&at_campaign=rss",
+      "titulo": "'Meu medo é o governo Lula buscar atalhos e brigar com o mercado': por que professor de Cambridge defende ajuste fiscal 'suave'",
+      "resumo": "Economista Tiago Cavalcanti, brasileiro professor da Universidade de Cambridge, critica a proposta de rápida redução da taxa de juros apresentada por André Lara Resende.",
+      "link": "https://www.bbc.com/portuguese/articles/cqglww4xw40do?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
