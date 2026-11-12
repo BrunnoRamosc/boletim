@@ -1,6 +1,27 @@
 {
-  "atualizadoEm": "2026-11-12T16:09:52.903744",
+  "atualizadoEm": "2026-11-12T22:22:08.874666",
   "itens": [
+    {
+      "categoria": "Geral",
+      "titulo": "Homem morre e duas pessoas ficam feridas após laje de imóvel desabar em Cariacica",
+      "resumo": "Parte de imóvel desaba e deixa uma pessoa morta e dois feridos em Cariacica, Espírito Santo\nReprodução\nUm homem morreu e duas pessoas ficaram feridas após a laje de um imóvel desabar no bairro São Fra",
+      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/12/homem-morre-e-duas-pessoas-ficam-feridas-apos-laje-de-imovel-desabar-em-cariacica.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Mulher salta de carro em movimento para escapar de agressões do marido em Nova Odessa",
+      "resumo": "Mulher saltou de carro em movimento para escapar de agressões do marido em Nova Odessa\nGuarda Civil Municipal\nUma mulher saltou de um carro em movimento para fugir de agressões e ameaças de morte do m",
+      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/12/mulher-salta-de-carro-em-movimento-para-escapar-de-agressoes-do-marido-em-nova-odessa.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Plano de saúde de 30 mil servidores da Educação é suspenso por dívida de R$ 30 milhões no AM",
+      "resumo": "Secretaria de Estado de Educação e Qualidade de Ensino (Seduc), na Zona Sul de Manaus\nRickardo Marques\nO plano de saúde dos servidores da Secretaria de Estado de Educação e Desporto do Amazonas (Seduc",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/12/plano-de-saude-de-30-mil-servidores-da-educacao-e-suspenso-por-divida-de-r-30-milhoes-no-am.ghtml",
+      "fonte": "G1"
+    },
     {
       "categoria": "Geral",
       "titulo": "Assista aos telejornais da TV Liberal",
@@ -10,72 +31,65 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "BRB: Justiça bloqueia imóveis e restringe transferência de veículos de ex-gestores",
-      "resumo": "BRB entra na Justiça contra 7 ex-gestores\nA Justiça do Distrito Federal determinou, nesta quinta-feira (12), o bloqueio de imóveis e restrição de transferência de veículos de ex-gestores do Banco de B",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/12/brb-justica-imoveis-veiculos-de-ex-gestores-decisao.ghtml",
+      "titulo": "Homem morre e outros dois ficam feridos após ataque a facadas em clínica de reabilitação na Bahia",
+      "resumo": "Vítima foi identificada como Jeandson da Silva Santos, de 25 anos\nReprodução/Redes Sociais\nUm homem de 25 anos morreu e outros dois ficaram feridos após serem atacados a facadas dentro de uma clínica ",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/12/ataque-a-facadas-na-bahia.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "VÍDEOS: NE1 de quinta-feira, 12 de novembro de 2026",
-      "resumo": "Assista aos vídeos do telejornal com as notícias de Pernambuco.",
-      "link": "https://g1.globo.com/pe/pernambuco/videos-ne1/playlist/videos-ne1-de-quinta-feira-12-de-novembro-de-2026.ghtml",
+      "titulo": "Chuva causa estragos na Grande SP e complica volta para casa nesta quinta; acompanhe",
+      "resumo": "Chuva causa estragos na Grande SP e complica volta para casa nesta quinta; acompanhe Foram registrados ao menos cinco pontos de inundação e enchente na Região Metropolitana, distribuídos entre os muni",
+      "link": "https://g1.globo.com/sp/sao-paulo/ao-vivo/chuva-provoca-estragos-em-sp-nesta-quinta.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "PM persegue caminhão e resgata vítima mantida refém durante roubo de carga no litoral de SP",
-      "resumo": "PM liberta caminhoneiro refém e prende suspeito de roubo de carga em São Vicente\nUm caminhoneiro foi feito refém por dois criminosos durante uma tentativa de assalto em Praia Grande, no litoral de São",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/12/pm-persegue-caminhao-e-resgata-vitima-mantida-refem-durante-roubo-de-carga-no-litoral-de-sp.ghtml",
+      "titulo": "Assista ao JRO2 desta quinta-feira, 12",
+      "resumo": "Assista ao JRO2 desta quinta-feira, 12",
+      "link": "https://g1.globo.com/ro/rondonia/ao-vivo/assista-ao-jro2-desta-quinta-feira-12.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "No Peru, Leão XIV pede reparação a vítimas de abusos sexuais na Igreja",
-      "resumo": "O papa Leão XIV pediu, nesta quinta-feira (12), a \"reparação\" diante dos \"abusos\" cometidos na Igreja Católica.\nA fala acontece em meio ao segundo dia da visita do pontífice ao Peru, em que ativistas ",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/12/peru-leao-abusos-igreja.ghtml",
+      "titulo": "Tamanduá-mirim é resgatado em residência em Quatis",
+      "resumo": "Tamanduá-mirim é resgatado em residência em Quatis\nDivulgação/Prefeitura de Quatis\nUm tamanduá-mirim foi resgatado pelo Grupamento Ambiental em uma residência no bairro Jardim Independência, em Quatis",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/12/tamandua-mirim-e-resgatado-em-residencia-em-quatis.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "Após nova falha em trem, Tarcísio pede reunião com a ViaMobilidade e não descarta extinção do contrato: 'A gente não pode admitir isso'",
-      "resumo": "Passageiros andam nos trilhos após falha na Linha 8-Diamante\nO governador de São Paulo, Tarcísio de Freitas (Republicanos), afirmou nesta quinta-feira (12) que pediu uma reunião com o conselho da ViaM",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/12/apos-nova-falha-em-trem-tarcisio-pede-reuniao-com-a-viamobilidade-e-nao-descarta-extincao-do-contrato-a-gente-nao-pode-admitir-isso.ghtml",
+      "titulo": "Rio Branco aprova instalação de ecobarreiras para conter lixo em rios e igarapés",
+      "resumo": "Câmara de Vereadores de Rio Branco\nJúnior Andrade/Rede Amazônica Acre\nOs vereadores de Rio Branco aprovaram por unanimidade, nessa terça-feira (10), o Projeto de Lei que obriga a instalação de Sistema",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/11/12/rio-branco-aprova-instalacao-de-ecobarreiras-para-conter-lixo-em-rios-e-igarapes.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "Pastor suspeito de estuprar fiéis alegou que estava preparando mulher para o casamento, diz vítima",
-      "resumo": "Seis mulheres conseguem medidas protetivas contra pastor investigado por abusos em Goiânia\nUma das seis fiéis que denunciaram ter sido vítimas de abuso sexual por parte do pastor Pablo Junio Godoi de ",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/11/12/pastor-suspeito-de-estuprar-fieis-alegou-que-estava-preparando-mulher-para-o-casamento-diz-vitima.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Dakila Pesquisas apresenta o Multigerador Quântico em site próprio",
-      "resumo": "Dakila Pesquisas apresenta o Multigerador Quântico em site próprio\nCrédito: Divulgação\nO Multigerador de Energia Quântica, projeto do Ecossistema Dakila, tem um site próprio: https://multigeradorquant",
-      "link": "https://g1.globo.com/mg/sul-de-minas/especial-publicitario/dakila-ecossistema-dakila-pessoas-e-conexoes/noticia/2026/11/12/dakila-pesquisas-apresenta-o-multigerador-quantico-em-site-proprio.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Assista aos telejornais da TV Subaé",
-      "resumo": "Assista aos telejornais da TV Subaé",
-      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
-      "fonte": "G1"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Assista aos telejornais da TV Bahia",
-      "resumo": "Assista aos telejornais da TV Bahia",
+      "titulo": "Assista ao BATV",
+      "resumo": "Assista ao BATV",
       "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
       "fonte": "G1"
     },
     {
       "categoria": "Geral",
-      "titulo": "Jensen Huang, CEO da Nvidia, renuncia após caso com suposta espiã chinesa",
-      "resumo": "Colette Kress, vice-presidente executiva e diretora financeira da empresa, concordou em assumir o cargo de CEO interina. Jornal americano denunciou que Huang teve um segundo caso com uma executiva da ",
-      "link": "https://www.bbc.com/portuguese/articles/cx1l053gmq5zo?at_medium=RSS&at_campaign=rss",
+      "titulo": "Mostrar na novela um Nordeste do atraso e a Faria Lima pulsante é vender que só um Brasil 'dá certo', diz pesquisador",
+      "resumo": "Novela 'Lá na Minha Terra' tem sido criticada por associar Nordeste ao sertão seco e pobre. Autor diz que o folhetim reforça estereótipos e argumenta que os efeitos dessa representação são práticos na",
+      "link": "https://www.bbc.com/portuguese/articles/c6grey09e9n1o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "O que se sabe de falha na Microsoft que deixou fora do ar Outlook e afetou Teams, Microsoft 365 e outras plataformas",
+      "resumo": "Empresa informou que registra falhas em seus servidores, após relatos de perda de conexão com serviços como Outlook, Microsoft 365 e Teams em nível mundial.",
+      "link": "https://www.bbc.com/portuguese/articles/c6wy49w32epwo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Meta exibe mais de 700 anúncios de bets proibidas, revela levantamento da BBC",
+      "resumo": "Relatório interno do governo obtido pela reportagem já apontava publicidade irregular nas plataformas da empresa; BBC identificou novas peças após a proibição.",
+      "link": "https://www.bbc.com/portuguese/articles/cw4gnvzzdjr7o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
@@ -87,6 +101,34 @@
     },
     {
       "categoria": "Geral",
+      "titulo": "Mãe de menino brasileiro que teve dedo mutilado em Portugal contesta resultado de investigação: 'É como se a vida do meu filho não valesse de nada'",
+      "resumo": "Família contesta conclusão de investigação oficial que descartou bullying e classificou o caso como acidente e aguarda desfecho de processos judiciais.",
+      "link": "https://www.bbc.com/portuguese/articles/ck0jxpxl6q24o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "Jensen Huang: como CEO da Nvidia foi de 'rock star' da IA à saída dramática",
+      "resumo": "Em poucos dias, o prestígio de Huang como uma figura aparentemente intocável à frente da corrida global pela inteligência artificial desmoronou.",
+      "link": "https://www.bbc.com/portuguese/articles/cqvg2ll5xgx2o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "As acusações de 'festas sexuais em troca de contratos' que levaram à investigação do ex-presidente colombiano Gustavo Petro",
+      "resumo": "Uma mulher acusa o ex-presidente Gustavo Petro de ter fornecido contratos com o Estado colombiano em troca de favores sexuais.",
+      "link": "https://www.bbc.com/portuguese/articles/cm174ll0nvj9o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
+      "titulo": "CEO da Nvidia renuncia após caso com suposta espiã chinesa: quem assumirá o comando da empresa?",
+      "resumo": "Jensen Huang deixou o cargo nesta quinta-feira (12/11) após vir à tona que ele teria um segundo relacionamento com uma funcionária da empresa. Valor de mercado da companhia despencou desde o início da",
+      "link": "https://www.bbc.com/portuguese/articles/cx1l053gmq5zo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil"
+    },
+    {
+      "categoria": "Geral",
       "titulo": "'Há uma guerra entre dois lados no Vaticano em que o abuso sexual se tornou uma arma', diz autor de livro sobre o papa",
       "resumo": "O jornalista Santiago Roncagliolo descreve o papa Leão 14 como um religioso preocupado com seus fiéis, mas também como um investigador perspicaz e implacável de abusos.",
       "link": "https://www.bbc.com/portuguese/articles/cvkg5jklzxr5o?at_medium=RSS&at_campaign=rss",
@@ -94,51 +136,9 @@
     },
     {
       "categoria": "Geral",
-      "titulo": "Golpe ou revolução? Descobrimento ou conquista? Existe certo ou errado para a História?",
-      "resumo": "Fatos do passado até hoje geram polêmica pela forma como são chamados, como mostra episódio recente envolvendo um livro alterado por deputados federais.",
-      "link": "https://www.bbc.com/portuguese/articles/cqkgxd2xxe9po?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Mulher em trabalho de parto é colocada em audiência pelo Zoom para decidir sobre cesárea: 'A coisa mais absurda que já vi'",
-      "resumo": "Cherise Gordon-Doyley estava em trabalho de parto havia nove horas em um hospital na Flórida quando, de repente, foi obrigada a participar de uma audiência online com um juiz sobre como daria à luz su",
-      "link": "https://www.bbc.com/portuguese/articles/c8qlq3pe62xpo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "As 'armadilhas' que Lula terá de desarmar na política externa já a partir do ano que vem",
-      "resumo": "Trump mais bélico, posição dividida na rivalidade entre Pequim e Washington, além de uma América do Sul fraturada, são alguns dos desafios geopolíticos do quarto mandato petista",
-      "link": "https://www.bbc.com/portuguese/articles/cvlyd0zjnn4wo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
       "titulo": "Quem vai cuidar dos idosos do Brasil? Por que o envelhecimento acelerado é o 'desafio do século'",
       "resumo": "Com menos nascimentos e uma população cada vez mais velha, o país terá de adaptar Previdência, saúde e mercado de trabalho a uma transformação demográfica sem precedentes.",
       "link": "https://www.bbc.com/portuguese/articles/c60qkxv44pq8o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "A acirrada disputa que levou democrata a se tornar 1º senador negro eleito pelo Mississippi em 140 anos",
-      "resumo": "Promotor é primeiro democrata eleito senador pelo Estado desde 1982.",
-      "link": "https://www.bbc.com/portuguese/articles/cq1k93r1j47vo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "O que colocar na mochila como kit de emergência e por que você deve ter uma — preventivamente",
-      "resumo": "Kits de emergência são importantes e devem ser inseridos na cultura do Brasil, que nunca focou em prevenção, defende especialista.",
-      "link": "https://www.bbc.com/portuguese/articles/cm62p37dgxzzo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil"
-    },
-    {
-      "categoria": "Geral",
-      "titulo": "Qual é o risco de doença grave nos olhos por uso de Ozempic e Mounjaro que gerou alerta de agência dos EUA",
-      "resumo": "O FDA afirma que canetas usadas para perda de peso devem conter informações sobre a condição, conhecida como Naion.",
-      "link": "https://www.bbc.com/portuguese/articles/cwjd7k12v4x5o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Brasil"
     },
     {
